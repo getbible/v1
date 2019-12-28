@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/34/1.json",
+    "sha": "11c1ad9eda5b945a2ceb566dcad9663bb41812d4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/finnish1776/34/2.json",
+    "sha": "56eb24aed4bd5770f098caf4bd285b90d87e032e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/finnish1776/34/3.json",
+    "sha": "375553b254ddb00b59ca9768796f87a82d0ec05a",
+    "id": "3"
+  }
+}

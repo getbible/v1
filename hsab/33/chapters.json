@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/33/1.json",
+    "sha": "947898d1a2a9dfafe4e85205549cd4a930e7cf79",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/hsab/33/2.json",
+    "sha": "911f79f77f3b98cd1e485c39036a9cf9ffafdede",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/hsab/33/3.json",
+    "sha": "68f421ec94268b9cc4838c074ce2cdaaf5b9b23e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/hsab/33/4.json",
+    "sha": "01f892584c3c4896e3bb617008f13d68e65a70eb",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/hsab/33/5.json",
+    "sha": "af5488f844f734edf47b1b13e76e8a90ce76324a",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/hsab/33/6.json",
+    "sha": "61bdd8aaf91fcef71b36fc80a69213bcc286a8d1",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/hsab/33/7.json",
+    "sha": "59cabed4824aca32ab943a8335d15d8de0160ea3",
+    "id": "7"
+  }
+}

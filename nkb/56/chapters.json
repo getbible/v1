@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/nkb/56/1.json",
+    "sha": "cbbf97429253e4ff5ca1da0d718ec79df86059e6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/nkb/56/2.json",
+    "sha": "de2decd5277fc54d8432f37ae0e8083f20af8c20",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/nkb/56/3.json",
+    "sha": "f02f70f89e7d725478154425963c55896ad18150",
+    "id": "3"
+  }
+}

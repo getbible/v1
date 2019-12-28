@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sahidic/57/1.json",
+    "sha": "1a71b5418a83053dd49f47dd5ddaac12efa6cd3f",
+    "id": "1"
+  }
+}

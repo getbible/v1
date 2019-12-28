@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/karoli/56/1.json",
+    "sha": "3b975ac27bd10db4f645c9eb2b8c450f545c900d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/karoli/56/2.json",
+    "sha": "9353c6d1ab2e85e23a65451c93bde78426a53881",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/karoli/56/3.json",
+    "sha": "623f17b6c2e860d24507eeb2f38519f53c7c736a",
+    "id": "3"
+  }
+}

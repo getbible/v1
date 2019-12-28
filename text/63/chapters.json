@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/text/63/1.json",
+    "sha": "2dd622a894ded4bbac072766b2b20ff9fba1fcc8",
+    "id": "1"
+  }
+}

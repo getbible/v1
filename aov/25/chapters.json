@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Klaagliedere",
+    "book_nr": "25",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/25/1.json",
+    "sha": "2f3dee497b681d2f38859f49875da5c63b7546a8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Klaagliedere",
+    "book_nr": "25",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/25/2.json",
+    "sha": "9054d5578556728ec0a0d77bd274f7b9c5f4cb42",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Klaagliedere",
+    "book_nr": "25",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/25/3.json",
+    "sha": "1a9a4d28842065e30a07af34b57f6a378dec026d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Klaagliedere",
+    "book_nr": "25",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/25/4.json",
+    "sha": "c61ac11fd1b9709d24126d1dc2aae26b611fc562",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Klaagliedere",
+    "book_nr": "25",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/25/5.json",
+    "sha": "19fa7c6aa7127c23a8a20a936d70b26db909003f",
+    "id": "5"
+  }
+}

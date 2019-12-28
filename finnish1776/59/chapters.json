@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/59/1.json",
+    "sha": "73ea4c88c78b6a4608620c7fa70c760e474fd9fd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/finnish1776/59/2.json",
+    "sha": "7d6e0ae0ea8a2bd6a29cbaebaafc1c3b0f775165",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/finnish1776/59/3.json",
+    "sha": "97280d0c24b9078c26536eba2da782561659388c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/finnish1776/59/4.json",
+    "sha": "73757081db8f9f851003a537b87422b67fa52217",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/finnish1776/59/5.json",
+    "sha": "eeb7e8e5fb0c95569ae6cc332b8e8d27c62f52bc",
+    "id": "5"
+  }
+}

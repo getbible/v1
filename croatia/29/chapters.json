@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/croatia/29/1.json",
+    "sha": "2409699c69a563c8c4c117933abe2e7aca741a6e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/croatia/29/2.json",
+    "sha": "59aba5cf3d584cc6ea585e77b1b9739a83d66862",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/croatia/29/3.json",
+    "sha": "8ac0c8513833f134d4ea1c48788420f1f0f503fe",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/croatia/29/4.json",
+    "sha": "3c9f0bc22d7ab60e924d973345a9143f2b62d5f7",
+    "id": "4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/giovanni/62/1.json",
+    "sha": "83570a99e8def957c309a8858fe59f21661d2f6e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/giovanni/62/2.json",
+    "sha": "2abeb6d5f8797e5dd1761291ec5924ab45b4e444",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/giovanni/62/3.json",
+    "sha": "170a4dc75e33a260675419995ff47ee1db2983ed",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/giovanni/62/4.json",
+    "sha": "983220cf54eeb269ed00ed59f8392c20758ccb33",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/giovanni/62/5.json",
+    "sha": "9e6a8939e9cf1269f74697dd9ecc9b9cf38cedf6",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vietnamese/61/1.json",
+    "sha": "da9e77e4a717b442d53594dc0872dd09d8cab96c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vietnamese/61/2.json",
+    "sha": "8270164eb52a5dbd0516ae77682dafd5579edf68",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vietnamese/61/3.json",
+    "sha": "463adcd7321d7ac3e0f570b00788155c114212dc",
+    "id": "3"
+  }
+}

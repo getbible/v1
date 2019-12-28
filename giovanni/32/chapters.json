@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/giovanni/32/1.json",
+    "sha": "88df07ac37cfb73663d339adba0074684f5d4eb8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/giovanni/32/2.json",
+    "sha": "a8e5190e23cbb374c0591d21c295f94115c22756",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/giovanni/32/3.json",
+    "sha": "d73e2f502b28c274baa61733e1ff27fe83fe95ba",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/giovanni/32/4.json",
+    "sha": "85a1d67f6a6357cbe5f747dad904f39db60c2442",
+    "id": "4"
+  }
+}

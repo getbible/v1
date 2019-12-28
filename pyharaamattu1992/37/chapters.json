@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1992/37/1.json",
+    "sha": "f4edcc1554069666ddb1a8c77b1d609efb3a654a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1992/37/2.json",
+    "sha": "12762a4dd38b719a3eaac8d7625dee286edff439",
+    "id": "2"
+  }
+}

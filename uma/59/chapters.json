@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/uma/59/1.json",
+    "sha": "3868f61341aae1e7dfeb9b652d5e6942e5e88289",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/uma/59/2.json",
+    "sha": "e7ddde11ed96d840e6a044f2d078bf8f05384d97",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/uma/59/3.json",
+    "sha": "2ee69dbca251a1835e4bc4dd6475c9ec0defe299",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/uma/59/4.json",
+    "sha": "e48294177a5ecfd77cd4b902142beca9911b3545",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/uma/59/5.json",
+    "sha": "a52bf43b5d9ce87409e0ba394f4a91364d42d2c8",
+    "id": "5"
+  }
+}

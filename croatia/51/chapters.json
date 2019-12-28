@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/croatia/51/1.json",
+    "sha": "bc0043828f19b63573bd05bcbf4f166af9e02e44",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/croatia/51/2.json",
+    "sha": "082d3a57f14f93fccf865d434d18f05d46ad0b87",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/croatia/51/3.json",
+    "sha": "7c79b0d214ed336138be450d41c77904fdb0599e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/croatia/51/4.json",
+    "sha": "af93ab069847c51771ac4a2f7a630e76899aa53c",
+    "id": "4"
+  }
+}

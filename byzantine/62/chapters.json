@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/byzantine/62/1.json",
+    "sha": "35ecc980b0f8749bce408b2ee83d3c596c92415f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/byzantine/62/2.json",
+    "sha": "08c7fbe389e7c2c9de7e24fccedc5802d4f99976",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/byzantine/62/3.json",
+    "sha": "76ddb6db6d1ea7e53cb3511f1cf35d1ac08cb37e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/byzantine/62/4.json",
+    "sha": "1b1189b89c79030ec7bfbfdcc6bd7a4956e9c2b9",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/byzantine/62/5.json",
+    "sha": "e5a650e47b7e3833e5210c4af0e85f37f2717a1c",
+    "id": "5"
+  }
+}

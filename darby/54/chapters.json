@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/54/1.json",
+    "sha": "733abea805cc98445f7082114494208a887a85a8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/54/2.json",
+    "sha": "c05457bcd5f79b1bc6a664e07635c28fa964dd5d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/54/3.json",
+    "sha": "781843de56c23b8ffb597b3313437627ed0392b6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/darby/54/4.json",
+    "sha": "6754e8a48133b4ba8dd0fd5481b1e3bfdee16854",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/darby/54/5.json",
+    "sha": "584ccd4ea49aac6c3164fa2608ece09805a9f9d8",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/darby/54/6.json",
+    "sha": "06e237476416f573d57845cebefa4b5d9fe7bd8c",
+    "id": "6"
+  }
+}

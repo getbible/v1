@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/25/1.json",
+    "sha": "078150e4a57460c4999e5ebdc37e04d941127fcc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/zhuromsky/25/2.json",
+    "sha": "0893f4f6b9f37e906d69b49cec48273fc6ec6a86",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/zhuromsky/25/3.json",
+    "sha": "b851c0fbbfc7da4bf833c6c202ba71e4969cea3e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/zhuromsky/25/4.json",
+    "sha": "6fdd320f3e91d684e9e36825bf6463e4d1b93baa",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/zhuromsky/25/5.json",
+    "sha": "93f2d2af7470f8feb8d1bebefe34611532e3020d",
+    "id": "5"
+  }
+}

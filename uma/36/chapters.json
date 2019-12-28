@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/uma/36/1.json",
+    "sha": "2634f98e81e98b43e54c1f7d75fff9622716f1be",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/uma/36/2.json",
+    "sha": "9e8e6b55a421ae4c741876baa5ae4e15c6a0c927",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/uma/36/3.json",
+    "sha": "0ee72cee3e40170552431afb1c4b06293aefe3bd",
+    "id": "3"
+  }
+}

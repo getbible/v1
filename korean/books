@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Korean	Korean	korean	LTR	Genesis	1	ec9a51247376f4c1a5819df842ef9e5b4d23053f
+2	Korean	Korean	korean	LTR	Exodus	2	67f65aa04a43f6dcb0a36a636b595cbfb80b2582
+3	Korean	Korean	korean	LTR	Leviticus	3	ff05f573856227e8900da877924156b75f56d6be
+4	Korean	Korean	korean	LTR	Numbers	4	32ea7ba112d5c84d4a6bd2a781550d7080accad9
+5	Korean	Korean	korean	LTR	Deuteronomy	5	dddde781871b74bb1ca315a0ec89183c10471e5b
+6	Korean	Korean	korean	LTR	Joshua	6	dac6b3f84905f1e94097dc534b7187b732858201
+7	Korean	Korean	korean	LTR	Judges	7	f500b1233a937659019165f01a2d3377a811d2d0
+8	Korean	Korean	korean	LTR	Ruth	8	5c5024d2e7ebc72d96e3317f6351a49cc4148cfe
+9	Korean	Korean	korean	LTR	1 Samuel	9	f2a01635ad19a821350a57e80cc3f7d67c267ddb
+10	Korean	Korean	korean	LTR	2 Samuel	10	c49c82801b6ebd8b33891f4bddcefe41cab6441c
+11	Korean	Korean	korean	LTR	1 Kings	11	fb544c378d7d43432ea7787554e6292c067233d7
+12	Korean	Korean	korean	LTR	2 Kings	12	6a8580b23311ac955d80dfbc8e0577916a7ecdf2
+13	Korean	Korean	korean	LTR	1 Chronicles	13	a3d64e2998cc578e42b6aa44165d45e8cc2c014f
+14	Korean	Korean	korean	LTR	2 Chronicles	14	f54c33f28db796c72cf79a2106184ca03b8787e4
+15	Korean	Korean	korean	LTR	Ezra	15	2806407cac2535b2dcf33eb7ae2af6168a202fe5
+16	Korean	Korean	korean	LTR	Nehemiah	16	0cb5975bbbf20edcf549ca75f658afc4b6aa5861
+17	Korean	Korean	korean	LTR	Esther	17	e81d46661bbeb9b5f832219dd8a56cf51758fd8b
+18	Korean	Korean	korean	LTR	Job	18	d21e8a751b3fefa9ff62ce7f24c9c9efa116d5f2
+19	Korean	Korean	korean	LTR	Psalms	19	be55e6b69e5c2c8bb9f3bf9b90f5b2d21f805213
+20	Korean	Korean	korean	LTR	Proverbs	20	fb0341c78731b1ecfe0b3f6b7211283e92ed3497
+21	Korean	Korean	korean	LTR	Ecclesiastes	21	d1dcec7175a94fce120a90dd91aa5de800fa00d8
+22	Korean	Korean	korean	LTR	Song of Songs	22	5152bdbba87197ebad48af5558f7d70c52d07d39
+23	Korean	Korean	korean	LTR	Isaiah	23	0151af575405c44a9678a9f6157244c37dd33e4b
+24	Korean	Korean	korean	LTR	Jeremiah	24	88db8238f270b58cc84e3b872515c9176d602907
+25	Korean	Korean	korean	LTR	Lamentations	25	b1cff7174c600fa604aff1b880b8276d9101f85d
+26	Korean	Korean	korean	LTR	Ezekiel	26	e98eb6313105bd4a97b74909aba8138fbb033ddb
+27	Korean	Korean	korean	LTR	Daniel	27	9a88f1893649915b96eba3e91b1880b137c68460
+28	Korean	Korean	korean	LTR	Hosea	28	ecc8959e60af62ab3c51bbf21661a78436aab466
+29	Korean	Korean	korean	LTR	Joel	29	b469ed1401d274a0c8da68b7617cb060f21d80ad
+30	Korean	Korean	korean	LTR	Amos	30	2246d41bad2c84bc3aca3924be71313a27a449b3
+31	Korean	Korean	korean	LTR	Obadiah	31	1e0c623c4d1a36b83451b9f240f50089b8c709df
+32	Korean	Korean	korean	LTR	Jonah	32	fe250e05755738b056d958cebf3a870fc248d10f
+33	Korean	Korean	korean	LTR	Micah	33	ac18c428ad9755a92da16c4d4bf4ee3d500c1095
+34	Korean	Korean	korean	LTR	Nahum	34	8db0959a752ebc2a3116e618d139de06969e4547
+35	Korean	Korean	korean	LTR	Habakkuk	35	d14723fc329764a3f9b83b2f1ea8158a4c756b92
+36	Korean	Korean	korean	LTR	Zephaniah	36	44e02f887581cd634c985820a84a27e8ac556a01
+37	Korean	Korean	korean	LTR	Haggai	37	110373c7fa539752f45486787d99d6f3f40e84be
+38	Korean	Korean	korean	LTR	Zechariah	38	57be759c9fc94e42e10493dd52193a36b6c1c7dc
+39	Korean	Korean	korean	LTR	Malachi	39	8a366a58584e556c4e066179b14df5524d639ce3
+40	Korean	Korean	korean	LTR	Matthew	40	81e03da21f3c64b5544b8f65df48d00998cdfeb4
+41	Korean	Korean	korean	LTR	Mark	41	05538504c6bdab647f49d4eedb11c4d954d0b3e5
+42	Korean	Korean	korean	LTR	Luke	42	5852bc1e61112329dddbb3c58f1ec2c03644d050
+43	Korean	Korean	korean	LTR	John	43	bdee2dd71ef3e6ebf2ac746829db9770e09307cc
+44	Korean	Korean	korean	LTR	Acts	44	b62c2f78852f0978fb039b41911dabf3e5515959
+45	Korean	Korean	korean	LTR	Romans	45	ff58be9fbb7947ce3848d6aac28e2e8ff255a9b7
+46	Korean	Korean	korean	LTR	1 Corinthians	46	26c1fecbd25365c16fe9ca3f73009618319943a2
+47	Korean	Korean	korean	LTR	2 Corinthians	47	68fe212ec840108d416ec5cb2ad3fd559e9dee7a
+48	Korean	Korean	korean	LTR	Galatians	48	0868538e80898a6e7832267722b070a577a8bbdc
+49	Korean	Korean	korean	LTR	Ephesians	49	7b5f1f72dc1bcdcd98e6761280efa92d56da050c
+50	Korean	Korean	korean	LTR	Philippians	50	a40f80f4b4f35b0efbe30926c8b69d51d52744d7
+51	Korean	Korean	korean	LTR	Colossians	51	6f342d120eec8c0ef039a7cf47160093f5ebbac1
+52	Korean	Korean	korean	LTR	1 Thessalonians	52	3b6ade91b582a07de75108f674693c21974e34de
+53	Korean	Korean	korean	LTR	2 Thessalonians	53	97648b44735b513bdc83483e21ed990301428e33
+54	Korean	Korean	korean	LTR	1 Timothy	54	ef86947c181cbade89d064cd47c698a3fe9ea0ce
+55	Korean	Korean	korean	LTR	2 Timothy	55	6c0a713a080e23cb40bb944a7024b31b50369af5
+56	Korean	Korean	korean	LTR	Titus	56	867819a60f1f0c36a6572427735d6b8665632c19
+57	Korean	Korean	korean	LTR	Philemon	57	cc08acab2a9510c2e637acb129d9b6dd0c98cd27
+58	Korean	Korean	korean	LTR	Hebrews	58	943bb4a299e599d44b915dbb95903bc62134bb64
+59	Korean	Korean	korean	LTR	James	59	1f20e920a03f349861f84fb384cac2dec417b5f6
+60	Korean	Korean	korean	LTR	1 Peter	60	228b69b7eb5ea146cdc286d5047eef29fc8d98bd
+61	Korean	Korean	korean	LTR	2 Peter	61	d3e1e2f3daef745442b4b10a6ccfceb98af348c6
+62	Korean	Korean	korean	LTR	1 John	62	333359f4d32ae71ec44f2627c6f9d02037ef856f
+63	Korean	Korean	korean	LTR	2 John	63	0df3afa5ca81cd46534e751c9ac160cf6b6312b6
+64	Korean	Korean	korean	LTR	3 John	64	c14f9994669f006b87e4c6ac56b941bd5c86d228
+65	Korean	Korean	korean	LTR	Jude	65	dd53a7d400d5904ddb0dc89bc7dd2cafd52fd7cd
+66	Korean	Korean	korean	LTR	Revelation	66	2c3ed5f6f6b2c633349526e85a852bd2359ed64c
+

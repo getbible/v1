@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/web/35/1.json",
+    "sha": "3b15dc7e1ea051f8c1428ca52a0bb399a1397567",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/web/35/2.json",
+    "sha": "b69cf3cd8900f1904fef117e391c390b29e9931a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/web/35/3.json",
+    "sha": "0821a55c2c4f269ecc974b5aaa3c36e776e199f8",
+    "id": "3"
+  }
+}

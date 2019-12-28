@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/37/1.json",
+    "sha": "1887d09cc9037a78ded586e058c822d28172c047",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccents/37/2.json",
+    "sha": "4cee1c1baaa9bcec6b90816613638ad04213d3a3",
+    "id": "2"
+  }
+}

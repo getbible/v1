@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/65/1.json",
+    "sha": "41cc877b523674fd1183717c3eb0187b7f185822",
+    "id": "1"
+  }
+}

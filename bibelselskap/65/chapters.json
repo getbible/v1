@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/65/1.json",
+    "sha": "8d6659fad8d02e3f489ffa5a17e52d527a3a4ad8",
+    "id": "1"
+  }
+}

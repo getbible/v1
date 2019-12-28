@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/35/1.json",
+    "sha": "fe77237f93c9d98d1f38535fab4fdc25c119d80b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/douayrheims/35/2.json",
+    "sha": "634ce41e58dfaf7dc4d96d1ea8728efa839bd05b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/douayrheims/35/3.json",
+    "sha": "7b2ef444a9d614569f1185fbf682ffc867a05481",
+    "id": "3"
+  }
+}

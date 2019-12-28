@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/62/1.json",
+    "sha": "d2f91b497ed8bab469e32ad28e261bf68f69144d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bohairic/62/2.json",
+    "sha": "5debcd121288286fd81b5260fd6c5af166d82689",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bohairic/62/3.json",
+    "sha": "8acdfb788217f9dae924daa7a31de80930d491a6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bohairic/62/4.json",
+    "sha": "5eb531e2a06311437fb3bf1cb47072cd5a942785",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bohairic/62/5.json",
+    "sha": "369a82a2b34f78585d9669bcdca893e769189819",
+    "id": "5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/37/1.json",
+    "sha": "160853012ca60d3364f9ddae5c247886f99309b5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/37/2.json",
+    "sha": "1f7211d073f633b112c50e37e7a1ba7bc893a192",
+    "id": "2"
+  }
+}

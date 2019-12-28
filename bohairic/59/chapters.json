@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/59/1.json",
+    "sha": "aa2042d51178e9977dc51a912ac54790d56b5939",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bohairic/59/2.json",
+    "sha": "e1b5cdca2266be92a9b7d8da7f8cdb608c35be0c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bohairic/59/3.json",
+    "sha": "ef91e7ab4daef55fcc4c6448a7b8da9f0ceea85f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bohairic/59/4.json",
+    "sha": "87bce4c5b3c1e091d23a682b8bce1af3a410aa2c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bohairic/59/5.json",
+    "sha": "8bc3b045bc8dc1489420cb0a077eb4fdcc1faf4d",
+    "id": "5"
+  }
+}

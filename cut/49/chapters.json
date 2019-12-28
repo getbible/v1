@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cut/49/1.json",
+    "sha": "ea544ef52fc45c6bc784f84d6b4ba64de5986680",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cut/49/2.json",
+    "sha": "b0a18c6a08c631a04512d9fd15fe38a2218921a9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cut/49/3.json",
+    "sha": "3c20e8af125ceb76f9ec95c28d2ea287e006719a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cut/49/4.json",
+    "sha": "fc0dfde0e1db617f5b810596bde93c7cf94e48a5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cut/49/5.json",
+    "sha": "d8100ca02701a9fdd9c0a68b62834780f9ae1d79",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/cut/49/6.json",
+    "sha": "7b95c661e7fc56390d8b82ec6f2803dd5a4387c9",
+    "id": "6"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/judson/50/1.json",
+    "sha": "552b1705b4abb1bfd73b6b670ac275d82c151b3b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/judson/50/2.json",
+    "sha": "02b6de2eea0c1ea772c20b6d62d543a8bd842bfc",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/judson/50/3.json",
+    "sha": "1ec76b4e48b0a977cdb5b64ba5a7b87c13c85e89",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/judson/50/4.json",
+    "sha": "61c1f184b5450b9774a9a74a7b53537a54ba57e0",
+    "id": "4"
+  }
+}

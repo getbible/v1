@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sahidic/64/1.json",
+    "sha": "d211f931beeead2c92a89ec2c6107547caaca3d9",
+    "id": "1"
+  }
+}

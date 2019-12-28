@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lithuanian/52/1.json",
+    "sha": "a8f21dd9f2bfeddc779b4bbd5c78f923483d4bce",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lithuanian/52/2.json",
+    "sha": "35bf0d8612ef32d0a9861dd2b76f84d2607fa1a8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lithuanian/52/3.json",
+    "sha": "7e351292d50d4508fa7b812f1a5048491c4ff092",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lithuanian/52/4.json",
+    "sha": "990be3ea3c78041caccb349c589d500fbd8effe8",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lithuanian/52/5.json",
+    "sha": "835b4857d0444b8681a596b57672be742c9a8116",
+    "id": "5"
+  }
+}

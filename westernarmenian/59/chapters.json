@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westernarmenian/59/1.json",
+    "sha": "f366c40235186eae0a592b7d6b6986c9de28925c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westernarmenian/59/2.json",
+    "sha": "6ececa8bae280931d653b0a049f62f2382680990",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westernarmenian/59/3.json",
+    "sha": "aa6a1f6c179861050b402587a0b8c5de9ee6d1e3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westernarmenian/59/4.json",
+    "sha": "61eeaa4e3e4ea89fa7d1831ce854ce97a4071f84",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/westernarmenian/59/5.json",
+    "sha": "f9fa52945fb31802c0a4d86c0bc149094467adfc",
+    "id": "5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/37/1.json",
+    "sha": "5595acd48d555068f10caef8eb6ccca2ea223d84",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/modernhebrew/37/2.json",
+    "sha": "abb627839b5cef6965c021c281aeac41bdcfad26",
+    "id": "2"
+  }
+}

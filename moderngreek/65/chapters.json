@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/65/1.json",
+    "sha": "a506ae6c54a20df480e76ce4ff0ef1b50074f734",
+    "id": "1"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/albanian/25/1.json",
+    "sha": "0f8f2e819a6198d0b94e4a59141a7d8ea0bafd9d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/albanian/25/2.json",
+    "sha": "eed6a4cf16f0940eda5e0167bfeb598463a1857d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/albanian/25/3.json",
+    "sha": "31e6c434d85c4c8b0c3de6ac896a02d3e1df1a1a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/albanian/25/4.json",
+    "sha": "af29bf69206a5bba0379bb9c90b261aef09fcc14",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/albanian/25/5.json",
+    "sha": "3396abe997d34595b0c49eaebf6ccc8e381ea952",
+    "id": "5"
+  }
+}

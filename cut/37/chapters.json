@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cut/37/1.json",
+    "sha": "c4b6de121994f195685466fe115184c6e5712552",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cut/37/2.json",
+    "sha": "df57c1f12071d10a26b73cbe058ff5cb63454c14",
+    "id": "2"
+  }
+}

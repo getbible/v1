@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/39/1.json",
+    "sha": "2496cc2861e0d0d08ff4e5669e64d99a9938a1af",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/maori/39/2.json",
+    "sha": "714b5c5491e5545cb3d15380dfd0a1ba46fd010d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/maori/39/3.json",
+    "sha": "9bdd2e80895ebda9790a805c5b1db96e4f477e26",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/maori/39/4.json",
+    "sha": "304de7f2f5a0bfaf39ed7803cd881d479f319b66",
+    "id": "4"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/akjv/32/1.json",
+    "sha": "d1a1fe622101631aa076ffc84c48890323d1a922",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/akjv/32/2.json",
+    "sha": "dbc59d4c3eac2d2cd9a691ac10e4384058e4c29a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/akjv/32/3.json",
+    "sha": "8ec1a1438dfd42ad0c9b4ce253eb913568ee1d82",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/akjv/32/4.json",
+    "sha": "70ea13bef401bc4289171ed930d680bcfde4f9ec",
+    "id": "4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/65/1.json",
+    "sha": "845a9036a7e5ad67290d5a3c516b4be4d0fdafc5",
+    "id": "1"
+  }
+}

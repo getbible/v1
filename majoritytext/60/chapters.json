@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/majoritytext/60/1.json",
+    "sha": "e28425b07c42d28e23b659eb8149eeb84a4a4826",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/majoritytext/60/2.json",
+    "sha": "999436c3a33624a9c8b9a73d2d8c0139523eef25",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/majoritytext/60/3.json",
+    "sha": "4f5a06e5fbaa318470cb2332ced04f7252a6cffb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/majoritytext/60/4.json",
+    "sha": "45d6861358da1aaa5ac22617e864993c8ae5eb92",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/majoritytext/60/5.json",
+    "sha": "d0e57e45380701cf5b00aab14012ff72c292a16c",
+    "id": "5"
+  }
+}

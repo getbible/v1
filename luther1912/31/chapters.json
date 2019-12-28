@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadja",
+    "book_nr": "31",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/31/1.json",
+    "sha": "a615230d2a3f572ea8333a7ff7e0945b06e26998",
+    "id": "1"
+  }
+}

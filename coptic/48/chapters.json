@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/coptic/48/1.json",
+    "sha": "d75bb9824cacd59d48ce6c99de583a8ea7521acd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/coptic/48/2.json",
+    "sha": "fa1f6d11d890faad712cdc1c8f9de0a6656ab431",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/coptic/48/3.json",
+    "sha": "9cd1c455f39319e3492e1464e445bb0273786d49",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/coptic/48/4.json",
+    "sha": "a3cd133b544121c377d0154ec340348bdd8936fc",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/coptic/48/5.json",
+    "sha": "ac42542d153f0b5635bb19bfb2e5c0d0005d37b5",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/coptic/48/6.json",
+    "sha": "c9a6b34208c6d5d369c7484997bcd3b6fae970e0",
+    "id": "6"
+  }
+}

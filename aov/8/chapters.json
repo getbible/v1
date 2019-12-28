@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/8/1.json",
+    "sha": "f934923708352bdaf4216eb5c778ad3d35b74e52",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/8/2.json",
+    "sha": "89380281323a4c78ea2b14852250ed954451a58b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/8/3.json",
+    "sha": "23e35e5d739ae12f8424ce97a8700e3c0f796296",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/8/4.json",
+    "sha": "a0799d73de816d418c6bb7daff30d94abce60050",
+    "id": "4"
+  }
+}

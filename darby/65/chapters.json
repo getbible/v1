@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/65/1.json",
+    "sha": "e877b5e576442221fdaf55e99901d41e0b885293",
+    "id": "1"
+  }
+}

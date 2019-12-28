@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/almeida/33/1.json",
+    "sha": "1bd0207277ce197266dc016ccd26a67384d9e3f8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/almeida/33/2.json",
+    "sha": "82b4ffc07728760ef299253304d1a43dcf0c46d9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/almeida/33/3.json",
+    "sha": "a329db82bb5304ed0581bd057426c2f111822062",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/almeida/33/4.json",
+    "sha": "7b0c1dd7bbfbf22b55541de305a039f9ae8dabbc",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/almeida/33/5.json",
+    "sha": "24dbb28b5b5b70af2f54114f5582bd34c8809822",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/almeida/33/6.json",
+    "sha": "f3b8dcadc787ce6b93e0b8811002a7409d66a7c0",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/almeida/33/7.json",
+    "sha": "7da354c241331a8d4c6acdcf0c84912abe330ac2",
+    "id": "7"
+  }
+}

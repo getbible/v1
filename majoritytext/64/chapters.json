@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/majoritytext/64/1.json",
+    "sha": "488fc7b1f1832558f37f4f6296e805ee8ced811b",
+    "id": "1"
+  }
+}

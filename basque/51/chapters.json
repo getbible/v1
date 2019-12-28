@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/51/1.json",
+    "sha": "67623191a959a0a093c7e287757a13be92d91493",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basque/51/2.json",
+    "sha": "135a03ecb22924f92fd4525e0f97614f6f4d28c2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basque/51/3.json",
+    "sha": "175ffa83eb95fb447b5f3f81a350c362a71c3770",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basque/51/4.json",
+    "sha": "53a4e286ef498d045bf6b08f63a71ab968599855",
+    "id": "4"
+  }
+}

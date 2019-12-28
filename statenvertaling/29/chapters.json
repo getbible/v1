@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/statenvertaling/29/1.json",
+    "sha": "25028c44a8f395e79b93a17c69e4ccaeb1ad866f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/statenvertaling/29/2.json",
+    "sha": "5dfb6b6d42e15985e2c8161a48fda84528eb93e1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/statenvertaling/29/3.json",
+    "sha": "c7daa046c3ebc6c112dd191b6f199bb4ea26747f",
+    "id": "3"
+  }
+}

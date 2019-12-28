@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/39/1.json",
+    "sha": "04b450470dd4b437da9d28da056c64cd764b30f3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/39/2.json",
+    "sha": "042313d83c4a35845c41d47cd21f5d8c61df5430",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/39/3.json",
+    "sha": "9ecddf6370e7901077b87010b3019a51573636ca",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/39/4.json",
+    "sha": "69049ee387f7f230deedf9846bbe34434a0a8656",
+    "id": "4"
+  }
+}

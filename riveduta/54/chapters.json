@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/riveduta/54/1.json",
+    "sha": "faa2b0ce01c60e49f5acc65a738e8a10c504b925",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/riveduta/54/2.json",
+    "sha": "5e2dc914b257cd83259916ac262ca6a5e686f915",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/riveduta/54/3.json",
+    "sha": "821e116867ceec5e4cba59315477d4ef9ac37864",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/riveduta/54/4.json",
+    "sha": "7c17ab368da054a27199f767857fa27bf9a718f3",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/riveduta/54/5.json",
+    "sha": "8b7cb6f65acb7374d3e2d104d7c3fc7048ba259d",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/riveduta/54/6.json",
+    "sha": "48cfd39ed615260d9800e1b7e611b9d5adfe56da",
+    "id": "6"
+  }
+}

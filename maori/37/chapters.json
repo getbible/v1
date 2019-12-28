@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/37/1.json",
+    "sha": "f0b2c3ac0c8b9436a3d64a88d28ec01b3dd75608",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/maori/37/2.json",
+    "sha": "01dd99814cb9aee411ee524672b92fcab494ceb6",
+    "id": "2"
+  }
+}

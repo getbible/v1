@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlcnovowels/39/1.json",
+    "sha": "1e0969f3a44fbe3185dd218a2164c80dd4237564",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlcnovowels/39/2.json",
+    "sha": "e69d393683eaa057f83e85a059cc65c93f3762c7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wlcnovowels/39/3.json",
+    "sha": "4e349ce085231acc11783941cac43888fc006f16",
+    "id": "3"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westernarmenian/55/1.json",
+    "sha": "195533f82bb49628f519b9b84c5267f69d70a649",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westernarmenian/55/2.json",
+    "sha": "164e99e6f12c16c0cea569967c9242727c6313e9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westernarmenian/55/3.json",
+    "sha": "fbb8ec995d83963bf6692a48382148f608155f2b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westernarmenian/55/4.json",
+    "sha": "829d2d449664322ab03a51491acf98899a572a30",
+    "id": "4"
+  }
+}

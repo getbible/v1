@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/judson/48/1.json",
+    "sha": "18e5ce566716892b2ac958d769395c6b06c5dcbf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/judson/48/2.json",
+    "sha": "16cf5c106bfc132223ca09c44d18007a34b198d1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/judson/48/3.json",
+    "sha": "97f3e5f8d615d3bead35c8bd857f94b1986f6419",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/judson/48/4.json",
+    "sha": "8b30b94cd5dd7c1ba21533248f8d89af4f570750",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/judson/48/5.json",
+    "sha": "252ab31408f244aa0e6fe415ae030763f93126c6",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/judson/48/6.json",
+    "sha": "56bf5fd3720e6b56d038869a34040f01f92660e8",
+    "id": "6"
+  }
+}

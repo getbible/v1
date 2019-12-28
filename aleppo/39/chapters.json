@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/39/1.json",
+    "sha": "5a58ac04d8e2fedff008eac00e88f916b128734e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aleppo/39/2.json",
+    "sha": "780ef926d8a8fa8eb75d3f9e534a541930dfcb11",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aleppo/39/3.json",
+    "sha": "82d14bf32b9d37cd4ed41c574543cf0e5a5a1094",
+    "id": "3"
+  }
+}

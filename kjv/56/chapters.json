@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/56/1.json",
+    "sha": "5d535b655dce236e875d1a531a37dd73af37894b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kjv/56/2.json",
+    "sha": "b7f8df8815564ceee7ac8fbc75f05281cce7b69a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kjv/56/3.json",
+    "sha": "296a00ee02661bd97562959a02eef5e1e850d194",
+    "id": "3"
+  }
+}

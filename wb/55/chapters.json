@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/55/1.json",
+    "sha": "303df5a92f1f0ac586af7939a33ab2bdd4f7875f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/55/2.json",
+    "sha": "462f19c38ae7f0220d1e09ae9d859f374a0dc4f2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wb/55/3.json",
+    "sha": "51cd64afc24b373d3791ec39041c42dfa1f25aeb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wb/55/4.json",
+    "sha": "b8db50db28aea2338f2f88308185fc68e1496627",
+    "id": "4"
+  }
+}

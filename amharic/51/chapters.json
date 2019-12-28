@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/51/1.json",
+    "sha": "068f8607c193cb7c4cae4f5394eef3008943c9e1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/amharic/51/2.json",
+    "sha": "fa3f8d1b0402234fe52735b0ca658c898767059d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/amharic/51/3.json",
+    "sha": "858c39e2f75c9a65ceb287270d5348f0e7af0760",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/amharic/51/4.json",
+    "sha": "03bb1f1c93a58d0a190491a99169aaa2519dd99c",
+    "id": "4"
+  }
+}

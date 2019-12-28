@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/57/1.json",
+    "sha": "2c063b714ec7bc5fb79e9c34550fc8dc5bfa773c",
+    "id": "1"
+  }
+}

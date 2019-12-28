@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/37/1.json",
+    "sha": "dad86e1817223e9c234f367951948b6b498bd3c1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/synodal/37/2.json",
+    "sha": "252a9712938d32a58871a9981fdb31cf3941060b",
+    "id": "2"
+  }
+}

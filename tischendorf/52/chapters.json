@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/52/1.json",
+    "sha": "b3b35ed25ed2e2f1950f6033aaff00b709399ac9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tischendorf/52/2.json",
+    "sha": "4cbbbb95c42bcd358b8177be76c87e73a7a51501",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tischendorf/52/3.json",
+    "sha": "f314b3460e8db6f5d11c043cde160d62c560f16b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tischendorf/52/4.json",
+    "sha": "cc7ae0d4ad3887ee98580ae583525a3079cb08d5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tischendorf/52/5.json",
+    "sha": "a443f42dadbb207a1e6e7ee77d95779104f1ecbc",
+    "id": "5"
+  }
+}

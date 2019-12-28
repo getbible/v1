@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/49/1.json",
+    "sha": "242839e379362ed07b62fcc593112858acf05b22",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kjv/49/2.json",
+    "sha": "a11611eb46981657b42479b88a7cb3afa9c663fd",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kjv/49/3.json",
+    "sha": "40ea8017cd89dd3135196118d141922765527f98",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kjv/49/4.json",
+    "sha": "2d954554a8a1077fa2f5242f0be56d9d34c5e429",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kjv/49/5.json",
+    "sha": "cedd5b703ade3100a479632ec35f372f16e6c498",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/kjv/49/6.json",
+    "sha": "bc0922d43a4d14272525c9fbd20d610b7cad790f",
+    "id": "6"
+  }
+}

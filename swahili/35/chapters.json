@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swahili/35/1.json",
+    "sha": "d8e943c0706bdd0288a07300a9877e985bcc5a3a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swahili/35/2.json",
+    "sha": "68703c4bb55aca3bc293bc70511eece329de702f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swahili/35/3.json",
+    "sha": "3f86426c14a47acb28e2d53aad9b74994af01f03",
+    "id": "3"
+  }
+}

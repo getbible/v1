@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/nkb/57/1.json",
+    "sha": "31a3961b6857bfa07f09e6a2bf42f45ab8ddeec1",
+    "id": "1"
+  }
+}

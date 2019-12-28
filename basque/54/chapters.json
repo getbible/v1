@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/54/1.json",
+    "sha": "523e449091a9bb1b479a606f13fb6467892465fb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basque/54/2.json",
+    "sha": "291721e333c50009b39d1f0f9b0221cd9fb756c3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basque/54/3.json",
+    "sha": "da20e36880ba21ddad841b2de6bd2247f5fc33e7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basque/54/4.json",
+    "sha": "b7960442375df85a91ca7dc30538da49e3a5173a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/basque/54/5.json",
+    "sha": "3e8996faadcefd80fa3a00426a8900dee9f78d07",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/basque/54/6.json",
+    "sha": "0ab01e03255a122bbc2a846cf82cbcc8fbf280b5",
+    "id": "6"
+  }
+}

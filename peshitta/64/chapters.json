@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/64/1.json",
+    "sha": "73f6d1b93a74936a5fbb7773a06a147ff5a85a08",
+    "id": "1"
+  }
+}

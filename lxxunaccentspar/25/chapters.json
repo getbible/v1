@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccentspar/25/1.json",
+    "sha": "fef0f78d6f95e0de3e63deb503454600a5083045",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccentspar/25/2.json",
+    "sha": "c61c22440eccbc56e59d6035a23e4a8aeba6f23f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccentspar/25/3.json",
+    "sha": "fa0993b2997bcb88cb663f1c493722e59701b050",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccentspar/25/4.json",
+    "sha": "914461681de689d0fa4036036effbaec030dcd67",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lxxunaccentspar/25/5.json",
+    "sha": "641ddb615cdf6db67d7c764de555b2d7d63826d3",
+    "id": "5"
+  }
+}

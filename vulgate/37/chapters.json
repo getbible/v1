@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vulgate/37/1.json",
+    "sha": "4becfdead91f4305c56cb190c09f5c8162724b0e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vulgate/37/2.json",
+    "sha": "053870244e6e00cad72fca8eec34619e96e3cdd8",
+    "id": "2"
+  }
+}

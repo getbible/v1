@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/web/55/1.json",
+    "sha": "76c07dda12c27e9058f154fbcefa92c0674889af",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/web/55/2.json",
+    "sha": "761c7c2224e7ac006685722556f6b8e9a8a32f27",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/web/55/3.json",
+    "sha": "8603b642a6fa85044777b2c993cfdeed3674b523",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/web/55/4.json",
+    "sha": "51df5d7a42536c1661b26a742e4ae286ca2b0ccc",
+    "id": "4"
+  }
+}

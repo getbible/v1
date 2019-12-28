@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/53/1.json",
+    "sha": "697b7a90ba0a511f0f766fe017bf733999ed7b1b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/latvian/53/2.json",
+    "sha": "aec4d234f82947f3e46293d94e5915fd9f9eefa6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/latvian/53/3.json",
+    "sha": "d6e4b1c99de077b6607c956ec232721f43d02811",
+    "id": "3"
+  }
+}

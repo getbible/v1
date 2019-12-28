@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/50/1.json",
+    "sha": "2bb86287de19a3684179d36dc624ebc4278f4974",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/modernhebrew/50/2.json",
+    "sha": "835335dd02f8b7f2888f4e74e475776e04b5e168",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/modernhebrew/50/3.json",
+    "sha": "c353cae73bb2e741e2f3fe46fd32b513f1ecd2f6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/modernhebrew/50/4.json",
+    "sha": "b0174884a51ef9c72582cc0198f937ee174a0955",
+    "id": "4"
+  }
+}

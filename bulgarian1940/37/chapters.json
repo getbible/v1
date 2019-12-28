@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bulgarian1940/37/1.json",
+    "sha": "a37cabee5bc1e8756b6528d638f4e37f3d1e1c2a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bulgarian1940/37/2.json",
+    "sha": "14ea746cdd7eee8848c59d7b6d3873fd924f71e3",
+    "id": "2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/codex/37/1.json",
+    "sha": "0ed637480a072580b85b09c4f0e952eb2c3024cb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/codex/37/2.json",
+    "sha": "e659c6a6dc9c0eb9b0d1b0da49690e5bf9ad9895",
+    "id": "2"
+  }
+}

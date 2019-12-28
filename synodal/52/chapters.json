@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/52/1.json",
+    "sha": "7c7c910b23d8164750f09c149f1338554e9867b3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/synodal/52/2.json",
+    "sha": "de6fada5f7e037cf26d494977510b555597e5b3d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/synodal/52/3.json",
+    "sha": "4c466ee8d87f4a25e04167e787fc8a475a310d15",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/synodal/52/4.json",
+    "sha": "e533abfea80d1ea732f8d719f0b106645b5da89a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/synodal/52/5.json",
+    "sha": "6c2e7a3020db04702fbdc2a16a94368f91c67765",
+    "id": "5"
+  }
+}

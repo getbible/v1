@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/57/1.json",
+    "sha": "862ba3a9ad4464a44146a90730fef5204be37b9a",
+    "id": "1"
+  }
+}

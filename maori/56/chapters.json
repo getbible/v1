@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/56/1.json",
+    "sha": "dacb54e53a2f2369292b039d2e8368296e719663",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/maori/56/2.json",
+    "sha": "f0ccbdf9486fb44359689becaea4bbec1820aae6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/maori/56/3.json",
+    "sha": "b56855b6938675070c0e1c1e526395c6d35700a7",
+    "id": "3"
+  }
+}

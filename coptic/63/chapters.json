@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/coptic/63/1.json",
+    "sha": "8ed171ee9ab5489c07a88da0f765d65c590d787b",
+    "id": "1"
+  }
+}

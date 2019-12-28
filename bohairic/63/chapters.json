@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/63/1.json",
+    "sha": "0ac1fcb772ae9bf3372ed8dd5ef4ed5e72084893",
+    "id": "1"
+  }
+}

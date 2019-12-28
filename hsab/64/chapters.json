@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/64/1.json",
+    "sha": "9190dd8e0b5c5fe574673849d0c4ebbcffd4d57e",
+    "id": "1"
+  }
+}

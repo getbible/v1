@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kabyle/60/1.json",
+    "sha": "34f4f37c3436bf4b93c3ff040e9fcad0b4dc2cca",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kabyle/60/2.json",
+    "sha": "67ca8c7695e6f5906300177a8b8f838fb30378e1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kabyle/60/3.json",
+    "sha": "7dc6aa6bc662c06d6a245867bcd778ee0555b2d2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kabyle/60/4.json",
+    "sha": "903c7917f02e7c249f572e531628c2af0d678407",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kabyle/60/5.json",
+    "sha": "1c136f69ae6c7003c718f47883522a28a832ee6f",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/karoli/55/1.json",
+    "sha": "e36063a515efb9aaa54156cc7aa46c099b110129",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/karoli/55/2.json",
+    "sha": "9762a6b53b66acba15ca9424b80e1b0b88177807",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/karoli/55/3.json",
+    "sha": "2fa56b8a3d4d8cfc42d8faff56240f10d4b6ede3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/karoli/55/4.json",
+    "sha": "2dfea8e6dd61518687f095e500b2acb6984d8767",
+    "id": "4"
+  }
+}

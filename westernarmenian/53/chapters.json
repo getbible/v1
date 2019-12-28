@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westernarmenian/53/1.json",
+    "sha": "dec5494d3bab3537c62142051531ebc6e608e2ba",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westernarmenian/53/2.json",
+    "sha": "4f7ec6e7fb9133d5ab7481ea8f8cc71158992353",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westernarmenian/53/3.json",
+    "sha": "5956b1271ce31d93d7d7c08aae52deff7ca03fcf",
+    "id": "3"
+  }
+}

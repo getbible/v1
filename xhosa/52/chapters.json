@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/xhosa/52/1.json",
+    "sha": "c2500ed4acdbb510eef358af99a9d41b9592d344",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/xhosa/52/2.json",
+    "sha": "4c7753f01be5918a88d1ca15f06a666bdc3e7f76",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/xhosa/52/3.json",
+    "sha": "924bb106934560bd8a9cff18a8d4a4bff020c51d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/xhosa/52/4.json",
+    "sha": "0821a4281ab67103038fc64103005582f4cf9a51",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/xhosa/52/5.json",
+    "sha": "67c15f607bb07aff15da3a83cc4b0b414f713a22",
+    "id": "5"
+  }
+}

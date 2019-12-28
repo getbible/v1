@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/63/1.json",
+    "sha": "fce2cd6a1df36bf78791560d8ccf0a412bef43b2",
+    "id": "1"
+  }
+}

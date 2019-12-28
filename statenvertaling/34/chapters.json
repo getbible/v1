@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/statenvertaling/34/1.json",
+    "sha": "5c71c102924b4393525daa9db96dde783b087311",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/statenvertaling/34/2.json",
+    "sha": "40913f75f0311a4f8f7fd1bcb5d92f01237412c4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/statenvertaling/34/3.json",
+    "sha": "c795fc0721865bb831e47cdc36cbc524a7cc822f",
+    "id": "3"
+  }
+}

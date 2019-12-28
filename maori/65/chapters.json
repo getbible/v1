@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/65/1.json",
+    "sha": "dc9227bbc96f9ec387da31d490f6112d83bfc08b",
+    "id": "1"
+  }
+}

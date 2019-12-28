@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/33/1.json",
+    "sha": "3cd59766d8e8c7fc489b1a8d79bc462d7469ccfc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/danish/33/2.json",
+    "sha": "837f0a2be1f82c1d9bc91db76e59a9c68e6647ed",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/danish/33/3.json",
+    "sha": "c14c5d89ce7d03cf33b733da6f7b396021ed634a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/danish/33/4.json",
+    "sha": "9586708daaaaf49120475f75ebcdceda5feef85f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/danish/33/5.json",
+    "sha": "89b11f7abe0965cc9cae14e7a742a8a3705a7439",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/danish/33/6.json",
+    "sha": "584ef02b4d2bebe84412fc24c3da045132a10008",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/danish/33/7.json",
+    "sha": "57d9f660f49f733a508ae713327dcd64a071f152",
+    "id": "7"
+  }
+}

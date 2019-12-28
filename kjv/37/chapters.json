@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/37/1.json",
+    "sha": "b63aa984aa3e7ac7a3fd5c8c0dd39bb40e921558",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kjv/37/2.json",
+    "sha": "cb5c7f94ac6dafa0de32af7b06bcfb904e8a9a26",
+    "id": "2"
+  }
+}

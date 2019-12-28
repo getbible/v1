@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/35/1.json",
+    "sha": "85441be572e3ecb85d7789d5126c159bf2c899aa",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/modernhebrew/35/2.json",
+    "sha": "1dc3848b894c3f7c75dbd4d5d5894b5a40dd2d9c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/modernhebrew/35/3.json",
+    "sha": "04bfd884eff85383b4f188edd517bbb3b7f354ba",
+    "id": "3"
+  }
+}

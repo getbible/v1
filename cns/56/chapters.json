@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cns/56/1.json",
+    "sha": "f88415eb6bf34014c2e81146a0c415b26303df3a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cns/56/2.json",
+    "sha": "6b5460e7c035ca6f73525d031c8edfe7770cccc1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cns/56/3.json",
+    "sha": "fd2671dccaa25905f2506ce2638191000f64baa9",
+    "id": "3"
+  }
+}

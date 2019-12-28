@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhs/8/1.json",
+    "sha": "838d555b463fd3010850ad140b64ba7b49041bb5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhs/8/2.json",
+    "sha": "1024343fbd4154c8b6265c284acf166bf3bd9bac",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhs/8/3.json",
+    "sha": "ddb1df5d6639886cfd7476d7a96ba9096f97bb34",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bhs/8/4.json",
+    "sha": "83611f02728ffa3d862142b9672dada288e7ffb0",
+    "id": "4"
+  }
+}

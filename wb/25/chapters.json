@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/25/1.json",
+    "sha": "51865250d688a373a2d471da35b429846848f7f0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/25/2.json",
+    "sha": "31723dc538a09c15bfb13beb95ca8bf40b007496",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wb/25/3.json",
+    "sha": "5c946ce38a540f99df5a5e0c3d0fe1e7892761f4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wb/25/4.json",
+    "sha": "2be963e8727292fb4e368d4bd8d12da10a39031e",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wb/25/5.json",
+    "sha": "07663f349062c729db561f58e954196fbd1ec15e",
+    "id": "5"
+  }
+}

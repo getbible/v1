@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kms/36/1.json",
+    "sha": "e139cacba7f5aebe638d554cf453953c4301024c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kms/36/2.json",
+    "sha": "b355fca73376de703f6ef40780788504d99bfff1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kms/36/3.json",
+    "sha": "06b74022265eb4ae5f3e541cadca21c63b576776",
+    "id": "3"
+  }
+}

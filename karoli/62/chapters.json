@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/karoli/62/1.json",
+    "sha": "b4be6fc4d69a01d29922fb0e3b210b8e624a27e5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/karoli/62/2.json",
+    "sha": "ec430ef7c2bea6de7c8eeb2de1d439bab9c7d199",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/karoli/62/3.json",
+    "sha": "889f47e72d18834db281b5910d896b8f1ff42828",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/karoli/62/4.json",
+    "sha": "4d01ac7dfebadc6633cc9f785c5f88424c907315",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/karoli/62/5.json",
+    "sha": "400cce086231c0286192b1646c3efddfc6fc3b13",
+    "id": "5"
+  }
+}

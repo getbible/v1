@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ylt/32/1.json",
+    "sha": "a0e0274ecc897a4e4eac9b665246aad08de01efb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ylt/32/2.json",
+    "sha": "06954df5cd9c2f2cfe681e56a40e81b39f8e10d1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ylt/32/3.json",
+    "sha": "2917d2df0002e68abbea0187ed94c7ba4e72e707",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ylt/32/4.json",
+    "sha": "0d40ceb07c1ed545bbff3d653dfddcb3dfa56840",
+    "id": "4"
+  }
+}

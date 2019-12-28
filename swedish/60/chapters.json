@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swedish/60/1.json",
+    "sha": "14447d920548270c9e64ffa14db0084ec8161f79",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swedish/60/2.json",
+    "sha": "750d5353d3d34b954984cbd743f14204b45336d0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swedish/60/3.json",
+    "sha": "372a99c322a57369d792869cfb2179cba57c143e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swedish/60/4.json",
+    "sha": "3466861da81a1de379fa456a06f211343e2505b0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/swedish/60/5.json",
+    "sha": "4efecd37d4d45b574a6354d1dadf260b1e68624a",
+    "id": "5"
+  }
+}

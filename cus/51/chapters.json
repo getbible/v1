@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cus/51/1.json",
+    "sha": "458299b15a6fa21ef3f87a0331a0b5d4f19384e4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cus/51/2.json",
+    "sha": "d7d4e732fb867f93c047f6a13189c0b5a2dbe1ab",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cus/51/3.json",
+    "sha": "e950f006c3396d2010423b9f0f1e65955b03b335",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cus/51/4.json",
+    "sha": "959e5749271ce6e1530acd9b08af4db32f81b4fd",
+    "id": "4"
+  }
+}

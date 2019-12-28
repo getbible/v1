@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/32/1.json",
+    "sha": "88ffce51588a8a2917ee79bd6c3ac174bbb29504",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/finnish1776/32/2.json",
+    "sha": "01da75da53f90fdc2e7f388c482882166f77fe8f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/finnish1776/32/3.json",
+    "sha": "360c4c7e477f62e6b54d5df53eb89e1b174db8c5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/finnish1776/32/4.json",
+    "sha": "908de8c6f09c855b9ed0259410be8a2feab4191d",
+    "id": "4"
+  }
+}

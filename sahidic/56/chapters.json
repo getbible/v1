@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sahidic/56/1.json",
+    "sha": "6ce29ce8ecfdc82706c3b72b1f5bffb4c36365b4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sahidic/56/2.json",
+    "sha": "4c20b82be4639d49cb6a3743c48d23e4d507f437",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sahidic/56/3.json",
+    "sha": "f2989df487ae071225607b5cbd5920bff991965d",
+    "id": "3"
+  }
+}

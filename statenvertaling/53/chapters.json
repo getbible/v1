@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/statenvertaling/53/1.json",
+    "sha": "7d33e3c856ff800cae6cfefffe414bd7577c66b9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/statenvertaling/53/2.json",
+    "sha": "e40ddba2d567ee4f6397985a5869295de88123bc",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/statenvertaling/53/3.json",
+    "sha": "5ae5b72d54f2463609214d269ea5c1ba277ae3e6",
+    "id": "3"
+  }
+}

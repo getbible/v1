@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/51/1.json",
+    "sha": "68124041dd991bafd4d043ada83e6a27827f5127",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/51/2.json",
+    "sha": "fecb35399348185989588570ee048875c91d970d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/51/3.json",
+    "sha": "704976922fe76d5ec7f9e6c8a4a6be322230b7c3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/51/4.json",
+    "sha": "c94251ce4905f642d749769105665af1dea0525e",
+    "id": "4"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/54/1.json",
+    "sha": "933d8ad0ae9b668a2b03dd02166a2e5877ab9d91",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tischendorf/54/2.json",
+    "sha": "603126c54b4ec437c15f2a724a1e2064cc56dcc4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tischendorf/54/3.json",
+    "sha": "510dc5cf4bec67eddbebb06cafb0175b15227901",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tischendorf/54/4.json",
+    "sha": "d744b24b4cdf6f97b54434fe048b3b3c3a80b89d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tischendorf/54/5.json",
+    "sha": "a8ed8714053a904d86955f5bc7e33dabce95c474",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/tischendorf/54/6.json",
+    "sha": "a064fe59faa52335d98dd686a78ed1f9bc57fbbd",
+    "id": "6"
+  }
+}

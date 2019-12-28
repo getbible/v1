@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1992/51/1.json",
+    "sha": "ffbc254b42c659173808a6b19de454821126015f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1992/51/2.json",
+    "sha": "2791c0ad3addd484d5bfcceab0a441eed2522ade",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1992/51/3.json",
+    "sha": "d801ff5f6ed136ff9f64cabfa1e3845a3b86ce04",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1992/51/4.json",
+    "sha": "b2feacea82d91a5520c13a8680517b5c964f36de",
+    "id": "4"
+  }
+}

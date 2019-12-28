@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cut/60/1.json",
+    "sha": "3f4813f14961f8cc5d4308228b006768e9e0c1f7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cut/60/2.json",
+    "sha": "60e9d4a9cbf7941d824e8a292e9f3eef0cb37fa9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cut/60/3.json",
+    "sha": "dde92f0989e51ed6d62e8e2777920faeb3aa1b2b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cut/60/4.json",
+    "sha": "911a9e3af6a33d1efd40366a760a67b02f9dc03b",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cut/60/5.json",
+    "sha": "b49aa91d1e6b53efe816f2a25542566dd68acc8d",
+    "id": "5"
+  }
+}

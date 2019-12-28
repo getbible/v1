@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/esperanto/33/1.json",
+    "sha": "8d04174f5d615a26603439b864fef87164f5a166",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/esperanto/33/2.json",
+    "sha": "7eb0cb005ff5b9793d6c6e730b02bf932df971f0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/esperanto/33/3.json",
+    "sha": "666dbc416524fc5973130c0d011fb0977bd386e7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/esperanto/33/4.json",
+    "sha": "97a74a94c04402cc91f4b78762c85d45f70db2da",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/esperanto/33/5.json",
+    "sha": "4199094a58cb4c6eaad4462aeb4ac553fa2b3fc8",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/esperanto/33/6.json",
+    "sha": "94bc6bc2e862379f0cbdd19d2b1c39f114f1e63d",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/esperanto/33/7.json",
+    "sha": "9ac8f1a71c3fc6e7a0de42e62b294214e6b6ef9e",
+    "id": "7"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/riveduta/39/1.json",
+    "sha": "031bec53fa184186ad0d47d444201a4653a033ff",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/riveduta/39/2.json",
+    "sha": "3f0be5f69ddea90175d0f01e67d1337ed0f24766",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/riveduta/39/3.json",
+    "sha": "ed6aff1cdeb8079413d38e87cdfee687866b30a8",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/riveduta/39/4.json",
+    "sha": "aec5254bc2eaaf2377bdad85ce108a357aeee284",
+    "id": "4"
+  }
+}

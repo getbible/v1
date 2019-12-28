@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bulgarian1940/49/1.json",
+    "sha": "ae419e4f8484e126b121f93a356d86dd2c9f0188",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bulgarian1940/49/2.json",
+    "sha": "6320a6af48749050c0b3d6259ee76eacd53014bf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bulgarian1940/49/3.json",
+    "sha": "95aa624b0473471d7ffc4ee33336202be6e086dc",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bulgarian1940/49/4.json",
+    "sha": "62d1d2ff036c0935903a0a54caa3c4671063e4ea",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bulgarian1940/49/5.json",
+    "sha": "680918cd87fa1f853504532cbf118d359b2210c7",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/bulgarian1940/49/6.json",
+    "sha": "67883cdb427f9f8df4e66d00a610bb3be8a4ed03",
+    "id": "6"
+  }
+}

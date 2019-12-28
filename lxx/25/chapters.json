@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxx/25/1.json",
+    "sha": "53b5a5af8d68532237bd7e76082969e9473fa130",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxx/25/2.json",
+    "sha": "31c353a3cd646db9a5a8c7c09f655f5f3444c054",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxx/25/3.json",
+    "sha": "2f1dd123da2bba5017fa7b75c1956d9877a424a3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxx/25/4.json",
+    "sha": "aa1b5b831835e675cc4fcb551a8f7c7844ace0dd",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lxx/25/5.json",
+    "sha": "a3d8b0532a9dfa6ac6f5c0b8452eaae000c51dff",
+    "id": "5"
+  }
+}

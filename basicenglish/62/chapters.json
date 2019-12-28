@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/62/1.json",
+    "sha": "0bc36b765ce428a6f8d3bad97546fc4420de935f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basicenglish/62/2.json",
+    "sha": "1327113d3a8e7d7b093d9e8a13ed74d0cf5f2446",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basicenglish/62/3.json",
+    "sha": "fd92209e8c3f9b059b68890ac21ee05ab8a5fef7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basicenglish/62/4.json",
+    "sha": "40d61c1c16e7010887daf087f81b0f02f6624e3e",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/basicenglish/62/5.json",
+    "sha": "9dc06d001a4fb1a48f0d3013827b8c871a25ed80",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/51/1.json",
+    "sha": "30b8676e32596464010d36adf17ff9ced101db3d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/maori/51/2.json",
+    "sha": "976370c7a4a282fa082f6fcf4b600f8517fbc9e1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/maori/51/3.json",
+    "sha": "7d7d8fe1205f1608bee63b619ea038bb890b0edb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/maori/51/4.json",
+    "sha": "8f8be4993c3be9a474a1a1c9c9b773c05d339c04",
+    "id": "4"
+  }
+}

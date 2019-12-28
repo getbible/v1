@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/judson/59/1.json",
+    "sha": "aa7c890115400362d2f7bfcef1f90272ead03d05",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/judson/59/2.json",
+    "sha": "3b53a744bf2df545214cb65e11e320c9d6d03fe7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/judson/59/3.json",
+    "sha": "b0f3f8c0bab8be1f420a4858c54cec58d283f056",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/judson/59/4.json",
+    "sha": "de0d1eb97ff41218243f3b6c51319dd16117063d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/judson/59/5.json",
+    "sha": "8c50ecf4b2668742d1cbb67e875d860551ffe40f",
+    "id": "5"
+  }
+}

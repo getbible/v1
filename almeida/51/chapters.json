@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/almeida/51/1.json",
+    "sha": "11efc386e73bb329b5c0881f090a25c31e5c03a5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/almeida/51/2.json",
+    "sha": "e435ff9847d42ec63799e754ee6817880d5982b3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/almeida/51/3.json",
+    "sha": "c7a137c8f8f44b7fff4d6fea771006a18e90b020",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/almeida/51/4.json",
+    "sha": "f52117f3ef3d3e11c230c132fd211cd1d86d10a3",
+    "id": "4"
+  }
+}

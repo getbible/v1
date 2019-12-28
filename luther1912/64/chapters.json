@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3. Johannes",
+    "book_nr": "64",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/64/1.json",
+    "sha": "448cc60c3fc6d0ce930956364b3139d4ace52d97",
+    "id": "1"
+  }
+}

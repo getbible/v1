@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/8/1.json",
+    "sha": "e2a3f556836c63493924332a1278bfafa076d406",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccents/8/2.json",
+    "sha": "e89d8f509f153b6cf37e2ab42e48faf92e704d94",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccents/8/3.json",
+    "sha": "6666b77f8ddd9c2621efd6f1a65c830f0cd4eda6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccents/8/4.json",
+    "sha": "9e5da87b9d57a96e086a02e743588f067872524f",
+    "id": "4"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ylt/56/1.json",
+    "sha": "61259c72974e9f2fb0b0d0bdfb7b2fdc229932e9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ylt/56/2.json",
+    "sha": "ba35885fc5e689d1c02f20ed4999dbefb8abeb27",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ylt/56/3.json",
+    "sha": "c1750356cbce1946f3dfcbff552abd128b36b73c",
+    "id": "3"
+  }
+}

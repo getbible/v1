@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/37/1.json",
+    "sha": "86fd99f00daf30a208a82bec129923aa39aebb34",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/37/2.json",
+    "sha": "8a5fe494601d9ad8fcd83a2cb0b09abd2678910f",
+    "id": "2"
+  }
+}

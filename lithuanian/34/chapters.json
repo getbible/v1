@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lithuanian/34/1.json",
+    "sha": "21197c753ba61d2ac514da19e4e46ebe0576edc8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lithuanian/34/2.json",
+    "sha": "9ae081982183f6184e72155fca283a2450c46575",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lithuanian/34/3.json",
+    "sha": "0aee51eb830a9edd1af95726b80a7d372457a23d",
+    "id": "3"
+  }
+}

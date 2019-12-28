@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kabyle/52/1.json",
+    "sha": "59cd5929d2fec74275655cb4e31d7e28218e95f0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kabyle/52/2.json",
+    "sha": "9e4e7f29627e38f39d06a66feaae6344cef18fbe",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kabyle/52/3.json",
+    "sha": "dd818279407c85c62c84fd0ad99b36febd7bb66d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kabyle/52/4.json",
+    "sha": "e1999af9da0513610e198368279b250fddef6066",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kabyle/52/5.json",
+    "sha": "ebf02349e569b1580718bf8647d844170fd70354",
+    "id": "5"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/62/1.json",
+    "sha": "6352ea0760bc5f90505efd07621734a2a1749420",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/62/2.json",
+    "sha": "a3a01101304e8abeede50cd9ca9f68ce17d2fb55",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/62/3.json",
+    "sha": "824b2e70cb1a128c6b3075dad700e07f1a90d572",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/darby/62/4.json",
+    "sha": "dee85b268e6b348ae64342ec75940bd2ebe65922",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/darby/62/5.json",
+    "sha": "4f030654ae179aba8093c358772d61be9b6e0f41",
+    "id": "5"
+  }
+}

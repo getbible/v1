@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/36/1.json",
+    "sha": "1d9137e9a4d0e2d69608284ab5a1eddb1f8d4abb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/36/2.json",
+    "sha": "9c09b49e92b3f9f95328be56de13c64165e09e07",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/36/3.json",
+    "sha": "0a0dc7f7ef8e5b89fb72e658152d59d9a1707cee",
+    "id": "3"
+  }
+}

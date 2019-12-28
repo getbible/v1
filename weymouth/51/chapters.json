@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/weymouth/51/1.json",
+    "sha": "6099c68bac76aa4b52ddf0dcf33a561ca8df8d68",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/weymouth/51/2.json",
+    "sha": "c6bba04ff421021a671947e65d60fa496be6d585",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/weymouth/51/3.json",
+    "sha": "e9a906bfe615a8b3daeb8468ff7a7441e4e056b7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/weymouth/51/4.json",
+    "sha": "c830d92b5523e06c4ab89658ed8c9b684a499b41",
+    "id": "4"
+  }
+}

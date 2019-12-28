@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ylt/62/1.json",
+    "sha": "d27855e56c1bcc8ec65005f0e3bdbccc6f93a7fc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ylt/62/2.json",
+    "sha": "c96d0b337145ac3205172009fe894fcabcc88cf6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ylt/62/3.json",
+    "sha": "1b46cf86e1364a263e1f7bd9e656149d1c45c5b4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ylt/62/4.json",
+    "sha": "ad4a651b547ca7d2228f1c7941e649a3adcdb345",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ylt/62/5.json",
+    "sha": "40fa07e2ad891757d022c026f7f0cc336af15f0b",
+    "id": "5"
+  }
+}

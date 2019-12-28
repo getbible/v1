@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/statenvertaling/49/1.json",
+    "sha": "6c37f9c998897424756984ef67c9a81fc70c46bb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/statenvertaling/49/2.json",
+    "sha": "11ecf2bc0f969f0080e11319f8a3b604dfa16c62",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/statenvertaling/49/3.json",
+    "sha": "362d379eaf1c2d513a56d3524fe40e0fc3ee9ae7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/statenvertaling/49/4.json",
+    "sha": "34406d4b66b2e49d9dc66001223d8c126842b673",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/statenvertaling/49/5.json",
+    "sha": "6ec2fbadb0e76b85e50ce8faeaaa8b81b4fe540c",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/statenvertaling/49/6.json",
+    "sha": "d764c26c26a8fa90c72e339eb1879dbfc73fa73e",
+    "id": "6"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/nkb/52/1.json",
+    "sha": "64ec794127263ac33c98f6f7608362ec986c0afd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/nkb/52/2.json",
+    "sha": "c2190430769c59cd2203c8de70258dff291d8a4e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/nkb/52/3.json",
+    "sha": "bf798e00bb28950249c3d50633933da507822d44",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/nkb/52/4.json",
+    "sha": "a52b5833a803585e757f97a657bff1c6a7486267",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/nkb/52/5.json",
+    "sha": "4764fec9944f1cea04dfb71a91f8d3f14809e232",
+    "id": "5"
+  }
+}

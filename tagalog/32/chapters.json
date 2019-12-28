@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tagalog/32/1.json",
+    "sha": "b065ed47119c9e5f93eca8939a10609e831f5821",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tagalog/32/2.json",
+    "sha": "f3aca9e78d62133b1a1b8609cbafdcb27b0831f2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tagalog/32/3.json",
+    "sha": "12342668e52294b5c34846d250002e8c8eb4aa5d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tagalog/32/4.json",
+    "sha": "3c3a3c33c5dd48a3469b759142df904a392ad722",
+    "id": "4"
+  }
+}

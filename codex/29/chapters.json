@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/codex/29/1.json",
+    "sha": "8333ee2254133c0718e259f206af1172131b6919",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/codex/29/2.json",
+    "sha": "f39a7355a8e80b19aee3e3afaf647faa7caea2eb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/codex/29/3.json",
+    "sha": "0943eff0e3fd2ab29f15570b7d21330ae5195c90",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/codex/29/4.json",
+    "sha": "e0c2f03f737e33dcacc68dd37037669d7137bb9e",
+    "id": "4"
+  }
+}

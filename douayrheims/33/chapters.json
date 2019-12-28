@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/33/1.json",
+    "sha": "2fec95bbd810f32ee494299b534128f22ff59ec2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/douayrheims/33/2.json",
+    "sha": "b548a095e3472e1e0abf5a6f1fb9f1a3cf9b5c27",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/douayrheims/33/3.json",
+    "sha": "7e8a7274c7a62d853e6a103ed9098438469b9c82",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/douayrheims/33/4.json",
+    "sha": "b8d0cd2bda14db2ced7a12a31611c7d02a3f69bb",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/douayrheims/33/5.json",
+    "sha": "e63777f77ecbfc4eca194612c3dfc6f8ec3e17e8",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/douayrheims/33/6.json",
+    "sha": "b6064215f27b875e7494bcce539ec12d83b0385d",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/douayrheims/33/7.json",
+    "sha": "f5ac527584a378c4a01d6f12f2258147364247b8",
+    "id": "7"
+  }
+}

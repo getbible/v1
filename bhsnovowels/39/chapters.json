@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhsnovowels/39/1.json",
+    "sha": "c7ddfcd0b6c3026aca61dbb5d08ed32a9e415fbf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhsnovowels/39/2.json",
+    "sha": "68f3fdb9be74473207474ddc4ccfbf7c4b563365",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhsnovowels/39/3.json",
+    "sha": "db6048f3732cff84dc4bd7cd3a828b70b8b2b7c4",
+    "id": "3"
+  }
+}

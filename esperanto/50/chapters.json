@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/esperanto/50/1.json",
+    "sha": "90b3f5eab81bf21fd305358772dc1128ac348e6d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/esperanto/50/2.json",
+    "sha": "f966bb5f6fe4153bd63067b5eb16413eb37fb78a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/esperanto/50/3.json",
+    "sha": "c22a0ad49553bd344be220b55714c4baae840543",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/esperanto/50/4.json",
+    "sha": "8cfebc9df3a52961d4c63f52a7ba330708ca6383",
+    "id": "4"
+  }
+}

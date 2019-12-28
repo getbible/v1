@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/56/1.json",
+    "sha": "3d63d2d84ad113646bc85a118b3ab4ca7d31fd34",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/56/2.json",
+    "sha": "c8591a616062e5944c261e0e39616671dd6efa11",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/56/3.json",
+    "sha": "9ff44572e6926d7ce178ec2a247c8935404bfc3a",
+    "id": "3"
+  }
+}

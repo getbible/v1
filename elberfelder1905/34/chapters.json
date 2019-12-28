@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/34/1.json",
+    "sha": "850ab710a7a5a8bca6e8506c095108fa5ae64ac5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/34/2.json",
+    "sha": "0c0cb1e5a452ed6659a20ad76c7c5930d51b0cb4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/34/3.json",
+    "sha": "e8538ac0bd3fb8479a0d6f2cc1220f4280c0ad7e",
+    "id": "3"
+  }
+}

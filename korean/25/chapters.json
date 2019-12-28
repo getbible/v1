@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/korean/25/1.json",
+    "sha": "821a31c08f2da0874369fc3cab8899c8c1295212",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/korean/25/2.json",
+    "sha": "2a6f24beec4756b6136215a247522adf4a5a1993",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/korean/25/3.json",
+    "sha": "655bfbce77384e4b63f4dba0d66fac555048e15b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/korean/25/4.json",
+    "sha": "5282d0d099a977649bcd79e28a48aeacbe5b5d32",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/korean/25/5.json",
+    "sha": "90beff6f5d7a0108730e6a3acb22821fbbed0fd1",
+    "id": "5"
+  }
+}

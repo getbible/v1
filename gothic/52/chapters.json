@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/gothic/52/1.json",
+    "sha": "7f815b640738a167ae78f82979fdf250458e6c0f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/gothic/52/2.json",
+    "sha": "4ebb93d47560d36f5f8253cb0aee2bb7196eb7d0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/gothic/52/3.json",
+    "sha": "772157f2d96a9a29c1bdba2f19a70cd05c641499",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/gothic/52/4.json",
+    "sha": "fd52ceb6ebf3ac0a5fdb9ffe9c45bb48128ebe96",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/gothic/52/5.json",
+    "sha": "5f48d7195b24ef79d705ddc3bd70c74c7c73cc40",
+    "id": "5"
+  }
+}

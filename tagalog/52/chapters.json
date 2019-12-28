@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tagalog/52/1.json",
+    "sha": "b02e398d49c865d48f6e74ab65ab53b293aad5d2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tagalog/52/2.json",
+    "sha": "031bc1e0a0122892c4f542be8bbace9a5a5d7a99",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tagalog/52/3.json",
+    "sha": "0d1f43cad50ee3e3ac11ec02cd6cf9abf799e615",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tagalog/52/4.json",
+    "sha": "dfb76bc5bff67e8a002541c413861f76bec89922",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tagalog/52/5.json",
+    "sha": "5ebd3a004bc8eef10b86e5f50e7461cc9b304e6a",
+    "id": "5"
+  }
+}

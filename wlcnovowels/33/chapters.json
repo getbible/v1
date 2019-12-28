@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlcnovowels/33/1.json",
+    "sha": "5b63310e4752804b26945e523087e43eedfb0252",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlcnovowels/33/2.json",
+    "sha": "5be0917dde73fff216863282ab41b7d5d425c9c3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wlcnovowels/33/3.json",
+    "sha": "49466fd3138957940c1c09e226e58820b30a109a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wlcnovowels/33/4.json",
+    "sha": "d904e2975addef34435143803416f837ededa5b4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wlcnovowels/33/5.json",
+    "sha": "5d724f279a0cb0660ddaaf03c757d1a24d5010bb",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "6",
+    "url": "https://getbible.net/v1/wlcnovowels/33/6.json",
+    "sha": "87096f97479f567d5e5914349a7cb49c7e115466",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "7",
+    "url": "https://getbible.net/v1/wlcnovowels/33/7.json",
+    "sha": "3b12baf37a046795ed66e1661dd13f897e8550e4",
+    "id": "7"
+  }
+}

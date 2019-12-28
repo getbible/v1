@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/uma/52/1.json",
+    "sha": "085663a8448021cd17a9f38d6f7cc4590f061899",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/uma/52/2.json",
+    "sha": "fd2988d5024fe39624d9c3755081005b6fa62b40",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/uma/52/3.json",
+    "sha": "c77ced2a36db8e86b522e9fedc8376e829e327a3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/uma/52/4.json",
+    "sha": "eb5911c894c204177a7594a15b3b05306e6ea3a8",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/uma/52/5.json",
+    "sha": "cdbedc4b4170cf6aa3e44bf340d83fab2de2c7e7",
+    "id": "5"
+  }
+}

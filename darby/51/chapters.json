@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/51/1.json",
+    "sha": "236d8ddce60f478f321af9f9b55f5a50917ab234",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/51/2.json",
+    "sha": "98538acabdee3c45fa50721f8e5e137e0eabe717",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/51/3.json",
+    "sha": "919c346cd1d9efcab8e4014e444f96247056c5bc",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/darby/51/4.json",
+    "sha": "501c3a6556cfff2f94fdc56d6fadc8c3e2f7f5f3",
+    "id": "4"
+  }
+}

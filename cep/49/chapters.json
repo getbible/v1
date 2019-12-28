@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cep/49/1.json",
+    "sha": "be543e2780b1d39eebd3187211150bd0311aa96f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cep/49/2.json",
+    "sha": "c4933dfd1ab3da6498d99483dfcfc602c30b1050",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cep/49/3.json",
+    "sha": "c1b7ec1d4e3b343a8b0cce7611b49fc70ba91a47",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cep/49/4.json",
+    "sha": "2919b62574066c39d5627d978ca3ccaa316d261c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cep/49/5.json",
+    "sha": "a2b6d30a4bf30f3c1e745800a514b5e0796e7c6e",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/cep/49/6.json",
+    "sha": "386e6ab1970be9c23267fef88cf5e64f9faac3cc",
+    "id": "6"
+  }
+}

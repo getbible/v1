@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/judson/53/1.json",
+    "sha": "08b5df56246d77ee98b66c022cef02cb98b91970",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/judson/53/2.json",
+    "sha": "850045b2ee44a34c3f0d17692a1a272ed9f695b4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/judson/53/3.json",
+    "sha": "2ddef6950fe54c29b99cba5883da448a4d9a8406",
+    "id": "3"
+  }
+}

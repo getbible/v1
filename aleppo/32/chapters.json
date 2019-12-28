@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/32/1.json",
+    "sha": "0a37fedd529a05809c9c9d99004bff3e7e85b60a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aleppo/32/2.json",
+    "sha": "feb278d4e9a7ed5b1c5463b2d3914768667f485b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aleppo/32/3.json",
+    "sha": "e45ffeec0554e19c950d128f89e091bc473a1cfd",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aleppo/32/4.json",
+    "sha": "1466f1ef21b0e05aa8b9de87f437e4f69965b574",
+    "id": "4"
+  }
+}

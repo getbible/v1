@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/majoritytext/56/1.json",
+    "sha": "43220389362da738b8982ef23479b98bc261bf50",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/majoritytext/56/2.json",
+    "sha": "ff57f4430a3a04654d219e097536b3464bf68fe3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/majoritytext/56/3.json",
+    "sha": "8a19625bdf554227057fccd14e66cee32d0a7b75",
+    "id": "3"
+  }
+}

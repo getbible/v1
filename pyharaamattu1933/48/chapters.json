@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/1.json",
+    "sha": "3e2396dfc7507c644b68bc8c738e54df06d9d8ee",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/2.json",
+    "sha": "8ab23f00b20bf23fbec0a6db3bd4fbab27e2a90f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/3.json",
+    "sha": "af5fde59f98a0330c4b350fc777ad127346893cb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/4.json",
+    "sha": "43c5e67fedf6244900357c3c3c567f112dba84be",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/5.json",
+    "sha": "4e0cb769a2335cf5c9fac8832837d851457b553b",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/pyharaamattu1933/48/6.json",
+    "sha": "d91928a5db0f91e85a015e60672534a8118d149d",
+    "id": "6"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlc/39/1.json",
+    "sha": "538ea0a03db3ff33ea8f7eadfa29b959b02a76e0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlc/39/2.json",
+    "sha": "1569b4358bbeb0520e289faf6f9028f1e1a6609e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wlc/39/3.json",
+    "sha": "e3205d0c68a1e0a90c3d16ccd2c248f201444e05",
+    "id": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/64/1.json",
+    "sha": "eb7c4c98f97ef53273aea787bd124f93b5febbba",
+    "id": "1"
+  }
+}

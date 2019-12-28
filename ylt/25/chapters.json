@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ylt/25/1.json",
+    "sha": "9806de9b06cf55b02b2981c14745a6ecefa86448",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ylt/25/2.json",
+    "sha": "e771cead17ad77f6b759ee6b071be8bb61eaf6e1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ylt/25/3.json",
+    "sha": "8db83ab5f2ff66a3dbd670a855e81b807988ce42",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ylt/25/4.json",
+    "sha": "8b9294246026da5a7852367ebf432ef3bd3fa3cb",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ylt/25/5.json",
+    "sha": "de32ac44e7221e0eec049b2d1a65f6c290992390",
+    "id": "5"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/valera/25/1.json",
+    "sha": "8ba1eec537e2f6f6c5e00ef6e9278f5f314741c8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/valera/25/2.json",
+    "sha": "9fc2a8e3b15034bc3b30f31e450ae27db1e3e425",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/valera/25/3.json",
+    "sha": "b37108e95fda5d3ebb839b9158f193844bddc3fe",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/valera/25/4.json",
+    "sha": "91422b8ba2ccbf09bd4d39e81ee12d9a3da1069a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/valera/25/5.json",
+    "sha": "22bca1feb1f3c73d431107c264d3a01b54f3a82c",
+    "id": "5"
+  }
+}

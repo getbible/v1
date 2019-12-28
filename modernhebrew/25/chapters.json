@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/25/1.json",
+    "sha": "122737f62ee9f544c30c268203d4696305c1b772",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/modernhebrew/25/2.json",
+    "sha": "ac47f59b1f65d901953dc9a5a8e1bbb27879ba00",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/modernhebrew/25/3.json",
+    "sha": "475fd92919af06f3216517fba52c15abedf526ed",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/modernhebrew/25/4.json",
+    "sha": "0244c449bae345bd91d3af4376df51cffbc78ed2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/modernhebrew/25/5.json",
+    "sha": "7aac110c18fe3f6f0d9865c6c5dd78502172876d",
+    "id": "5"
+  }
+}

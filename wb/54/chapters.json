@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/54/1.json",
+    "sha": "62f3b65fe898b0ba4ce1fa077018111883305f92",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/54/2.json",
+    "sha": "f13041253e419d8bd28ab9c0ec8ab1f8006e2a94",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wb/54/3.json",
+    "sha": "f3a7a43400363dca5bb652030d11263b27301ab5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wb/54/4.json",
+    "sha": "ce719c2ce89cef64d095944fdba6637cf47442f4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wb/54/5.json",
+    "sha": "51574e860582f09dcfdea946ecd52845b7390dce",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/wb/54/6.json",
+    "sha": "f8a9311f2fc25237f893a05d9f22c9d3638b18ae",
+    "id": "6"
+  }
+}

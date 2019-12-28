@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/majoritytext/48/1.json",
+    "sha": "3b1f94f356ce8a9412067df338c144de1c7b40a6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/majoritytext/48/2.json",
+    "sha": "94d64cc147a1ef5cf74836293ded2aba6bcb87ec",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/majoritytext/48/3.json",
+    "sha": "202b436c4f3c040b8f50efeb13801687e35077e9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/majoritytext/48/4.json",
+    "sha": "5a9da100561c802cd5e2aa351947be2240b86b1a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/majoritytext/48/5.json",
+    "sha": "b0ebe49b4214720f234dd28c67ff664d7473f65a",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/majoritytext/48/6.json",
+    "sha": "efabefb088815ba2e94abcc4ba9bf342ed926b20",
+    "id": "6"
+  }
+}

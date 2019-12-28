@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/1.json",
+    "sha": "7e421758dc4f5ebddc37d7857dc39f4c46280b1b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/2.json",
+    "sha": "cf517466c9d942b6e1d8cddf775d2249fdb9fee8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/3.json",
+    "sha": "bc85eebb4fc7281d3cc60c6cde2ae9a7b2f73e0d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/4.json",
+    "sha": "bb2f901c4771cd0d33d55a06bddc2e07d20246c8",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/5.json",
+    "sha": "254c589f8782f8ede31de0da460ecfb58de997f3",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/pyharaamattu1933/54/6.json",
+    "sha": "e4303db33a3812bd7380b739b226a32497079ff0",
+    "id": "6"
+  }
+}

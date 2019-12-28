@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/51/1.json",
+    "sha": "a7a5729688490c20c79ac8640da799d217271779",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcotthort/51/2.json",
+    "sha": "2ae73a26f0dfa1e536042582164d58dfd5fa3d8e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcotthort/51/3.json",
+    "sha": "660a90261cc2e11480d01f12cc5590110b9bfa66",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westcotthort/51/4.json",
+    "sha": "fc0b938f0c6e1288161734d3014a3b7e398c772d",
+    "id": "4"
+  }
+}

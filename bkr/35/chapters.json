@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bkr/35/1.json",
+    "sha": "532bdd8e654ffaaec7a20e85839f5f6a1d4301e6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bkr/35/2.json",
+    "sha": "68283fcf943c461dd41074776933fb855ef83726",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bkr/35/3.json",
+    "sha": "7af0f1e26b90924f75cc9e51cdbdb8eda5803a3d",
+    "id": "3"
+  }
+}

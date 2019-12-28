@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swahili/32/1.json",
+    "sha": "159bff822cb28d34ee371629f36d48c11becda62",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swahili/32/2.json",
+    "sha": "d8a1035b47b556a7047352a5aca5c3439219100c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swahili/32/3.json",
+    "sha": "7fc07c0f90fb964fd0c3c0f4bd375336167c9de8",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swahili/32/4.json",
+    "sha": "e63e6d269e0ec45f4c327076131aa970b025f053",
+    "id": "4"
+  }
+}

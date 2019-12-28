@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/65/1.json",
+    "sha": "5c4488621f0535922c5f8446532e547ed782a967",
+    "id": "1"
+  }
+}

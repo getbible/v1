@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kabyle/54/1.json",
+    "sha": "d32b01f97fb5813b387bcb98b1338e7c5bb83e04",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kabyle/54/2.json",
+    "sha": "1ad0febf9860b3ecb648998422c04eea3edf8736",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kabyle/54/3.json",
+    "sha": "63726c87feaa7fb532579b64e09c4a07dccce49c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kabyle/54/4.json",
+    "sha": "5d0c1570867185548adebd5557adbcb17a3a802b",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kabyle/54/5.json",
+    "sha": "d3a33a8b6651fa2d6822a46bb63a298adf7d6ce2",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/kabyle/54/6.json",
+    "sha": "afd9ad32933e411e1d8b21fb8f5815f30ff0e352",
+    "id": "6"
+  }
+}

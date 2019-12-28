@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/xhosa/62/1.json",
+    "sha": "35c694648584779134976ed716e6107e6d7ffa06",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/xhosa/62/2.json",
+    "sha": "aba51009527d8a8a4e870f8f76edbeb635d77691",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/xhosa/62/3.json",
+    "sha": "808e94568299778d8023c812f65ddbaebd62cc15",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/xhosa/62/4.json",
+    "sha": "0a3a04ace405e78989c4044ab188312f682640d4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/xhosa/62/5.json",
+    "sha": "d0f219afeed2d3b71556dbe2a371eb355b474e32",
+    "id": "5"
+  }
+}

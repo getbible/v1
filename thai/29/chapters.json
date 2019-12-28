@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/29/1.json",
+    "sha": "2e4d10c5d2bacd013e5e7cefde7f6889f08fa6d6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/29/2.json",
+    "sha": "5113c0594c2741a2c4bd273978ca9787ab689cbe",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/29/3.json",
+    "sha": "6c839aba1c3b1a4972a77c1081e619f4016a7b03",
+    "id": "3"
+  }
+}

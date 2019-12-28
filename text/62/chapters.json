@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/text/62/1.json",
+    "sha": "f0d619ef41af6a03e5bd0f312b5ff5036b9333d0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/text/62/2.json",
+    "sha": "62ed7d49592835668e4854274eb7f46e421eb312",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/text/62/3.json",
+    "sha": "fe8851cfaf2236456cf2fa59da3cd0d4331d832c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/text/62/4.json",
+    "sha": "09b575621ab1ff8ddfd2556e04f4b40e4672cf7d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/text/62/5.json",
+    "sha": "919645c2b3e654ec6ed3302572a4d9bc39a08d8d",
+    "id": "5"
+  }
+}

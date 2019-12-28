@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/8/1.json",
+    "sha": "da53bc80792074ebdb451fe4caa6fb8ea61ce6ad",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aleppo/8/2.json",
+    "sha": "d6c4c3dd6cb9e5690e2aca0470f48ccec94b507c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aleppo/8/3.json",
+    "sha": "b42e70dd2e34f8c360c1de7c49c31fc451699774",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aleppo/8/4.json",
+    "sha": "283b319c88c9558645e3de17b7c0510fd0fa2150",
+    "id": "4"
+  }
+}

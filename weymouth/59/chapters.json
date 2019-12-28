@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/weymouth/59/1.json",
+    "sha": "0b8a91a5ffb33cccd2a1cba1275fc9671c678a54",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/weymouth/59/2.json",
+    "sha": "1ed8730745dba7ca374289de5f047bd5538bad22",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/weymouth/59/3.json",
+    "sha": "2ed71c8be94be2096552491ef534450a922b6fad",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/weymouth/59/4.json",
+    "sha": "dc40f51a7d8a12330ffb8ffc77379d300d85c8fc",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/weymouth/59/5.json",
+    "sha": "856d5a9254f04701c0d5e246af77eb1c47836823",
+    "id": "5"
+  }
+}

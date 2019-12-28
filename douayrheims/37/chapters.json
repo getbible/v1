@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/37/1.json",
+    "sha": "f2048a3952555c166f0ab7ebeb3596a438d9e5a6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/douayrheims/37/2.json",
+    "sha": "74171eba1a463d7bd676cfadb229237fe1c22588",
+    "id": "2"
+  }
+}

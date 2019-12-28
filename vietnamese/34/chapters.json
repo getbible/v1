@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vietnamese/34/1.json",
+    "sha": "3101ce58e5bddf6cfc6ad9b1f606ea3fdc45edfe",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vietnamese/34/2.json",
+    "sha": "c5a7f238757a2eb66d68b9c7d4b864fbd236e957",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vietnamese/34/3.json",
+    "sha": "c351befb4bb17b50b0d25aec9a52171255d462bd",
+    "id": "3"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/karoli/51/1.json",
+    "sha": "0ae42ba665d87178ad5840f70d9e59b5f5ef0040",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/karoli/51/2.json",
+    "sha": "562bff327f259b1f4ca3e26a31e26c44b61dd317",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/karoli/51/3.json",
+    "sha": "0e65c9d0a7bba1c3e6727d5a892c0726b30d466f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/karoli/51/4.json",
+    "sha": "f7d33b82b906641e747dade4e3d4d909c0f2398f",
+    "id": "4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/52/1.json",
+    "sha": "cbee47e8bca8aeca5587af6df53becefeecba97b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/52/2.json",
+    "sha": "6325d2b5682d798ef6e839831f5f1fbd59bbc2cd",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/52/3.json",
+    "sha": "93e01637862085d3b53c2ace0d9631ceb5e6bfd4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/52/4.json",
+    "sha": "abdeb6b4f7fa53eae1160c505734e2c7d489fb03",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/52/5.json",
+    "sha": "96abeabdf64f6e76b6b96b3b6f08010ab952f969",
+    "id": "5"
+  }
+}

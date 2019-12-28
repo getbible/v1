@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cut/29/1.json",
+    "sha": "5fbece3ace1741dd4f66360b62daf077561611dc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cut/29/2.json",
+    "sha": "a038135545f5ee9cf33374c6adf5ed6165cd7303",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cut/29/3.json",
+    "sha": "bf5975dc67c16dc4b9b969a9000a18b1a4e3bada",
+    "id": "3"
+  }
+}

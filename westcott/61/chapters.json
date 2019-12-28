@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcott/61/1.json",
+    "sha": "79cd812e5dfbeecf1e151c1f775e0bd3716719c3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcott/61/2.json",
+    "sha": "8cfff56b138f59378b2e578c4783465ec89b614d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcott/61/3.json",
+    "sha": "dd32991282a23d81009388a44b18a9c75e1f7af2",
+    "id": "3"
+  }
+}

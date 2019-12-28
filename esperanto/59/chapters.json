@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/esperanto/59/1.json",
+    "sha": "c75608418956c9f7a451f5b936faa37e5e507467",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/esperanto/59/2.json",
+    "sha": "d7c735bdd75dfbc2bd35a0435049a7250ff8d27f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/esperanto/59/3.json",
+    "sha": "659b31133cdd2ab7c8cca6cabc0b94a8327ce134",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/esperanto/59/4.json",
+    "sha": "7829ad68757994aae5f070560b33e23bb815205c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/esperanto/59/5.json",
+    "sha": "d0b90d6dd35c03899733e5de1c369030acba9e07",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sahidic/51/1.json",
+    "sha": "c6c2ec9385050c7ecfca0f5f8e604ae920cbc381",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sahidic/51/2.json",
+    "sha": "78764ec4231435aa604242449ca3a5322d61dd4f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sahidic/51/3.json",
+    "sha": "2e17d8e5dd639ef19a2ff0d3454c609f814cf532",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/sahidic/51/4.json",
+    "sha": "80a888c24469ae007dc842908097d969aa8d3089",
+    "id": "4"
+  }
+}

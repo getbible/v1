@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/57/1.json",
+    "sha": "525cda2389b5e30f4343fc27666448bd572bf959",
+    "id": "1"
+  }
+}

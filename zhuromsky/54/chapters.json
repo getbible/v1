@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/54/1.json",
+    "sha": "8f2f6b48ca193c2a37926b27ed5f399dbb1daf19",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/zhuromsky/54/2.json",
+    "sha": "5675f2f9a552e4217ee444543ba6c6ee061ed280",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/zhuromsky/54/3.json",
+    "sha": "f60f60a8689206796da4ff6302bc9514c1e3afd2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/zhuromsky/54/4.json",
+    "sha": "bee1cd33cdd0812f1eab395b600d70d7b2e1b0cb",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/zhuromsky/54/5.json",
+    "sha": "3295bb96561435fef08f7a627a0b1743754d51f8",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/zhuromsky/54/6.json",
+    "sha": "ea9044910ec74ff7fb789d75fbd14f567d0852d5",
+    "id": "6"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/25/1.json",
+    "sha": "e82efc0ba37fb5a1cc2fd608082bc3ecb22793a7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/synodal/25/2.json",
+    "sha": "e59eb5a313eebd71caa6e92324d21c66414350d8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/synodal/25/3.json",
+    "sha": "3ec63db53c37935d61c3ec8bd9d1bf68ef4b8b9a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/synodal/25/4.json",
+    "sha": "9228298e1b71a8d6f884aa84e1b75cfb6443a2d9",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/synodal/25/5.json",
+    "sha": "0b4dfb65da5a113cf11c6bc9797956d23bc98dd7",
+    "id": "5"
+  }
+}

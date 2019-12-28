@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swedish/35/1.json",
+    "sha": "2ae7328c67beb7de16cea15c8768a8d316dc5c1c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swedish/35/2.json",
+    "sha": "3c80acce4efd0f2181ff24d9a260c8d091d45d4d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swedish/35/3.json",
+    "sha": "71211baa662953ff77bc421cfcb16549489ba28a",
+    "id": "3"
+  }
+}

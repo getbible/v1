@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/albanian/50/1.json",
+    "sha": "9ada8aa067221572e0eb83e06450400750a26d52",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/albanian/50/2.json",
+    "sha": "01f4524642b09e3e4a7c062ed64cc54ccede1291",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/albanian/50/3.json",
+    "sha": "d764c3a6296e91352dbb63d7814ed32a8aa159af",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/albanian/50/4.json",
+    "sha": "50115badd8cf15a05b45640798b1295767acf3bb",
+    "id": "4"
+  }
+}

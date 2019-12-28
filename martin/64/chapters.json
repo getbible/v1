@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/64/1.json",
+    "sha": "195d8484f7fc04dd6f15619de3f34cd685a994d8",
+    "id": "1"
+  }
+}

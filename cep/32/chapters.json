@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cep/32/1.json",
+    "sha": "69b3960bcfbcb9bba810abecca9894016825e633",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cep/32/2.json",
+    "sha": "94a683b86f3130e840f95c6d41e219ddf224941d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cep/32/3.json",
+    "sha": "6368ea1238963709d326e2762430e76da7516ff6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cep/32/4.json",
+    "sha": "7c97df9d86792cb9f0aa18f982c5edc890497914",
+    "id": "4"
+  }
+}

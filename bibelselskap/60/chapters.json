@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/60/1.json",
+    "sha": "908a7200a482066137bfd8728c697b7d3bd6b15d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bibelselskap/60/2.json",
+    "sha": "cc13a0ba2208a1c83556c6d13fe9d41657160c2a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bibelselskap/60/3.json",
+    "sha": "03aed6b842cf8fbc0d83982987da635f3a6423a6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bibelselskap/60/4.json",
+    "sha": "c54338f41ef9f486b8e4810043b25af68d1296cd",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bibelselskap/60/5.json",
+    "sha": "4821076a9e2b6c381a0033568f168a6ef04ba82f",
+    "id": "5"
+  }
+}

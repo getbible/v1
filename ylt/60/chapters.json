@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ylt/60/1.json",
+    "sha": "f13fcec3339ad17da5a36869a00409bf636ea846",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ylt/60/2.json",
+    "sha": "8d8b18e055a285ba762bd7eec82f2a023fd88e1d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ylt/60/3.json",
+    "sha": "0375a90936e394d06c1c7e881fc80de59cc2022e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ylt/60/4.json",
+    "sha": "99e5ac67cc4ee4a1e412fcd4eb57ebb57b18153f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ylt/60/5.json",
+    "sha": "236f80323a116a09d1d80c8a30836ac87ca213e4",
+    "id": "5"
+  }
+}

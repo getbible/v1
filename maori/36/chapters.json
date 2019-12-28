@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/maori/36/1.json",
+    "sha": "dd04eee7a673fd34c31049ea18a06eb570fd2ad9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/maori/36/2.json",
+    "sha": "9cc2e6f4e2c85ba2c219e678f0773377a7290b7d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/maori/36/3.json",
+    "sha": "535ddf473df88ec6e798f556de579b23ee29eb8b",
+    "id": "3"
+  }
+}

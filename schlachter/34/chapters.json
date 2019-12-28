@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/34/1.json",
+    "sha": "c23e7c4ae274287e6682e0411340337039ea9ae9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/34/2.json",
+    "sha": "145db6d24182f3e12fc363fdaa37eaf5f707d437",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/34/3.json",
+    "sha": "5d8b1df8ee2e373ba85bd5d69068d94fbfcada01",
+    "id": "3"
+  }
+}

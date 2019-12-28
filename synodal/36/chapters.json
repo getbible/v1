@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/36/1.json",
+    "sha": "6d97ce21cb0624d9e59ed5b630572eb69baf97a0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/synodal/36/2.json",
+    "sha": "7d03833971379b40ac01dfb16d2b5bb35bcbdfa9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/synodal/36/3.json",
+    "sha": "91c814280226812156b19479c345646749c3b194",
+    "id": "3"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swahili/62/1.json",
+    "sha": "f92f41b2eaa02703ef115646a5ac69c69476087b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swahili/62/2.json",
+    "sha": "311ac8d2f43ed846d18b7b06f262fdc8697486a3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swahili/62/3.json",
+    "sha": "ee5847a7351b59e1b5f1108824e8575dd5fb03e6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swahili/62/4.json",
+    "sha": "6dd0b88e226392b733acfc0193f32e077b699166",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/swahili/62/5.json",
+    "sha": "880dd3b0346129e620323d2d163b49d04344f92f",
+    "id": "5"
+  }
+}

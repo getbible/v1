@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/36/1.json",
+    "sha": "1e90a04b18d8d905907c4787e85d825ad3e60ed1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/hsab/36/2.json",
+    "sha": "83b986cf8101f2f344d869372c6b3c86387f624c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/hsab/36/3.json",
+    "sha": "4ea80945088d365985700b0da60744bf541e3f2e",
+    "id": "3"
+  }
+}

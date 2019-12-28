@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/riveduta/48/1.json",
+    "sha": "5ca5a06da875e0d2f5eedc1a216ec20390e95ea0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/riveduta/48/2.json",
+    "sha": "fe76efdb7b4e314d37e87d0ae108ee0a3600b700",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/riveduta/48/3.json",
+    "sha": "48de26296bdef86a337b42f44f327efb020ef449",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/riveduta/48/4.json",
+    "sha": "bb8ed76fa05efc5977740100c8b2bb5c86a3bade",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/riveduta/48/5.json",
+    "sha": "6dad22a4efc6ea01050b33d3f79bdc0aca78a92c",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/riveduta/48/6.json",
+    "sha": "20122fa1344b07d9ca70a60c1e5b96d29ed6ba7c",
+    "id": "6"
+  }
+}

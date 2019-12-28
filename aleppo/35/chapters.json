@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/35/1.json",
+    "sha": "bd639f9e3b5b3609eb2353dfc9d434b340d3606f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aleppo/35/2.json",
+    "sha": "0b7264eef18f7134e6cfd3e7fa494018001c1278",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aleppo/35/3.json",
+    "sha": "30cb98573b57807add00b016b6368292618093b0",
+    "id": "3"
+  }
+}

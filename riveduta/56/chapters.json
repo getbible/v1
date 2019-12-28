@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/riveduta/56/1.json",
+    "sha": "ff489cbcf2af27dfb59c558416bb0ff34c5c4ec2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/riveduta/56/2.json",
+    "sha": "85d90c8940a4b67afa1f3b3ea85392ae05aa54d4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/riveduta/56/3.json",
+    "sha": "61f0dd25098a2272048d576270230909fc6c5dbf",
+    "id": "3"
+  }
+}

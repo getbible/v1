@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ostervald/29/1.json",
+    "sha": "7e0c507f4812af99e4ab13c83037511a67a0e9f6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ostervald/29/2.json",
+    "sha": "e92b5c834da37543a8d7245cd30f5d7831dfc61a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ostervald/29/3.json",
+    "sha": "148bc96a2090b32dbc4d945b5f87bbca3bf5cae6",
+    "id": "3"
+  }
+}

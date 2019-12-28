@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/riveduta/33/1.json",
+    "sha": "98f96ca2e391338474b6f1c5a3791ea15bfbd22e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/riveduta/33/2.json",
+    "sha": "c6679016fb84ec98d134103cc269a6fcc6999689",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/riveduta/33/3.json",
+    "sha": "2c55ce9ede07edb14255d35eaeb9c9abe21f5754",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/riveduta/33/4.json",
+    "sha": "c75a7bd31f9b96bf016e6f85b74f87ef354f465e",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/riveduta/33/5.json",
+    "sha": "7f479d09d317025bbf97bf7324e85ba4cd4b0c8a",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/riveduta/33/6.json",
+    "sha": "c3a206be6b100f9504f6049edb88ad49f2bc7ee2",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/riveduta/33/7.json",
+    "sha": "d095ca5884181bfa71bc2c0b43c82461642caad1",
+    "id": "7"
+  }
+}

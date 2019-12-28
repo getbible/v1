@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vulgate/59/1.json",
+    "sha": "8105412691762f87191d8502621275deec8eca5e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vulgate/59/2.json",
+    "sha": "37c9b885cf736e88c7a63e7166da7ea831465dbd",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vulgate/59/3.json",
+    "sha": "a2d7116ff14c7085fa3ada7f68b5746c5a97e95c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/vulgate/59/4.json",
+    "sha": "dfb075e4dbed3b031aa7ebbe9057f3fe37e60b7e",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/vulgate/59/5.json",
+    "sha": "d43473b3844293d80abcb2bf573ca2a292f79c77",
+    "id": "5"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/59/1.json",
+    "sha": "30944ddf1dcefc7ae67dd35c7290fcfe50119621",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/59/2.json",
+    "sha": "80ecd8d3e2b40d5876a26e25a750cecf9348fb35",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/59/3.json",
+    "sha": "39b02ad4de5713a515389a9cbfd48e1bbb7c885b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/59/4.json",
+    "sha": "afa885c8ec88efa2e4ad6d0771014150fe6d1579",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/59/5.json",
+    "sha": "4e42f2a7ea1b79811a7146ccc5e9af6e9f338492",
+    "id": "5"
+  }
+}

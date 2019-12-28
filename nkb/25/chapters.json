@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/nkb/25/1.json",
+    "sha": "505705d978df203bebc6dcf1771aee99f8edc58e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/nkb/25/2.json",
+    "sha": "ec428262b3381b5c674db96b0ead16be97f6a970",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/nkb/25/3.json",
+    "sha": "0972a74c8bf08d85e6a07e87edfba0ce60bfa749",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/nkb/25/4.json",
+    "sha": "f02f3a207fd504314408185402d88d44124d13a2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/nkb/25/5.json",
+    "sha": "34fdba8bb4fdc74dada4d6f90c3f7087562c9cbe",
+    "id": "5"
+  }
+}

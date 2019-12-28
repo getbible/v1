@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/56/1.json",
+    "sha": "b2dbc4b2dd51345de656fab53cfa724e34c220ae",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bibelselskap/56/2.json",
+    "sha": "9037ec23e7b220b736ff9c1e9080a5c7f44dc532",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bibelselskap/56/3.json",
+    "sha": "37b05da3a31d0179d97f989b5a289398d340b636",
+    "id": "3"
+  }
+}

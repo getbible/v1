@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kms/64/1.json",
+    "sha": "6441cab4e17d15c60f2469c65acebfd6fcc42a53",
+    "id": "1"
+  }
+}

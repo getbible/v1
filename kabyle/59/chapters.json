@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kabyle/59/1.json",
+    "sha": "c2447617d9160d9290ca1c28b07acb447f567d48",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kabyle/59/2.json",
+    "sha": "b07a351c963fa96a2b8082d8fea789f7d6e9f0a1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kabyle/59/3.json",
+    "sha": "798c4055abe5e07a2681c284b3f66d0bc1de2917",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kabyle/59/4.json",
+    "sha": "80d075fcbf78c74e44242ed06eaff4d1b0dfeed1",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kabyle/59/5.json",
+    "sha": "2eaa15240ac8d7b7fe954120bb864f59a2f9826b",
+    "id": "5"
+  }
+}

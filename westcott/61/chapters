@@ -1,0 +1,5 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	NT Westcott Hort UBS4 variants	westcott	LTR	61	2 Peter	1	79cd812e5dfbeecf1e151c1f775e0bd3716719c3
+2	Greek	NT Westcott Hort UBS4 variants	westcott	LTR	61	2 Peter	2	8cfff56b138f59378b2e578c4783465ec89b614d
+3	Greek	NT Westcott Hort UBS4 variants	westcott	LTR	61	2 Peter	3	dd32991282a23d81009388a44b18a9c75e1f7af2
+

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cns/50/1.json",
+    "sha": "d47af48f38b911ddc8690bea65c7b3fdab5818b8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cns/50/2.json",
+    "sha": "8d8baf9b5acf367b945e9bbc498f3ad37dd20429",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cns/50/3.json",
+    "sha": "5c6f2d7cd5fd7451ba33d6c907c67c105e02403a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cns/50/4.json",
+    "sha": "697c4c1993aff553943558dd81fd43e8546ef351",
+    "id": "4"
+  }
+}

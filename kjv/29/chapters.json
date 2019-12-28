@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/29/1.json",
+    "sha": "898441d461169823001814a930b33e5b1fdf1727",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kjv/29/2.json",
+    "sha": "a238362c5f03f6cc47cfb257e84f2ec18963796f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kjv/29/3.json",
+    "sha": "5f97cdff2062809af85c57d4d3ef0be4eaf4c87a",
+    "id": "3"
+  }
+}

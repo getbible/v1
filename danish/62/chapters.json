@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/62/1.json",
+    "sha": "1ef12af595a22bf3c41e9d24521e34905b1977b5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/danish/62/2.json",
+    "sha": "88f78caf98d5b6bceeded6320ea27df8bbf716cf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/danish/62/3.json",
+    "sha": "ee531f2453d14fc90699a6753ae9620b9d6e0cc5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/danish/62/4.json",
+    "sha": "b5ed5cb47ec1d036fc60442034f6aa2a7c200c02",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/danish/62/5.json",
+    "sha": "4e06d960fc9e8abb168e7bc77e01f35efcee0c3b",
+    "id": "5"
+  }
+}

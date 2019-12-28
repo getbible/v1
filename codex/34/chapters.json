@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/codex/34/1.json",
+    "sha": "629265637aeef910772cf52aac5665ff6e91fe7a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/codex/34/2.json",
+    "sha": "39844ee174b5e07b116d808219fbb277f7f13891",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/codex/34/3.json",
+    "sha": "aa1023f306c43b42e0c35bfe58cee451829b361b",
+    "id": "3"
+  }
+}

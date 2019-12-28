@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/25/1.json",
+    "sha": "94028bc5203045915cca61bc957a422e005b5d80",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/25/2.json",
+    "sha": "0aaf9c76bc9ed7328b06b324f2c16332904a32fd",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/25/3.json",
+    "sha": "263c073a6e9076e84af13f51557d9f663dcc7a76",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/25/4.json",
+    "sha": "fa086c63502c8b496b74a745318a3c698b3d996c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/25/5.json",
+    "sha": "0ca832d9d48d726c040a3c89f8998845f6ecd725",
+    "id": "5"
+  }
+}

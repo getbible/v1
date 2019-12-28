@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kabyle/55/1.json",
+    "sha": "114f2fae43363441fb29696ce507c5a5b91ab900",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kabyle/55/2.json",
+    "sha": "2211f5e3c2c6111e38de1ddcf118fe02a5ed7e35",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kabyle/55/3.json",
+    "sha": "423e6be5d6440fb1bdec10c2ab7c6d9ca464cd5e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kabyle/55/4.json",
+    "sha": "ac0e768180251eaa6aa0a30030f0127b64a50b27",
+    "id": "4"
+  }
+}

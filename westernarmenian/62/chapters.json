@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westernarmenian/62/1.json",
+    "sha": "7541837c45886877929462f58eda39ded00b19e2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westernarmenian/62/2.json",
+    "sha": "eb4ea501df4d2adf291597af415c8aa8dc492a46",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westernarmenian/62/3.json",
+    "sha": "1bdafdc7fa1d2815e1610f1211ab32bfa106af34",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westernarmenian/62/4.json",
+    "sha": "84e5d6a7df80c53a7a129836bb1a187400878d58",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/westernarmenian/62/5.json",
+    "sha": "a5740a080ae1d5e9f038607894128069eec8700a",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vulgate/29/1.json",
+    "sha": "cc3c533140a6d25304e626f18013116d9e20e6f3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vulgate/29/2.json",
+    "sha": "0a60d577cf6dc2724509b719dff913763ca5b21f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vulgate/29/3.json",
+    "sha": "6e0004062136d5687c96dd8311dbc16a460af73b",
+    "id": "3"
+  }
+}

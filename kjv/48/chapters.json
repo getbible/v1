@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kjv/48/1.json",
+    "sha": "3025bf5ac481627c8229128aec10fbb87bb21e9d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kjv/48/2.json",
+    "sha": "ce43a6db413687fedf9c8b9726656b7db9caf742",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kjv/48/3.json",
+    "sha": "37073a0ad417c5103e5de6df90b65ce0ab6c3392",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kjv/48/4.json",
+    "sha": "d4a320f1e565f8f9f3f25084e79394a74f78d24c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/kjv/48/5.json",
+    "sha": "cb5475e5d61ddf2433566c7681ac45ccb0ea47e0",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/kjv/48/6.json",
+    "sha": "78be0e104c2dbc8236f2db6e10c1470694a3d385",
+    "id": "6"
+  }
+}

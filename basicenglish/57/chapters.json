@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/57/1.json",
+    "sha": "2c931b7d2d290f0b23b0157b70ebeca1e8154466",
+    "id": "1"
+  }
+}

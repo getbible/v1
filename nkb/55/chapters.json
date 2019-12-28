@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/nkb/55/1.json",
+    "sha": "9f3d51cd8842cc67147c7cdceee00e7c9729180b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/nkb/55/2.json",
+    "sha": "484d3526231d81a5240fca961a8a676808240bc0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/nkb/55/3.json",
+    "sha": "9da891982dbbc2b59b3ae4401e27ccbebd075303",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/nkb/55/4.json",
+    "sha": "3459537504bcf6653f3d5ee3df67847a11f5afc8",
+    "id": "4"
+  }
+}

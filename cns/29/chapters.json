@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cns/29/1.json",
+    "sha": "53b3e8789c567b9fa0e6da89e39e4f811dc37b95",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cns/29/2.json",
+    "sha": "adc715eee2551b379075b22ea8c92c75e9766cd6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cns/29/3.json",
+    "sha": "42fa91ae6f7e6df722505a9d504879d9a86e2ead",
+    "id": "3"
+  }
+}

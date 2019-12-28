@@ -1,0 +1,30 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	Textus Receptus	text	LTR	40	Matthew	1	ebe8d514d68fe880b18ddb3843a20334cf9b3195
+2	Greek	Textus Receptus	text	LTR	40	Matthew	2	9e44402267e39f3ab397591ea43cad50ef8ade47
+3	Greek	Textus Receptus	text	LTR	40	Matthew	3	189014d91979343cb36cc4cea983d4e5304688a6
+4	Greek	Textus Receptus	text	LTR	40	Matthew	4	024360b620dcdcea14eec8716447a81106783447
+5	Greek	Textus Receptus	text	LTR	40	Matthew	5	aafcd9ae8179a7503e0d7b8f4a7c1de3b8f0b2e2
+6	Greek	Textus Receptus	text	LTR	40	Matthew	6	5dfb5dfa07b2ca05b942799add6d39870b3de834
+7	Greek	Textus Receptus	text	LTR	40	Matthew	7	28990bab9a2c66c1041579e5a10b924d024d6b67
+8	Greek	Textus Receptus	text	LTR	40	Matthew	8	e3f2835a3b8ebb6f1a3f49165029b976b6590a62
+9	Greek	Textus Receptus	text	LTR	40	Matthew	9	d670b521556406793ba471695daf1e92a0fa77e2
+10	Greek	Textus Receptus	text	LTR	40	Matthew	10	fc563b6db1e6bc989892a2776166e0bdd8046ff7
+11	Greek	Textus Receptus	text	LTR	40	Matthew	11	a7b2366d201488a3e8af353a1e0e703da8e94f5c
+12	Greek	Textus Receptus	text	LTR	40	Matthew	12	28220edac392647b13a84573dd15b43bed83a077
+13	Greek	Textus Receptus	text	LTR	40	Matthew	13	30bc905669529d389a64b9a63ca18236672d04a9
+14	Greek	Textus Receptus	text	LTR	40	Matthew	14	15b2809edb48b13ad95a30b64fc27c599ca8646c
+15	Greek	Textus Receptus	text	LTR	40	Matthew	15	d44bbad92a8b6843ddc052c31970f8e16baa8381
+16	Greek	Textus Receptus	text	LTR	40	Matthew	16	32d5afba4061bf87fa26b8187240b1527c0772a9
+17	Greek	Textus Receptus	text	LTR	40	Matthew	17	2a30214a07b027e8f725f3ccfed951c832ab72f2
+18	Greek	Textus Receptus	text	LTR	40	Matthew	18	a9d863fe8ffa3b221d48be784a525401574061c4
+19	Greek	Textus Receptus	text	LTR	40	Matthew	19	c9ccc2f9b439c37c97af074655df365664fe8c7c
+20	Greek	Textus Receptus	text	LTR	40	Matthew	20	bdce450ccc98589c98c35e7c39555e085391604f
+21	Greek	Textus Receptus	text	LTR	40	Matthew	21	17b588518fde156e2d082896d5050685f08cc6e6
+22	Greek	Textus Receptus	text	LTR	40	Matthew	22	906ae8b2a32afc5b99283b9606b17aba46a96dcb
+23	Greek	Textus Receptus	text	LTR	40	Matthew	23	fbd05ff8de7d3b0dfca686a2aadfad3d73d952f2
+24	Greek	Textus Receptus	text	LTR	40	Matthew	24	a8cd5ecc94d692a31631b769536d18ffdab6961b
+25	Greek	Textus Receptus	text	LTR	40	Matthew	25	fe2d355f08ade74693990c3b73ccabb684f2f756
+26	Greek	Textus Receptus	text	LTR	40	Matthew	26	5988b257bfdcfbb6a757e8354fa35247983d5993
+27	Greek	Textus Receptus	text	LTR	40	Matthew	27	fd73bef50f03b8f70d9bf4ae3adbb04d25aa5c5b
+28	Greek	Textus Receptus	text	LTR	40	Matthew	28	e0b71f103822c380c9ee9cad9596457e3cd920c4
+

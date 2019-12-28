@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/akjv/60/1.json",
+    "sha": "825335ab5d027404567986a757a3735f4783dfcf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/akjv/60/2.json",
+    "sha": "7b0b19784f7675a3f33d0c7de3ef5aae8aa6378f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/akjv/60/3.json",
+    "sha": "c6a06b31f749aabef22536cfb6edc2af25235c9a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/akjv/60/4.json",
+    "sha": "b13b93b1929214368bff1cab94503451e4ca6cba",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/akjv/60/5.json",
+    "sha": "79ef52edde2f7ab6f19a284c39f19771cd92f812",
+    "id": "5"
+  }
+}

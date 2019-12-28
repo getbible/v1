@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/64/1.json",
+    "sha": "83c5d32227531dab6cf913de50f416fea96a9996",
+    "id": "1"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/coptic/60/1.json",
+    "sha": "b0579c59d69e521bc5c26e21cd537e3e935732d0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/coptic/60/2.json",
+    "sha": "baa04b602542b822a77384036df17a38448d8393",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/coptic/60/3.json",
+    "sha": "ee3963dd165a1d39a790a056cd1c90e2e5cdc5d2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/coptic/60/4.json",
+    "sha": "2912ad77535c69e19bd89cf691c1b05a9fa290f4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/coptic/60/5.json",
+    "sha": "a01a0a9157245b1bcf27237308f9c51d0d3f167e",
+    "id": "5"
+  }
+}

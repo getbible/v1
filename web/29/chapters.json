@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/web/29/1.json",
+    "sha": "540f3965f4aba8d86f25b18bc9614ffa13ecd4d9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/web/29/2.json",
+    "sha": "80c22ed232f0b9590cd820b6d2be2c7543730408",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/web/29/3.json",
+    "sha": "31fced9e8aef51eb3853daa603d9451e3420bfa8",
+    "id": "3"
+  }
+}

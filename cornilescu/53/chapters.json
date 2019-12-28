@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cornilescu/53/1.json",
+    "sha": "8d2faded6ea2194181de2c68516a87e182b5022d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cornilescu/53/2.json",
+    "sha": "ce03a858e24d83043f2b0d7f28569e29d6b99d84",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cornilescu/53/3.json",
+    "sha": "6e7066286b2906b868a6d103f8e012d8f51608d5",
+    "id": "3"
+  }
+}

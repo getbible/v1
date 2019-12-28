@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/weymouth/56/1.json",
+    "sha": "12e8ab9334a0c558cf4b5f330ebce164cfa44485",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/weymouth/56/2.json",
+    "sha": "7a9f730ca7a045d53a34454ab8464fc0b0e852c2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/weymouth/56/3.json",
+    "sha": "b70fbd9e50bbbde51f218bef1757ac38b020cc12",
+    "id": "3"
+  }
+}

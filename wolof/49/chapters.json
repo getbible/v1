@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wolof/49/1.json",
+    "sha": "5dddc42f87fb5d2dab73c07586d0b641b42eb364",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wolof/49/2.json",
+    "sha": "5d70bfd330b0e0225798ab85d8e76a359ef0344c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wolof/49/3.json",
+    "sha": "a2892f621a8c73d421b19a89f79fe177d9f934b0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wolof/49/4.json",
+    "sha": "c39cd5cee7a2ccd1d71339d742e9d596e0c23654",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wolof/49/5.json",
+    "sha": "e774afb4a3db43f01e68fed389ba3f87501283c2",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/wolof/49/6.json",
+    "sha": "5b8e68b90ad95e8658e2f2f46c9ab53e4ef19591",
+    "id": "6"
+  }
+}

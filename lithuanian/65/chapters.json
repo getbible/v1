@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lithuanian/65/1.json",
+    "sha": "bec267cb0540d25477e771abb20e75d0564306ff",
+    "id": "1"
+  }
+}

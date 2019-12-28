@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/57/1.json",
+    "sha": "4cc7637f18946f6cc41c4c4d0408f7fe37fcb458",
+    "id": "1"
+  }
+}

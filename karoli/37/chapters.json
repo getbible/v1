@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/karoli/37/1.json",
+    "sha": "637fde03e2dd7bfdcded2d6bfc596f94ac91809e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/karoli/37/2.json",
+    "sha": "87e19658d21052e32c6f202f9e6d8f72591ad7f4",
+    "id": "2"
+  }
+}

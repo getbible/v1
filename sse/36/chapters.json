@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sse/36/1.json",
+    "sha": "6fd1e6051dc0654a225df577b5c6dd39b0e12eeb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sse/36/2.json",
+    "sha": "2f1ef1017b3049b3fb0111181407d30b8f6409af",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sse/36/3.json",
+    "sha": "9e6ec225ec22593570c29ed72b3e4f5e006c8091",
+    "id": "3"
+  }
+}

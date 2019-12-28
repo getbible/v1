@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lithuanian/56/1.json",
+    "sha": "7ad97e2a4a54de56a4334ebeca2bfe3ef5057f0c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lithuanian/56/2.json",
+    "sha": "450e9efad73258a0f360200dfe019a93836b1748",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lithuanian/56/3.json",
+    "sha": "62c6fc7951e5816b394fc56500f88c9aeff61f1c",
+    "id": "3"
+  }
+}

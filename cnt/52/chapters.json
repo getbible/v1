@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/52/1.json",
+    "sha": "7b07c6a86e5840795ce74146d9b4a70e7668c100",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cnt/52/2.json",
+    "sha": "cce4a0680473de138dd646c5f960ab07e7792f1d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cnt/52/3.json",
+    "sha": "4a2ead1da7f22f94f0cf328eedd3a1a22520347e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cnt/52/4.json",
+    "sha": "246f727448f777a42ebc91395622446003d22196",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cnt/52/5.json",
+    "sha": "576d6f5c6d2fdf5d830adb3b9f3918f8f2bd0f14",
+    "id": "5"
+  }
+}

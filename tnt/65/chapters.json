@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tnt/65/1.json",
+    "sha": "a53ba04b6522b96419b3bb4a575c99584c5bc174",
+    "id": "1"
+  }
+}

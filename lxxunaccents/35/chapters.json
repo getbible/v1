@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/35/1.json",
+    "sha": "8c1b06bee686741f52b7ad413efde0ca84520f1c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccents/35/2.json",
+    "sha": "7a3799dfb7570b239ed7c2d0039c324569d21833",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccents/35/3.json",
+    "sha": "275e17eacc411f27cdfead99d6afe3872818eaf6",
+    "id": "3"
+  }
+}

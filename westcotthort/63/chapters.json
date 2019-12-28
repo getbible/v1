@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/63/1.json",
+    "sha": "75bef319d408630a1faa81450dc5f13328795430",
+    "id": "1"
+  }
+}

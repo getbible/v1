@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/esperanto/62/1.json",
+    "sha": "a0dbdcb21e6134b9478f24fd0f0eaabc51468dd8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/esperanto/62/2.json",
+    "sha": "ed1212f7ae62f3031cad6229b35458309fd537d9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/esperanto/62/3.json",
+    "sha": "1c98c735b5210e8ada722c0ad1f8cdb5f8c55f52",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/esperanto/62/4.json",
+    "sha": "ffd52b3852b1c8d2bad62ff08b2add3acd8ad5b0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/esperanto/62/5.json",
+    "sha": "b5823720d25e1481e25d48988d522b8a9d2b97b1",
+    "id": "5"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/asv/62/1.json",
+    "sha": "df2dd775cdd68167b9e14e879aacd12452e93fc2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/asv/62/2.json",
+    "sha": "61168ecf8f0cfc469f9075447c0d36b0f99d6ea8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/asv/62/3.json",
+    "sha": "f8e0062a45ec56e6c1de563314ef9cdc5742e23a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/asv/62/4.json",
+    "sha": "40e899ac7a6b2c056f8f22352562c971b97541ee",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/asv/62/5.json",
+    "sha": "b1a4fe966f34d84bd480b8cbfb9dd9a90154bf0a",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cep/29/1.json",
+    "sha": "ac17abb24644731eacdbd8717bac6bd33b6ec0e1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cep/29/2.json",
+    "sha": "9f8a71e99592fa6bd0d4bf60797ba14c35ca30f5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cep/29/3.json",
+    "sha": "2c71dee71f98643247541fb2208d2ce94ad6f0b4",
+    "id": "3"
+  }
+}

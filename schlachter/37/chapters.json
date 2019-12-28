@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/37/1.json",
+    "sha": "8dfda4fed71d96eeca8ae7f13614419451881853",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/37/2.json",
+    "sha": "5dcf08e136fe4f1e640e7d7226e4abe97a1fd8ec",
+    "id": "2"
+  }
+}

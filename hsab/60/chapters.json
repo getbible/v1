@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/60/1.json",
+    "sha": "f93c1b12b4f242b5550bf9e7d61c817f560a34fd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/hsab/60/2.json",
+    "sha": "44e7ce06f04609d3067f912ed8cdeed602604ded",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/hsab/60/3.json",
+    "sha": "5bcf2fd4c4ece0deee54c7455ac4bda98218495b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/hsab/60/4.json",
+    "sha": "c4e6792349227cd8cf21c880f275dc4316ac0a1f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/hsab/60/5.json",
+    "sha": "03ccf75dafb3dbf36944b1938841be50711501a0",
+    "id": "5"
+  }
+}

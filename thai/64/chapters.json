@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/64/1.json",
+    "sha": "f8dc79cfaba7faaadbacaa3e1667cb6515e6363d",
+    "id": "1"
+  }
+}

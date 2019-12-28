@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bkr/32/1.json",
+    "sha": "4eb3a1897453d5b82e2839310ac51ee75fe5e7b1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bkr/32/2.json",
+    "sha": "abb069c57da94990bf918a8af35c11c3c9ef6885",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bkr/32/3.json",
+    "sha": "84a917f25020fef57c5a2833e9e44bf3c36024ee",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bkr/32/4.json",
+    "sha": "aaa7a173e0d0bb8867416752459382284c36f636",
+    "id": "4"
+  }
+}

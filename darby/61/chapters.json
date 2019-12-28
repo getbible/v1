@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/61/1.json",
+    "sha": "fb93745992f66dc3662176d02fb1b57b3551261d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/61/2.json",
+    "sha": "16124abbaafef7e703f43f1a857b0d8a4d2f7e3b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/61/3.json",
+    "sha": "c0fc3e50484e1780ff6df6b8b4b6bd7a68c194dd",
+    "id": "3"
+  }
+}

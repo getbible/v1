@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/55/1.json",
+    "sha": "185c8dbeac30de4037fab8bcd198e1ca344de9cd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ukranian/55/2.json",
+    "sha": "6646fa99efcc78ae980c59e7c4f66e82ea61199d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ukranian/55/3.json",
+    "sha": "2747cf7bc298c3fa8c3e650ea0e7d5b427e3c47f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ukranian/55/4.json",
+    "sha": "021ddfe6f34eea5d4479cb443740f135a02c8343",
+    "id": "4"
+  }
+}

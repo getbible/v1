@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bkr/60/1.json",
+    "sha": "81e4b3e25ce6555ff7190e466494a6535d0281af",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bkr/60/2.json",
+    "sha": "4c31624961b6cb4f32804416015a8b3a56d570f7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bkr/60/3.json",
+    "sha": "f77370c9d1c7f8b41c77d1bff70acb024eff8add",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bkr/60/4.json",
+    "sha": "d12c4fa166df14af122d1c6f9468c391e5fd7721",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bkr/60/5.json",
+    "sha": "d47608bb0c6bb1c7e7e2ba26fdc5f648513bd42a",
+    "id": "5"
+  }
+}

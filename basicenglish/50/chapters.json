@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/50/1.json",
+    "sha": "60b894e468136c6f06d457584e06de1db867e848",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basicenglish/50/2.json",
+    "sha": "43a045c6444d85417840f9fe4fcdc3fffac9e1aa",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basicenglish/50/3.json",
+    "sha": "0d572878f0e4e5438c7c70aca91ae2ee9dc4eb15",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basicenglish/50/4.json",
+    "sha": "755bd0ed024a7ead2f77526467fc02067a1b4abc",
+    "id": "4"
+  }
+}

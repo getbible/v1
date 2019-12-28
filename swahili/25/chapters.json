@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swahili/25/1.json",
+    "sha": "9567306872918cb7d85192aab4776a44a3bd0ed2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swahili/25/2.json",
+    "sha": "c9cdbe6e4fc68f11d57579c890e523889ff3d8e2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swahili/25/3.json",
+    "sha": "e3c2549f060fe8d6bdfbf7f52550c1ef4ba48c7c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swahili/25/4.json",
+    "sha": "56a3be5ce4faa854d68a634915696acadc63ceac",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/swahili/25/5.json",
+    "sha": "55367171c6ab32305b54f59b903199830b4fbb5f",
+    "id": "5"
+  }
+}

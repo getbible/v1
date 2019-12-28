@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/web/60/1.json",
+    "sha": "2496c823ad7923af93ee3c451e99d6c6f6a207e6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/web/60/2.json",
+    "sha": "26d699ac142d833e59cebe4d8e0db96a3c57d5b2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/web/60/3.json",
+    "sha": "6c54b60765b4fafddaf9949f44e16a7cb5d953bd",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/web/60/4.json",
+    "sha": "33fb7b24bf46d5213e712b09fdca3305028d0fd8",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/web/60/5.json",
+    "sha": "643954431059912cb7cf633c8ca5701a63454112",
+    "id": "5"
+  }
+}

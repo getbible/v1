@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	English	American Standard Version	asv	LTR	Genesis	1	42c7a38bbef773ce7aef5df5aaf8b8bae5500f6b
+2	English	American Standard Version	asv	LTR	Exodus	2	97bc7dd51e8b393327ef9b56743827d13f57ac09
+3	English	American Standard Version	asv	LTR	Leviticus	3	f9e6c9dad758b9b6fc4f2f715235cea5ee88d35f
+4	English	American Standard Version	asv	LTR	Numbers	4	e8877a4e9e357978026c1c838ea7e3b1c0fcaa1a
+5	English	American Standard Version	asv	LTR	Deuteronomy	5	c2b1b3205984c9114a4be395f4c57f608ba83d0e
+6	English	American Standard Version	asv	LTR	Joshua	6	acdfe667ba44f1d6885360b2ad2bc678bd84e1ab
+7	English	American Standard Version	asv	LTR	Judges	7	f32a935893164f39fe636afaf2a779a4f92b072c
+8	English	American Standard Version	asv	LTR	Ruth	8	cbe27e5483b976e93c266e7488c9bc84a845fcc2
+9	English	American Standard Version	asv	LTR	1 Samuel	9	636abe96f9b5b120e6a054f15e89136a1ad6ca1f
+10	English	American Standard Version	asv	LTR	2 Samuel	10	aca887cc4b4b2753de7c4ac47eb42a0f145b99a3
+11	English	American Standard Version	asv	LTR	1 Kings	11	06300babac68c56b03b0c7f2675bc734640415ec
+12	English	American Standard Version	asv	LTR	2 Kings	12	b24d08998d58568638e1dface1fc2c0cb6028bcd
+13	English	American Standard Version	asv	LTR	1 Chronicles	13	30266f052e0c1e7d19766e522e193e88f27a5efe
+14	English	American Standard Version	asv	LTR	2 Chronicles	14	aafed582d897f224c6448600806408b8d8bdba2c
+15	English	American Standard Version	asv	LTR	Ezra	15	206af11772cc9871062c7f7c00e00cce3409ca7c
+16	English	American Standard Version	asv	LTR	Nehemiah	16	502609e834221438f6c989fd7e19fd9b922d049c
+17	English	American Standard Version	asv	LTR	Esther	17	d22e77e361d7c6860a172d144d3d67ae6897e214
+18	English	American Standard Version	asv	LTR	Job	18	66519985216c1be9eed68359ef92d4244122928e
+19	English	American Standard Version	asv	LTR	Psalms	19	4612a036e2123970e62b53dfd2183bf487cf984e
+20	English	American Standard Version	asv	LTR	Proverbs	20	915c6fc99c28808cbd072359fd3ab3cf7b98a558
+21	English	American Standard Version	asv	LTR	Ecclesiastes	21	7f081868c97c26d572286144cf901f98fc27a96d
+22	English	American Standard Version	asv	LTR	Song of Songs	22	380223cf4aff23d1107377a37d13e6221d6a9f51
+23	English	American Standard Version	asv	LTR	Isaiah	23	6bb042b752d91296c880a5ae6523ac6152688148
+24	English	American Standard Version	asv	LTR	Jeremiah	24	d0f1300193b4f277ab7e427a19b2707ba64757c2
+25	English	American Standard Version	asv	LTR	Lamentations	25	1be012b03803284c31726b2b1a1353959b42cbf2
+26	English	American Standard Version	asv	LTR	Ezekiel	26	dd0b76b1a9bf3fb0c0130fa25b255fb913849e1f
+27	English	American Standard Version	asv	LTR	Daniel	27	b3c473cc92184a21833221236823cc4108a2837f
+28	English	American Standard Version	asv	LTR	Hosea	28	f727079d7e5a19ea631033f7f69905d22ebc258a
+29	English	American Standard Version	asv	LTR	Joel	29	6a5fb6d7475558dc0cdd16cfd5784646e91a5e7d
+30	English	American Standard Version	asv	LTR	Amos	30	b85fe3a7b2205ca0f8b22b8b716e0e2a03fc3abf
+31	English	American Standard Version	asv	LTR	Obadiah	31	eaba4913b78d97489cdc29a3569dc0e70dff36ff
+32	English	American Standard Version	asv	LTR	Jonah	32	ae3aab29db8ec919c8005dfa47df99f0a27f1264
+33	English	American Standard Version	asv	LTR	Micah	33	9d471249a1396dfffcc8a5ae784c264de9430cec
+34	English	American Standard Version	asv	LTR	Nahum	34	d99859d1c44e958d83935ee7d6f2824d3864eb3b
+35	English	American Standard Version	asv	LTR	Habakkuk	35	2fad1ea382069f2a8240342431f4dccd3d13efac
+36	English	American Standard Version	asv	LTR	Zephaniah	36	67f6a07d85d54fece87b4e4721013147b0749cc5
+37	English	American Standard Version	asv	LTR	Haggai	37	75687ba14a144936225f39782e77d06f810ae06a
+38	English	American Standard Version	asv	LTR	Zechariah	38	d24a52aeca96c5d44aef4c78b7f7124e0c342c30
+39	English	American Standard Version	asv	LTR	Malachi	39	49d57d86b8565b3d61434ccc90d34318bc0bc1df
+40	English	American Standard Version	asv	LTR	Matthew	40	33fa6bb165ac72f3c27c09db68d207319efb77b5
+41	English	American Standard Version	asv	LTR	Mark	41	fe93bc1c6b87790731a392635996581aae51fda3
+42	English	American Standard Version	asv	LTR	Luke	42	08fa16b5a6d79056399878e310af06c2d655d0c7
+43	English	American Standard Version	asv	LTR	John	43	bc0424f2fd4d5d6a12d86bb40d3602e495ede8dd
+44	English	American Standard Version	asv	LTR	Acts	44	07344aa74432bd8e096d303d305752ef09a29fd8
+45	English	American Standard Version	asv	LTR	Romans	45	aabaf8a114d7287e9978d122a13db1027ab74366
+46	English	American Standard Version	asv	LTR	1 Corinthians	46	85f37ef3ca2ec789936d09ad5f234199332ea62b
+47	English	American Standard Version	asv	LTR	2 Corinthians	47	a7b1e1cb2310f3dd38f8253683059ba0902ab26d
+48	English	American Standard Version	asv	LTR	Galatians	48	e3fd5ca1385f3102277e1965e8eba8534ce09ee6
+49	English	American Standard Version	asv	LTR	Ephesians	49	e8850303ea02df76edb98cb6c8d01a72cad7fc28
+50	English	American Standard Version	asv	LTR	Philippians	50	d94a42c921826cfdd512274f00089f605c66cc93
+51	English	American Standard Version	asv	LTR	Colossians	51	efcaff0a1da2c57f35e557e2caa10530e0d1cd58
+52	English	American Standard Version	asv	LTR	1 Thessalonians	52	eb0b3f22e56dd8257585f933901b37ea142792fe
+53	English	American Standard Version	asv	LTR	2 Thessalonians	53	dab7792184801a22a6f2aa080882d839e872b76d
+54	English	American Standard Version	asv	LTR	1 Timothy	54	a3ea9298cc716604663d2f7b52707e916fc9799b
+55	English	American Standard Version	asv	LTR	2 Timothy	55	11a0c67184887b2e8f282b1f7d7f7aa6772ba736
+56	English	American Standard Version	asv	LTR	Titus	56	1d4537b9aea8a7e17d070a4544dcb0ce87a39365
+57	English	American Standard Version	asv	LTR	Philemon	57	948ec901cc286933547e32ecf6f546bf17ee1979
+58	English	American Standard Version	asv	LTR	Hebrews	58	34d158bc182b3530a6df6eb7f75f5879515d3de7
+59	English	American Standard Version	asv	LTR	James	59	01802465e33b0a13ea9ecafe16e2cd861eecefcd
+60	English	American Standard Version	asv	LTR	1 Peter	60	e20a1e7907b9c613c4338f84e1565deb656ed586
+61	English	American Standard Version	asv	LTR	2 Peter	61	475423468889ec76984af1d7ad792a0eae2719bc
+62	English	American Standard Version	asv	LTR	1 John	62	6e92395392107313920b240d4d8940fd6825d587
+63	English	American Standard Version	asv	LTR	2 John	63	5d2f6ff4ea451326975a7389a4861de75db8abf2
+64	English	American Standard Version	asv	LTR	3 John	64	fa57df058dd7b2e07d77a7a0e093c38060ad30ca
+65	English	American Standard Version	asv	LTR	Jude	65	ae63c1021aff328b76d7d457450547484c43a997
+66	English	American Standard Version	asv	LTR	Revelation	66	296855a2bed47b25d03135a5449ed0e41abd26d3
+

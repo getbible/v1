@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/croatia/35/1.json",
+    "sha": "f65f3a1214a4324a3e8c9db323769d1ba5d55904",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/croatia/35/2.json",
+    "sha": "57f6ab2c571f36f235b866898417c22e1ce4f54f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/croatia/35/3.json",
+    "sha": "6a09d6122d79806d91f26a3e6ddad3c3debd3af7",
+    "id": "3"
+  }
+}

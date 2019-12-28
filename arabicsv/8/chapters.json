@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/arabicsv/8/1.json",
+    "sha": "dfbd9f38d2bb2ff02a447b514ff76d62214959d3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/arabicsv/8/2.json",
+    "sha": "f0970a56d0c7a0040cc5dcd198c62370bf36b5a3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/arabicsv/8/3.json",
+    "sha": "3a2bd7bb2a930a112195f1687a88fbaa2298a5b1",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/arabicsv/8/4.json",
+    "sha": "d10737a88c367a7d2c02bd457853f78aa28b0ae6",
+    "id": "4"
+  }
+}

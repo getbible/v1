@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/57/1.json",
+    "sha": "a8f2879fc9763946f0651b7dc45baeb8ffff9414",
+    "id": "1"
+  }
+}

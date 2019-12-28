@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/giovanni/55/1.json",
+    "sha": "bca18b37399aaaa220ab42e16c06c422d5abbda1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/giovanni/55/2.json",
+    "sha": "5d900dcc94fab1de316312a40556e763276c0aa7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/giovanni/55/3.json",
+    "sha": "b86c2e36bf8302d29cb0ad366fc4ae3370ead7a5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/giovanni/55/4.json",
+    "sha": "1ac68477db46942445233149e2c5ea1b41a8bb30",
+    "id": "4"
+  }
+}

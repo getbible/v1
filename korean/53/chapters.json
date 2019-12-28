@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/korean/53/1.json",
+    "sha": "9b642d2e2785b9e2559f783cb0f8ac3eeec687cc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/korean/53/2.json",
+    "sha": "c7d7ffef00f7e382900e1966f812a22ee3e8601b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/korean/53/3.json",
+    "sha": "80d380dfa056dda58c1c4a59d9a1c06d3d26e3f6",
+    "id": "3"
+  }
+}

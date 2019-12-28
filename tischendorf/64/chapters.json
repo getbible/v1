@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/64/1.json",
+    "sha": "835a91b76319cd782cde2e2329b0904f111c67e5",
+    "id": "1"
+  }
+}

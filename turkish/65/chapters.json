@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/turkish/65/1.json",
+    "sha": "95eb9ca33c6b16bea434ec9907c7aae2d8318440",
+    "id": "1"
+  }
+}

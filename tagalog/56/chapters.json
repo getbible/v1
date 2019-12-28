@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tagalog/56/1.json",
+    "sha": "3bb1334a63ec3e4cc7bd07abed378fbd4578c10f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tagalog/56/2.json",
+    "sha": "04d1611fac613e002084622fa84ef70cea6057b3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tagalog/56/3.json",
+    "sha": "65b6be61695a9a1ac7e7530f93f9a78ecd4f6315",
+    "id": "3"
+  }
+}

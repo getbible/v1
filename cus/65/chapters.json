@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cus/65/1.json",
+    "sha": "bbc3e2f93444c01b4eba48908c4ba562b302fb28",
+    "id": "1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/34/1.json",
+    "sha": "508bacc269923b47dd0b8fcc7f48fc8cf79295c8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/moderngreek/34/2.json",
+    "sha": "9bad76b2f0da65e6b444c0c5787a72cbba1b3894",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/moderngreek/34/3.json",
+    "sha": "21f5e0b07680ca466692a280e6e4d8e7993a04c8",
+    "id": "3"
+  }
+}

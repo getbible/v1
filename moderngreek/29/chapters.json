@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/29/1.json",
+    "sha": "89688c795d71901d66b7de51d6506c94f32c6f0a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/moderngreek/29/2.json",
+    "sha": "06dd6c6f0e8894fdf38bb7b8d04f3f79331cf7ee",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/moderngreek/29/3.json",
+    "sha": "07b723f5d1dbb1ef7a9121c90b73364354770922",
+    "id": "3"
+  }
+}

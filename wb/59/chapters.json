@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/59/1.json",
+    "sha": "2d74edc2e9cdcdf6aa0ba2024a0fe8cce7035da0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/59/2.json",
+    "sha": "c7f0dcdf850d414fa3291b51733dbdc47b403a49",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wb/59/3.json",
+    "sha": "e3243b4218eb7bbb939c88f6310e070cc78d74f4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wb/59/4.json",
+    "sha": "6733d47de3d964e3881c686cb1123c8415665157",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wb/59/5.json",
+    "sha": "c8473ab921b8b220502e696674568f7f348a0cd6",
+    "id": "5"
+  }
+}

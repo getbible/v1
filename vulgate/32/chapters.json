@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vulgate/32/1.json",
+    "sha": "20a7db2cb51857bf8d1ff11c9ebb9d55c9204126",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vulgate/32/2.json",
+    "sha": "13e3df3990a2ec72e5e7c90053673bf746eeb144",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vulgate/32/3.json",
+    "sha": "f8a6187ce63f4ce92159989394772d5c8ccff246",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/vulgate/32/4.json",
+    "sha": "1bc493c108770e86f45b8409c9f2cde0f6449be0",
+    "id": "4"
+  }
+}

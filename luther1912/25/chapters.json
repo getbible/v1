@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/25/1.json",
+    "sha": "8c78669fbd48afae64dd88e5cd56c58176e003a8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/25/2.json",
+    "sha": "3605dad87f3f95a0f182adcea9f0f173a677031e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/25/3.json",
+    "sha": "6022d781ddb27eb8937d875ff57a426380086d1d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1912/25/4.json",
+    "sha": "7cac6b757a060ff17965b40366c9d856c4573a2d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1912/25/5.json",
+    "sha": "03f191073673bd33fbb64609a4799ccb8e586ccf",
+    "id": "5"
+  }
+}

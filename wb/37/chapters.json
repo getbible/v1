@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/37/1.json",
+    "sha": "ed849feddc37f5328eaed69e61626358201c100c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/37/2.json",
+    "sha": "82c4acd52c95c5fa21a1aa6882d5fdbeb4b8e09c",
+    "id": "2"
+  }
+}

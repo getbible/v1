@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/weymouth/48/1.json",
+    "sha": "9b8ad5308f07a91e0f05f5b6721a7ff46d80771f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/weymouth/48/2.json",
+    "sha": "cdd1e3c4e40dcdae641a70882c4b337c1a871c8e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/weymouth/48/3.json",
+    "sha": "79346ff6b0d4fab9da67e11002addf2b94670173",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/weymouth/48/4.json",
+    "sha": "8c27be74569ce426fa1cf5c03f57dee464f1f601",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/weymouth/48/5.json",
+    "sha": "6d3837026dcb715bae323535d1d219a36210eecb",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/weymouth/48/6.json",
+    "sha": "9ff681131500afbd69b08844ab8cc1415c894e04",
+    "id": "6"
+  }
+}

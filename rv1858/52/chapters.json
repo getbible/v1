@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rv1858/52/1.json",
+    "sha": "dbf6a36f202b043711cee3e36843d7f17a307796",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rv1858/52/2.json",
+    "sha": "e8e95e8d3eba5a06552a7a41ffe76a8291ee68f9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rv1858/52/3.json",
+    "sha": "b59fe9698266f41d0bd74e75df43d2c9f6a183ef",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rv1858/52/4.json",
+    "sha": "54c898a1b1789fcac3f942e649767717f7ec9ff0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/rv1858/52/5.json",
+    "sha": "315c210421a47191d109337990735435f30955c0",
+    "id": "5"
+  }
+}

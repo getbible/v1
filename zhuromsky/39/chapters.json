@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/39/1.json",
+    "sha": "a5c08c747a78aa00e3c4efe09e4fea3b76c0e963",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/zhuromsky/39/2.json",
+    "sha": "00faceffcd3877149386c363cbedfffb8fb62261",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/zhuromsky/39/3.json",
+    "sha": "92ff373f4998a6aacee9cb3ed8e21e91ccac06eb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/zhuromsky/39/4.json",
+    "sha": "21755efe32bdc392af38500b0230da4d807ea28f",
+    "id": "4"
+  }
+}

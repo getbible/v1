@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/synodal/35/1.json",
+    "sha": "f3f808077717935b43826b0c2bc181cdf4b20e31",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/synodal/35/2.json",
+    "sha": "802839038fc5749fe974d8c88d529176ed1c5729",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/synodal/35/3.json",
+    "sha": "e01a4101d49a67989244e5d2dce58c648993c672",
+    "id": "3"
+  }
+}

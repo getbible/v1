@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/web/51/1.json",
+    "sha": "43ce8af46c90c05b51851b8ed38c5d56590d40fd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/web/51/2.json",
+    "sha": "1c746183212648caadd9dc39effb093d1aa3cf92",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/web/51/3.json",
+    "sha": "85e7f3dfbe10f4e35c330e22ac98ef09bcd3a2f6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/web/51/4.json",
+    "sha": "a29bd1b67439a72c9e8dccc10bf44b00579ec997",
+    "id": "4"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sahidic/48/1.json",
+    "sha": "1a27f684ddcbd1d17584661087e64be1d99fa05b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sahidic/48/2.json",
+    "sha": "f767fb49e65baac018ef005011bef586f847721a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sahidic/48/3.json",
+    "sha": "de35947a5ec637640f5af780a6af8168c8c76a13",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/sahidic/48/4.json",
+    "sha": "c52ee7885aa57f703ea90d6395e2881adbe6966c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/sahidic/48/5.json",
+    "sha": "0ad147b06539cb7c0e057d441bfef1f2e68bcc4d",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/sahidic/48/6.json",
+    "sha": "ff20a5198634600e96cf2238f8b4c448033c169a",
+    "id": "6"
+  }
+}

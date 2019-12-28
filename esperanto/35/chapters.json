@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/esperanto/35/1.json",
+    "sha": "637fd7ae1bf95e4436aad05c21e401bd01d88944",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/esperanto/35/2.json",
+    "sha": "3b5c0ab6af67e2dcf1224f9ec7cbce9970c587e5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/esperanto/35/3.json",
+    "sha": "fef9e66827000d891d943ae7ddd0cb833e8227e8",
+    "id": "3"
+  }
+}

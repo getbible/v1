@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1933/39/1.json",
+    "sha": "b8ade1e8fb06d96fd6883e682eac6845230b1048",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1933/39/2.json",
+    "sha": "e17b312af39af407fe2341db18b85616c2b7c74d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1933/39/3.json",
+    "sha": "1e9338b146f0e5ce9db6fdd08b81feeaf0a0269f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1933/39/4.json",
+    "sha": "cadec8e19243b0cb373821416328458b1bcba040",
+    "id": "4"
+  }
+}

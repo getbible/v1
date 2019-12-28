@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bkr/48/1.json",
+    "sha": "f074298f0aea5c6ccf683075a1d54e341894d887",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bkr/48/2.json",
+    "sha": "78a7943468e198afac5d309fb8c853a2fb71dc4a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bkr/48/3.json",
+    "sha": "9a693525ab00862f2910a2fb867ba79ef4a5c402",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bkr/48/4.json",
+    "sha": "59db57318e479f219dde2fea4fd05873f756dcb4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bkr/48/5.json",
+    "sha": "4ee58930f8e3c47138460931388b51bc8122b3d6",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/bkr/48/6.json",
+    "sha": "a7a58795475346d99e321b9175c75e46db9c1e27",
+    "id": "6"
+  }
+}

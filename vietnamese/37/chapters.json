@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vietnamese/37/1.json",
+    "sha": "7fcc42671c17d67759249a7484a5491a0d67202b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vietnamese/37/2.json",
+    "sha": "ed7f663e3cc1693c230d2b8dc7795f7704b1389a",
+    "id": "2"
+  }
+}

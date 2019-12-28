@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/62/1.json",
+    "sha": "cbb5557db6290987f8bfa7b0e752c8996462710d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/latvian/62/2.json",
+    "sha": "d64b1cea9c3324e6c2e5fbe85b9f5f87057d2d2d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/latvian/62/3.json",
+    "sha": "4a6578b179e8ce85375043e61e9b750cd2d488cb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/latvian/62/4.json",
+    "sha": "5dc14f612c40d1d100e6ac32579f9d31efd57287",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/latvian/62/5.json",
+    "sha": "c1b0648847534d2fcde3e62b6ec15252596ae066",
+    "id": "5"
+  }
+}

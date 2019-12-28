@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/albanian/53/1.json",
+    "sha": "df3f1161d5a737724e7a7961f5ef8dffe3136396",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/albanian/53/2.json",
+    "sha": "e4bd1539ff26c8924f45bf6e7c31dbcf73f9c435",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/albanian/53/3.json",
+    "sha": "f1e75c2c81aa373df5fe4c84889c7a33b399e4a7",
+    "id": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/65/1.json",
+    "sha": "da0c3b2543af0fff3de6946b69b38e2f5d209b16",
+    "id": "1"
+  }
+}

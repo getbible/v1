@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/60/1.json",
+    "sha": "cecece3aabeafa87e80f6c00ad017221bc0808e9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ls1910/60/2.json",
+    "sha": "f65c6167088fa7f00de784ee46e69c61daa01c00",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ls1910/60/3.json",
+    "sha": "8dfeff83f39d40460491e38e08808303c992c960",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ls1910/60/4.json",
+    "sha": "d0aab9142106f1805be9da34d3c6d81e3e69c04d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ls1910/60/5.json",
+    "sha": "accbd5b71ddf92b61e872eee4b94f0a97dd51cc5",
+    "id": "5"
+  }
+}

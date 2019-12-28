@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/60/1.json",
+    "sha": "1e65ad5acaca862dffdaebb5e22626750ed74eed",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/moderngreek/60/2.json",
+    "sha": "b017328f8e977eed3a264fa1b74dc304738fae3c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/moderngreek/60/3.json",
+    "sha": "e5bc74a92da4bd6bae01052328da11f1bab4cf67",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/moderngreek/60/4.json",
+    "sha": "ea744e1f124784c38b96102dbe92f7e3af2e4597",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/moderngreek/60/5.json",
+    "sha": "3eac0c4786580ad68b0b3b60e37b5dc77c9165ec",
+    "id": "5"
+  }
+}

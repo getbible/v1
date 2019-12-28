@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1992/25/1.json",
+    "sha": "b8b99faa3c0a35218c9d2fe3c8ecc362b8df1dc9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1992/25/2.json",
+    "sha": "8c59d8e4d4e8e79a344afa92761fc652c314547c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1992/25/3.json",
+    "sha": "42e68a56126f344986653ed34386223ac7168bfb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1992/25/4.json",
+    "sha": "ab31c1b7b6caeff5fbb9534ca01ec1e01ba70358",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/pyharaamattu1992/25/5.json",
+    "sha": "dc8969223e882a5a541ea4d5cfb4149b81c33f80",
+    "id": "5"
+  }
+}

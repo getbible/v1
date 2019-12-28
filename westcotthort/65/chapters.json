@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/65/1.json",
+    "sha": "62e3d07688daeea87a09cf85d1beea845bfdc95b",
+    "id": "1"
+  }
+}

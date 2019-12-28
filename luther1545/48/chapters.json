@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/48/1.json",
+    "sha": "c4e958d94325bacf2a14be0d917b896b70e907ea",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/48/2.json",
+    "sha": "5411f2313cdfacc9aea660944863a5ee907d4b18",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/48/3.json",
+    "sha": "ff65ca68388500694bec1ee1a0100cfa699bb258",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/48/4.json",
+    "sha": "caecf03a8b94fcb80fc7959bbf8d7f0724ae36fd",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/48/5.json",
+    "sha": "6dabdccdc9207c35ab0800176836a7e5c1eec009",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galater",
+    "book_nr": "48",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/luther1545/48/6.json",
+    "sha": "388a428bd736ec58478e85f1055bba345407cd2c",
+    "id": "6"
+  }
+}

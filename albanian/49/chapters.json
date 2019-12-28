@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/albanian/49/1.json",
+    "sha": "79d6629a2197fc31b898b7b10484abfc4ac398d5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/albanian/49/2.json",
+    "sha": "07e7cfc6c1aa19c4f587ba205fece6a6d65e5d9e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/albanian/49/3.json",
+    "sha": "b283a9ff24da24cd85c3112f19b79a0c71b3686d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/albanian/49/4.json",
+    "sha": "37161b220b167f49e23fc84eda4daec732790694",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/albanian/49/5.json",
+    "sha": "fe6a05c56c1de815af6e312bf85823134ceb0cf8",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/albanian/49/6.json",
+    "sha": "153b45b4b2fe225e1d707e989dbfeab7d80908ae",
+    "id": "6"
+  }
+}

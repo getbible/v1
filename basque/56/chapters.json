@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/56/1.json",
+    "sha": "965ca669c4dee608b2b622c07bb7330c5a32b681",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basque/56/2.json",
+    "sha": "ba1c629b3cc8f3c033b4196cf538d51fbddd2bf2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basque/56/3.json",
+    "sha": "531f7e8f9a618e3704f22cf952e3456af48b7090",
+    "id": "3"
+  }
+}

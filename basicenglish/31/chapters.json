@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/31/1.json",
+    "sha": "0f68490263ac11b1fbfcbc36da8aa4ae0a022259",
+    "id": "1"
+  }
+}

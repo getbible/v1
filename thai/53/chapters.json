@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/53/1.json",
+    "sha": "99bd667c45737449548aa464075c6947fe83366a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/53/2.json",
+    "sha": "fd5462249bc8b5f5069784bcdc34d39e0b360453",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/53/3.json",
+    "sha": "ccc761ee4d3090f17d4eea26703cbcd13534e10c",
+    "id": "3"
+  }
+}

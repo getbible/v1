@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Judas",
+    "book_nr": "65",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/65/1.json",
+    "sha": "39471263a4693c42df461e2948f81421ad7cf9b9",
+    "id": "1"
+  }
+}

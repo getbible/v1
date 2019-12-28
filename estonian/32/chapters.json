@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/32/1.json",
+    "sha": "1b4ec8793b48ce179085586512945f04e24a19af",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/estonian/32/2.json",
+    "sha": "09a1dff7c48a7f5f0db644b634c4684d8ba3122b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/estonian/32/3.json",
+    "sha": "c5cf37fa213c872a52cece4ff6f3ad300270adb7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/estonian/32/4.json",
+    "sha": "fe89f89b53ec7e4233573efcc3b0f29a59df8768",
+    "id": "4"
+  }
+}

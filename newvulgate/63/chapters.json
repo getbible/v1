@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/newvulgate/63/1.json",
+    "sha": "8a1343687a3f6dd77c3142b09b4adec0ceb6b75a",
+    "id": "1"
+  }
+}

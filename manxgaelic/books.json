@@ -1,0 +1,68 @@
+{
+  "17": {
+    "name": "Esther",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "17",
+    "url": "https://getbible.net/v1/manxgaelic/17.json",
+    "sha": "af5867fd233bb612d383b0772882ff4864059769",
+    "id": "17"
+  },
+  "32": {
+    "name": "Jonah",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "32",
+    "url": "https://getbible.net/v1/manxgaelic/32.json",
+    "sha": "6b0f89ccc661761378251aaa4307118c265ad770",
+    "id": "32"
+  },
+  "40": {
+    "name": "Matthew",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "40",
+    "url": "https://getbible.net/v1/manxgaelic/40.json",
+    "sha": "1011bf3ea87e349d93aea211a44a83a42f925efc",
+    "id": "40"
+  },
+  "41": {
+    "name": "Mark",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "41",
+    "url": "https://getbible.net/v1/manxgaelic/41.json",
+    "sha": "122895e82ca8ea6fd713ce8fdb3d87564691cf52",
+    "id": "41"
+  },
+  "42": {
+    "name": "Luke",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "42",
+    "url": "https://getbible.net/v1/manxgaelic/42.json",
+    "sha": "5ba326082e5e6d00292c8dfd20811344342bc84d",
+    "id": "42"
+  },
+  "43": {
+    "name": "John",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "43",
+    "url": "https://getbible.net/v1/manxgaelic/43.json",
+    "sha": "051a5d9ad2e8914ddd18e00b7fb620d63a8b4412",
+    "id": "43"
+  }
+}

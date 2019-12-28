@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/uma/50/1.json",
+    "sha": "96326be2204a65549120d0d570ecb8b48eac6200",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/uma/50/2.json",
+    "sha": "e8708bc472b85ed3a76262765588c9e4941e0eb5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/uma/50/3.json",
+    "sha": "576264ac8cf7e44b4c4db1be1f75fb3ccedbcd2b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/uma/50/4.json",
+    "sha": "9a45d49f79ce685f4908d4c745d6cce446917914",
+    "id": "4"
+  }
+}

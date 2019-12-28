@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/51/1.json",
+    "sha": "e19e996d5c4f42ce4193398868fc5f9e61949fc7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cnt/51/2.json",
+    "sha": "082e1e6ddc35d8aa1ab62bd3c77eacc6b8b53838",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cnt/51/3.json",
+    "sha": "7040804730e1b2091f634010c8b3034ce4419e20",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cnt/51/4.json",
+    "sha": "6d3d74389836ab719fda298df304a097b4c1eb08",
+    "id": "4"
+  }
+}

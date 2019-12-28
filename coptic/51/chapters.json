@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/coptic/51/1.json",
+    "sha": "dcb694dcbb6aa201d989a360448908387ca734d2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/coptic/51/2.json",
+    "sha": "0adc1892118186f5de9f3fcdeb8e578789875b21",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/coptic/51/3.json",
+    "sha": "f972317b7848732930b8b0356dcacbaa06360aae",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/coptic/51/4.json",
+    "sha": "25a40ab3fa4020b898dd7fd994623636ccc39924",
+    "id": "4"
+  }
+}

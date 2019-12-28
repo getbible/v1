@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/29/1.json",
+    "sha": "c4f7fc1ba8b5018d6d8e6f57c60866a8ea71a45d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/martin/29/2.json",
+    "sha": "9ba20c43f0e4b1457f4076765e4eacb79defd053",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/martin/29/3.json",
+    "sha": "fec2377fcb3a6d02737cd19d7b6062ebdc76692b",
+    "id": "3"
+  }
+}

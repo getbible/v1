@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rv1858/65/1.json",
+    "sha": "ee1b243a6ad9d8d1aeb3c891fe400275507300c4",
+    "id": "1"
+  }
+}

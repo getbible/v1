@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/arabicsv/25/1.json",
+    "sha": "3f2c9c8555f29f551af78ac7b27b1d96f60532e0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/arabicsv/25/2.json",
+    "sha": "278c4bddd819edb50dd4a8f9ba89ba0da1c15491",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/arabicsv/25/3.json",
+    "sha": "4bfda250986dc6a939f8c59d47c015922f685305",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/arabicsv/25/4.json",
+    "sha": "0ba5cbf998fd7638791d91d3693f9fb7527c01ad",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/arabicsv/25/5.json",
+    "sha": "584d0f51469bdcbe7f6a5136b211c414854ae200",
+    "id": "5"
+  }
+}

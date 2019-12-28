@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/48/1.json",
+    "sha": "f2f0e5294472e77baf3839dd7997013109f5c8d2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/estonian/48/2.json",
+    "sha": "809543bd0f34cb13b8b57bd8bae739351f603ab1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/estonian/48/3.json",
+    "sha": "12446bf692397f7420f9954a4b7901aad86bd20b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/estonian/48/4.json",
+    "sha": "6c7992ccf75f88c9fab0d6d31aefdd81660bfc44",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/estonian/48/5.json",
+    "sha": "ad4cbe3f2ca8fec5575973172024bf4f25b8e570",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/estonian/48/6.json",
+    "sha": "8743da2377d6813165f8b9ab349079ed063fe9e9",
+    "id": "6"
+  }
+}

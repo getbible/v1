@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/statenvertaling/62/1.json",
+    "sha": "72086a41e7c5a6234f5ae1df6123c6123a6d9c99",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/statenvertaling/62/2.json",
+    "sha": "1244122a936cebcf77151026107ade5352fdf447",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/statenvertaling/62/3.json",
+    "sha": "f85e50ffb4450023469d2fe9509f5e2b6f2e5dc5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/statenvertaling/62/4.json",
+    "sha": "c575554bd6e2a2b7978f878c760b4789933b4468",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/statenvertaling/62/5.json",
+    "sha": "922f015644a44df651f4912ea8f93a932d857ebe",
+    "id": "5"
+  }
+}

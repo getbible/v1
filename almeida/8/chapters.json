@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/almeida/8/1.json",
+    "sha": "32e063474a8346ec19568b4a877f9b003f366d3e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/almeida/8/2.json",
+    "sha": "6f388a92f2c8e9ce8709d38b2a5e71de5084e3f2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/almeida/8/3.json",
+    "sha": "8d68bad9511d55d0b228dad5f9208e2898801d22",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/almeida/8/4.json",
+    "sha": "a16d6512c407699521f689662a03ab6a655928a5",
+    "id": "4"
+  }
+}

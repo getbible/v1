@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kms/32/1.json",
+    "sha": "6b258e777bd1eac8a3c0e1fa4f7f56599b0b22e1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kms/32/2.json",
+    "sha": "27974f91403532681e2ccf68a66f60dd80f75bcb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kms/32/3.json",
+    "sha": "bf1d173a30eafe4d242a9a5c81d37df8ecd8e277",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/kms/32/4.json",
+    "sha": "a6cb8dca52468e0085464dd745b8cb7b59b1f046",
+    "id": "4"
+  }
+}

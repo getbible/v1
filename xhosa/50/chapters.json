@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/xhosa/50/1.json",
+    "sha": "30b1dd958a080ad735806494670e6d8409647740",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/xhosa/50/2.json",
+    "sha": "97b9e56f4477d6f7c1c2cb34fc93f3a704005ddc",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/xhosa/50/3.json",
+    "sha": "0c87392a2730a20637fe11006fc3e5266510173b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/xhosa/50/4.json",
+    "sha": "4c49a50e135d03b57a620081f72f17806913e249",
+    "id": "4"
+  }
+}

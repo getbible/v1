@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/25/1.json",
+    "sha": "f55d37462f772f86e7f045e43bbb1c747b5a57b9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccents/25/2.json",
+    "sha": "35986f7d88299ca594dab95cca9a0e06aa643ba0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccents/25/3.json",
+    "sha": "e0e3f861d78dace1cff1a6cd0ad584ae6a5f1d41",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccents/25/4.json",
+    "sha": "d9b0ca929137f5393c092eafee7f3fa60f8a98b5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lxxunaccents/25/5.json",
+    "sha": "8fc075137d258181e16774359015c1378b6f278b",
+    "id": "5"
+  }
+}

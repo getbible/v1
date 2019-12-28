@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/49/1.json",
+    "sha": "422c5c26664ae3dc86a30bf1b12a850184e1dddf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/49/2.json",
+    "sha": "a39c162b4405bc4fa03d3f7cce613ca78213d24c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/49/3.json",
+    "sha": "32c1a601855b7b4571e09898f52540285f42fa3f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1912/49/4.json",
+    "sha": "a27ead33820a0e50e24a4ed55dacc8a2b023beb7",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1912/49/5.json",
+    "sha": "372e7dc092c2d9c918e7cbd4e52555642293ade1",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/luther1912/49/6.json",
+    "sha": "c361ab5d15041177c131435006a9abbaf2403aba",
+    "id": "6"
+  }
+}

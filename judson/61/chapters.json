@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/judson/61/1.json",
+    "sha": "6061e366fce2607069981de3265c7ab9f0b41453",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/judson/61/2.json",
+    "sha": "8162a034ca1e393d79e2ddc76300d68ba42f9c5e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/judson/61/3.json",
+    "sha": "fa9c8f1d49aa2039c679309bb6e741a06698fa46",
+    "id": "3"
+  }
+}

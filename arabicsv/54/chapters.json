@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/arabicsv/54/1.json",
+    "sha": "cc31760535c7fff1c6c40a6dc8b4fc5a08c8fcad",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/arabicsv/54/2.json",
+    "sha": "630fdd07090ee0d62c42ffb6c375134e6e6ccd01",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/arabicsv/54/3.json",
+    "sha": "baa5833f922c0ce2398ef49dc74914630cfaafad",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/arabicsv/54/4.json",
+    "sha": "d70c79556a53ac8d231e53cd63373ba967c8dacf",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/arabicsv/54/5.json",
+    "sha": "bf6b753a8cb54c61d7f995a179083950b9f6a5e4",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "6",
+    "url": "https://getbible.net/v1/arabicsv/54/6.json",
+    "sha": "4c5efc7bbbc13a21e22a7a39ea734c92a070cc7e",
+    "id": "6"
+  }
+}

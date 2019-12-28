@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wb/49/1.json",
+    "sha": "a0b2a44670d78c03d1a06a641609b1b6ba18e64e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wb/49/2.json",
+    "sha": "2c983f4681cd2a1a9141252c1297f61d02f67f89",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wb/49/3.json",
+    "sha": "65cee17b758202f9b0613ac51f95018475ba1d25",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wb/49/4.json",
+    "sha": "6f2092889da3daf904c53480074a9ffc354866db",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wb/49/5.json",
+    "sha": "0f5cf2ab8b2c30c9691ecc02e57eeb1264d3d9c6",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/wb/49/6.json",
+    "sha": "da537abbbe5e259009b969847863c216e98b9525",
+    "id": "6"
+  }
+}

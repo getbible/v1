@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/62/1.json",
+    "sha": "c6fc3d96e770487eda5cfb39a513bf4199a25301",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aleppo/62/2.json",
+    "sha": "4570a4e6b8cdd328d97bb302c3ad268e3868c1f1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aleppo/62/3.json",
+    "sha": "3fb9ba48cc1688a0c812fbfd25db8c4af34e9cd4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aleppo/62/4.json",
+    "sha": "03632eefc0c200034d5a537747e4b688b5958c3c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aleppo/62/5.json",
+    "sha": "8066b43f2aec1e84e21b87725f597f411eb59687",
+    "id": "5"
+  }
+}

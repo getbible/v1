@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/62/1.json",
+    "sha": "b3bb0e90456b3d054c61539ca45e2b3023c7245e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/amharic/62/2.json",
+    "sha": "38a329ec81f8cebad6d4b6fb9de676136063170c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/amharic/62/3.json",
+    "sha": "393ab2abb6a602d627c08e794258d48eba23c2d7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/amharic/62/4.json",
+    "sha": "30f8d4f2e7c89be0daf22d1849dfbfde5e8a6972",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/amharic/62/5.json",
+    "sha": "93f2a1c84b15f35358e00ee33e92df1f99660cef",
+    "id": "5"
+  }
+}

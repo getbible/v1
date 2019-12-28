@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rom/54/1.json",
+    "sha": "a6af8aefbeb79a644dc8314956095306e409196d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rom/54/2.json",
+    "sha": "c275b0687e68f827b773bd20dc838c8e573a56b4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rom/54/3.json",
+    "sha": "1a7bff1d99950b4cc25006d6a7c602f32245b7ca",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rom/54/4.json",
+    "sha": "54db21c5620545648264a593ce80371b0926c2b0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/rom/54/5.json",
+    "sha": "3713211b2d20e7216d442180506ed6734d8c24a9",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/rom/54/6.json",
+    "sha": "9f25d8fc421bb235afb632685ece2f151f8284a0",
+    "id": "6"
+  }
+}

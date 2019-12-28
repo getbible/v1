@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/56/1.json",
+    "sha": "124466e8639c172700acabf1c03d42d79898a359",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/finnish1776/56/2.json",
+    "sha": "0a3401ae725a030cc4ef99c6dea574c5d1f81b85",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/finnish1776/56/3.json",
+    "sha": "d0827a3ef2333e782fe54ca530f533de445bd706",
+    "id": "3"
+  }
+}

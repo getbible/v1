@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/turkish/55/1.json",
+    "sha": "63f5b1015d59f85e48488adbb9d693e819e83579",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/turkish/55/2.json",
+    "sha": "4eb5569a797af692c234eb6fded23df7325e9c92",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/turkish/55/3.json",
+    "sha": "d2bb83475c7dde27ae3d8dd7f287125013c255e3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/turkish/55/4.json",
+    "sha": "d41c4757f756d65cc4aa853426437df312ec3994",
+    "id": "4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/newvulgate/25/1.json",
+    "sha": "198f46dbcf70f993d33c537691127b49ff6a9390",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/newvulgate/25/2.json",
+    "sha": "e747f5bbbba8fe5c048eecd65692c01ae26c07e3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/newvulgate/25/3.json",
+    "sha": "1e11ac69b62dd58660b671e7b0b64c1ee94210d1",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/newvulgate/25/4.json",
+    "sha": "afe1a357bbf1492e4840aa83cb75de80d8c2c904",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/newvulgate/25/5.json",
+    "sha": "6b95aba52449aae29bb6a48bb8e03ba5b82df69d",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/uma/8/1.json",
+    "sha": "d204adec793fef5d4e86aba38470fc8a63e048cc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/uma/8/2.json",
+    "sha": "aadc49a33b5a3c983cfcfd66765ec42ea45044fb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/uma/8/3.json",
+    "sha": "dc8245a3fe567a5537a50128231e7a6b2d9d01ea",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/uma/8/4.json",
+    "sha": "e0da20ccd1c511c98ba4c7684b835ee0ec1c8f4a",
+    "id": "4"
+  }
+}

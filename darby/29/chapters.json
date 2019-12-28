@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/29/1.json",
+    "sha": "970e529955bdc545d53ad4fc56bd57cd589ee6f5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/29/2.json",
+    "sha": "8f78046273fdbc64845a7c808632194aa3eae87d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/29/3.json",
+    "sha": "6c6b5649158c9e87874df3bf944a599d2b40e7d9",
+    "id": "3"
+  }
+}

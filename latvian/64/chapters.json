@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/64/1.json",
+    "sha": "a35bbf14bd203c518b49cba0aa4ce71edb3268e5",
+    "id": "1"
+  }
+}

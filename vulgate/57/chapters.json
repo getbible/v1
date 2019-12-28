@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vulgate/57/1.json",
+    "sha": "948f0a0ad2339d62a12b768a272bc1ade3973b84",
+    "id": "1"
+  }
+}

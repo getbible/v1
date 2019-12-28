@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/newvulgate/36/1.json",
+    "sha": "fdc2e6e625dd5baffd920527f7e48d182f91c750",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/newvulgate/36/2.json",
+    "sha": "23c5696fd604d6c905bb5197d5f1bd66ee8b726c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/newvulgate/36/3.json",
+    "sha": "b194c289d0b609564461d2cb42e0e8f88650acaf",
+    "id": "3"
+  }
+}

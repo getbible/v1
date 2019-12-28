@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/coptic/52/1.json",
+    "sha": "26a0b0d3aba217ebe2e8427deeba3c9ffb4122b8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/coptic/52/2.json",
+    "sha": "9e1ea8632996b17797f3e54d41abb70ddbe7eee5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/coptic/52/3.json",
+    "sha": "bb30fcb6de9e703287dfaf302de9a0921b0a4404",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/coptic/52/4.json",
+    "sha": "3aec958843041231b47544f1c5c99afffb350f11",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/coptic/52/5.json",
+    "sha": "1fef3ef02df558c43c01d669edb3230531ce7dee",
+    "id": "5"
+  }
+}

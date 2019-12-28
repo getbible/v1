@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cornilescu/34/1.json",
+    "sha": "e00891561ddf77eeb36953de0dfd99bb00c11fb0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cornilescu/34/2.json",
+    "sha": "724dec71ec3478cc1fe366dae1b9c43e2bed50a1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cornilescu/34/3.json",
+    "sha": "13be6cd243cf6fc286ab5aabdb5c20f8bc128164",
+    "id": "3"
+  }
+}

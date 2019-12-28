@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/61/1.json",
+    "sha": "58359eb56be39448fdbdde00e3ca3b840ce84b34",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/61/2.json",
+    "sha": "46585d0d4806c6823c8875efa8e6776497ae5e1d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/61/3.json",
+    "sha": "4f1daa8a0290e3cd8daf9f645562edc18e1a5f39",
+    "id": "3"
+  }
+}

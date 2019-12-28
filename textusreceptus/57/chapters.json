@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/57/1.json",
+    "sha": "0c35ee4a5f99e15ed5144bb255bb39b896dfef81",
+    "id": "1"
+  }
+}

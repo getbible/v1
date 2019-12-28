@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ostervald/51/1.json",
+    "sha": "ecb0ff5cf0e580e2ea31fa870d86f481309e8b21",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ostervald/51/2.json",
+    "sha": "0b2737571ca3c01be2d06dda3c5a37104b0fb46d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ostervald/51/3.json",
+    "sha": "83336e603485797a29dcc07497bacdb404ac56bb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ostervald/51/4.json",
+    "sha": "8b9968ad7c2a1542986c5b5cabb001dc79a4c5c8",
+    "id": "4"
+  }
+}

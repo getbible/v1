@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swedish/51/1.json",
+    "sha": "abdf0ec9bd7aeacc85698b897f0260c6c3f76ddb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swedish/51/2.json",
+    "sha": "a81b77869a66eecf69ac90678dbef1ecc336fda5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swedish/51/3.json",
+    "sha": "e8e21ca4d7181d0a56d5e23ff30ffa2b5534e516",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swedish/51/4.json",
+    "sha": "161b52c3d8e02fbfd43f38d3b6f088d427e3aef6",
+    "id": "4"
+  }
+}

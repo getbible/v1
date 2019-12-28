@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/29/1.json",
+    "sha": "73a8f81e69d248290e645ad1eec577267f5da1c6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/douayrheims/29/2.json",
+    "sha": "45aa31d4d8cd64f741164c34533cae2a22de75aa",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/douayrheims/29/3.json",
+    "sha": "3ec2ceb5f916f292b75c235e4a274d9f6cf0c764",
+    "id": "3"
+  }
+}

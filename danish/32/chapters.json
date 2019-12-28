@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/32/1.json",
+    "sha": "807aa9501e2d9318d0fda411651d428d1ca1737f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/danish/32/2.json",
+    "sha": "5902ea5173ba63675e237cd5b1bc24ab21d8ac7e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/danish/32/3.json",
+    "sha": "4e48336b97599b648926cbacb6f661162c8f70a0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/danish/32/4.json",
+    "sha": "4e07834be387ac51c015832b546f6510f937cf7f",
+    "id": "4"
+  }
+}

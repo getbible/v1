@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 John",
+    "book_nr": "64",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/asv/64/1.json",
+    "sha": "96351e8d8c096cc8860cb7403f95bdd86d069330",
+    "id": "1"
+  }
+}

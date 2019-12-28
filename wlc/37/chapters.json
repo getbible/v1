@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlc/37/1.json",
+    "sha": "2db1b642713b0c72a6b3c37ae6b0c5e2c0ab4cef",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlc/37/2.json",
+    "sha": "2245c6f81d53693ee6823c40f7faf6534d657e5e",
+    "id": "2"
+  }
+}

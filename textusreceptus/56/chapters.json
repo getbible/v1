@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/56/1.json",
+    "sha": "73b47ccf21e7cdb582f6fb93a53efd63f7288369",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/textusreceptus/56/2.json",
+    "sha": "3772389208f6d240b91d83fe2bb169d93761e5d9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/textusreceptus/56/3.json",
+    "sha": "d355759a0a07e4c9c85706aba0fb932fb2853184",
+    "id": "3"
+  }
+}

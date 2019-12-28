@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cep/65/1.json",
+    "sha": "98fe452461d5bffbc44331bacea1bf8c4f47b872",
+    "id": "1"
+  }
+}

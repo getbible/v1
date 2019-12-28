@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/48/1.json",
+    "sha": "a899e5a0b46c4f760e29acd5f42aade5e7dc259f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcotthort/48/2.json",
+    "sha": "8638f58b4afaa6e57ab15bdec938c63c99b6f6f7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcotthort/48/3.json",
+    "sha": "36b1419980d851e51e51f10133f20f1410fadf41",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westcotthort/48/4.json",
+    "sha": "b4395a8c8bcc2d5049d0576ed01bbca6d0e76e05",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/westcotthort/48/5.json",
+    "sha": "99e77d96b8433efab1c5dcabb7cd55cb93536e9c",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/westcotthort/48/6.json",
+    "sha": "c4b1589e31fab13022bbaa9737bbcd2f7d327cd8",
+    "id": "6"
+  }
+}

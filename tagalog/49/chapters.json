@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tagalog/49/1.json",
+    "sha": "cb4c9653c02c277a0bcf7a088ed28f1ac46c8210",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tagalog/49/2.json",
+    "sha": "b8e477005aa0fecbbf911c21b506aba3c0fde392",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tagalog/49/3.json",
+    "sha": "85f26f92634848b4a3a512d58a368d014c113367",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tagalog/49/4.json",
+    "sha": "8e374f06c6ab9de037d5c522eb4ad9dc03223ab6",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tagalog/49/5.json",
+    "sha": "e0f96f75e687780ab4d8e463c65350e7ba7579a9",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/tagalog/49/6.json",
+    "sha": "077f605ebe338cccaf5e86662d5bace2e04dab5f",
+    "id": "6"
+  }
+}

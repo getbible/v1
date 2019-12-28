@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/xhosa/61/1.json",
+    "sha": "0eea64a678710706d2b079185b00fe1a3da0c4a2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/xhosa/61/2.json",
+    "sha": "428444cd695824546732a01607fb7c70f0632eac",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/xhosa/61/3.json",
+    "sha": "3cbd00f960712c5a551157eee6db756427ed4cd1",
+    "id": "3"
+  }
+}

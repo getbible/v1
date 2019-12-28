@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/63/1.json",
+    "sha": "6bb056493ea25e2bfb411a5d5b537f9176329617",
+    "id": "1"
+  }
+}

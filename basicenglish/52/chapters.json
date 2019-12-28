@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/52/1.json",
+    "sha": "298a7a959947ac1bf86e33229b0efe54ef639433",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basicenglish/52/2.json",
+    "sha": "d728bbfcebb568655f31b3b60a8e1285386df640",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basicenglish/52/3.json",
+    "sha": "1cb3729c8d88071466ca748856278fb6e75cc06b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basicenglish/52/4.json",
+    "sha": "98472e9e08a0a4038c3c14ee293eaace750314e4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/basicenglish/52/5.json",
+    "sha": "7ac6e554c5884af845b56e499e95951d9e615290",
+    "id": "5"
+  }
+}

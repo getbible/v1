@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/croatia/60/1.json",
+    "sha": "d19e8942ba7f17565c4c1ec58d9fbb55915c1367",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/croatia/60/2.json",
+    "sha": "441298e57c853f95acd335c69640a573044be49d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/croatia/60/3.json",
+    "sha": "0a1382d455de4b9e5687799148e67666b50c68b8",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/croatia/60/4.json",
+    "sha": "ded6327c42e70256f99543d6bafb449744b55a3c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/croatia/60/5.json",
+    "sha": "610d210cd36f5fce590dfe004fea6e103eb36803",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kms/61/1.json",
+    "sha": "37ab905c479a67dbab5c91a2d70dd250ff531bda",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/kms/61/2.json",
+    "sha": "fc16526be8fa1b8b99c744b2b8e655f79e1230d1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/kms/61/3.json",
+    "sha": "ff8aac9bcb766711d8bf1c4604fcaef361faa0c6",
+    "id": "3"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lithuanian/54/1.json",
+    "sha": "ce0b906158aeb0c1265890add9fde286742a6609",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lithuanian/54/2.json",
+    "sha": "950cf84364040c3ad1b845819bb6051d9e278fea",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lithuanian/54/3.json",
+    "sha": "3605ab08fdcf09fa3e5af16586c5e2b329ed663a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lithuanian/54/4.json",
+    "sha": "519bbda477053ee06370235fcf3991a46b888ee5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lithuanian/54/5.json",
+    "sha": "7af84dd6ab98d0dcb6866e8efb3e51b618e5b8d3",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/lithuanian/54/6.json",
+    "sha": "0c03be2f00d7db3583fce905fcfb7ea8e05d1f21",
+    "id": "6"
+  }
+}

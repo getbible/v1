@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/54/1.json",
+    "sha": "61b05eb5a6f09dea76cab419aff02bfd24e7df16",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/54/2.json",
+    "sha": "11efc5e377b453513844ee49187114d7d24b8f80",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/54/3.json",
+    "sha": "f264ab023957ac921fcae7109fd75b3f4871dd86",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/54/4.json",
+    "sha": "17cba5fc4a8753fae11e898d4044f3e058ce77a5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/54/5.json",
+    "sha": "be958cb11d54a112a05bf3e7a71c0be5535bf2a5",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timotheüs",
+    "book_nr": "54",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/aov/54/6.json",
+    "sha": "dabdb5776afe02a35039e883c82622fb6639446e",
+    "id": "6"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/52/1.json",
+    "sha": "fd37fb1d55b5aa5d966be9058a87dafb5fcc9774",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/moderngreek/52/2.json",
+    "sha": "c4932e38d4355da87985eca1d18ae5eba8833440",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/moderngreek/52/3.json",
+    "sha": "f502e48f6a6821c540c0290a63ed779973b2c344",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/moderngreek/52/4.json",
+    "sha": "0aec4b7724ea77632b35cb98d8eb77a67f3de421",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/moderngreek/52/5.json",
+    "sha": "c347a56b1259191d667d8ebc66fb7e542aa9d98d",
+    "id": "5"
+  }
+}

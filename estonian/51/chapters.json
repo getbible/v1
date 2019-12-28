@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/51/1.json",
+    "sha": "d722c61f8927bc3c8803e6171b54f7cbc6298168",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/estonian/51/2.json",
+    "sha": "927a8f3541c9d49c2cd2be92ce58388cd1425ddc",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/estonian/51/3.json",
+    "sha": "062292066020bc61287b7d6710e1a07dbc6ca40f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/estonian/51/4.json",
+    "sha": "b987a8e2da25bd0117da5fc5a4925873aadf341f",
+    "id": "4"
+  }
+}

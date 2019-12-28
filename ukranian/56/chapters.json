@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/56/1.json",
+    "sha": "2bdeab02f02d2b0d851d35803c14c8abcc17b6b7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ukranian/56/2.json",
+    "sha": "e9922cd31c8804e6d7e38cf5f50a3d0d030a4725",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ukranian/56/3.json",
+    "sha": "3bc47bb553db41efb8fcc83299bea353d35c859a",
+    "id": "3"
+  }
+}

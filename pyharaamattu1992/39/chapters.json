@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1992/39/1.json",
+    "sha": "c903165f2c4740a4f6c177da8cf5c4239b5c9632",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1992/39/2.json",
+    "sha": "76f4bc4c550e4fee58ae8e09961b57331c0c0d8f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1992/39/3.json",
+    "sha": "176e68dc406310176de0de48f2733fcd8bfc5fdb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1992/39/4.json",
+    "sha": "a46c3ef832e8931a1477cf7f0bcf1d93f969a4a7",
+    "id": "4"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/36/1.json",
+    "sha": "afd15da5fbd5e4cdb9664c1e57c9805c8d7f2b99",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/zhuromsky/36/2.json",
+    "sha": "d715ff544d6eee7850c7ba7c83dfb9b2a4105fdf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/zhuromsky/36/3.json",
+    "sha": "76eef3dac2963b9d5e2a895b82ca79d341f27d2e",
+    "id": "3"
+  }
+}

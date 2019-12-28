@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/turkish/51/1.json",
+    "sha": "2fd088f95f755647aba5bf9c69c423ed30927992",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/turkish/51/2.json",
+    "sha": "f0762a3289038c56d51392ef2d6917ff3bc6eb09",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/turkish/51/3.json",
+    "sha": "cc635ced15466d4b5f13aa432dc12383be2f4356",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/turkish/51/4.json",
+    "sha": "2f11abf3c6e738c04f9575994225da6785aa0042",
+    "id": "4"
+  }
+}

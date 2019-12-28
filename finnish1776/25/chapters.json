@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/finnish1776/25/1.json",
+    "sha": "3a6e9dab6ee860f3beb017fb6c9287d6feb398df",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/finnish1776/25/2.json",
+    "sha": "de0a2d2f9c049ad6ad83b7c934f04ec82560ee13",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/finnish1776/25/3.json",
+    "sha": "b6c808a9bfb344182b43864522e60ab0ac58cfea",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/finnish1776/25/4.json",
+    "sha": "29fcd088465f56a490c055a851a6e5f9f45fec27",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/finnish1776/25/5.json",
+    "sha": "921b7c45896b923310294de37a80deb69d23fe1c",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/xhosa/39/1.json",
+    "sha": "ace580fa8091ec82d6179e764faee9f3f97d4559",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/xhosa/39/2.json",
+    "sha": "074251d233c5bea318873d51f7be3deb0e9fae93",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/xhosa/39/3.json",
+    "sha": "fd4016624c3f37ff2506cba1735d2a5e0e35b4b0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/xhosa/39/4.json",
+    "sha": "db146fc28df58b8a4b9f369025f20d681f55796c",
+    "id": "4"
+  }
+}

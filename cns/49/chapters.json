@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cns/49/1.json",
+    "sha": "fb7f993865f7225d47d0a015c8b958b237ffb6a0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cns/49/2.json",
+    "sha": "87c479e435bb7b8b224f46a1b8f1e9961ff6bd0d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cns/49/3.json",
+    "sha": "9cfc4ee1e87e0204705896d92eb8bb9241e02e47",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cns/49/4.json",
+    "sha": "e9ca64ed5734fa098166e0980b465a826136136b",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cns/49/5.json",
+    "sha": "b817d705f1eee776994d415ba9c665b2644b0f21",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/cns/49/6.json",
+    "sha": "469af5cdd76098d0f6395d683c89297e3290d5c6",
+    "id": "6"
+  }
+}

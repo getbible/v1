@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1933/51/1.json",
+    "sha": "ebf7999f8d874ff580d792c663a92d0b9d7b5f97",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1933/51/2.json",
+    "sha": "ad78a9f5c2cb1b0e112786b3857986ca520242ee",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1933/51/3.json",
+    "sha": "192ae2f052ed695194bd6d2f92c7545d59cb3d32",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/pyharaamattu1933/51/4.json",
+    "sha": "8e5a3d5e097e183b72e48e9756b9b2837d6ff8be",
+    "id": "4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/52/1.json",
+    "sha": "fdb08d1f223b3329baa9d924ba622dd2d3b70997",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bohairic/52/2.json",
+    "sha": "6ce6006d3513acd0896fb371389f7adc54e84219",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bohairic/52/3.json",
+    "sha": "fa8dde69f0e4c2a838a4a334703153fc8935871c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bohairic/52/4.json",
+    "sha": "2cfb76fa4edf124e0ec34bf118ab51909a905cff",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bohairic/52/5.json",
+    "sha": "4acb5dca09e899f3130130747ff62c4b5d7ac717",
+    "id": "5"
+  }
+}

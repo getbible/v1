@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/byzantine/63/1.json",
+    "sha": "1c54b7d59ea6448db4a1413a25c609ba23d1e480",
+    "id": "1"
+  }
+}

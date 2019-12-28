@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 John",
+    "book_nr": "63",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/63/1.json",
+    "sha": "d6b246783af68e4d54b17b62e2a2ac6a52082f68",
+    "id": "1"
+  }
+}

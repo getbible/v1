@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bohairic/61/1.json",
+    "sha": "f473116bd2a7850684b930c30f02e1c6245800ed",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bohairic/61/2.json",
+    "sha": "aa98c121956502a2cbdeb59090df8e7742b51469",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bohairic/61/3.json",
+    "sha": "e5d4250a4cda81d2d96fb8cd55210e96084ec6d3",
+    "id": "3"
+  }
+}

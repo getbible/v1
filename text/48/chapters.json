@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/text/48/1.json",
+    "sha": "c4e298c5dd2ed4b52e38065abcbbbd137892bc74",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/text/48/2.json",
+    "sha": "859c293b4eaa9fb81441b9126cfd2f176ceafc41",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/text/48/3.json",
+    "sha": "0a2b440066a9eff64efdea83ce2a3af3a5c809a4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/text/48/4.json",
+    "sha": "3ba8a4ca308bd2db3b97577bcef62e507e1bfec7",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/text/48/5.json",
+    "sha": "cc9f76e86716d9b1818d8ad4256aa28fceb128cc",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/text/48/6.json",
+    "sha": "4500d986a6cc37aa2f220149ffe1e4479b49699e",
+    "id": "6"
+  }
+}

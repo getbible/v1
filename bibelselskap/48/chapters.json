@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/48/1.json",
+    "sha": "0dde23354174391a0afe57283bcb475757d74fa8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bibelselskap/48/2.json",
+    "sha": "26bbf9917a51a19d096d3cef4cf9458f61073645",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bibelselskap/48/3.json",
+    "sha": "eb988ef5c4874db295cb16dcaa1fd0dfcc612168",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bibelselskap/48/4.json",
+    "sha": "3797ff06623dafcec2f5fb9bee0713f39f6970ab",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bibelselskap/48/5.json",
+    "sha": "20b9f47db4f836cb3424ea172c472d3c51b5dd56",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/bibelselskap/48/6.json",
+    "sha": "00e2de0013618f0f8320107998a2d983456505e1",
+    "id": "6"
+  }
+}

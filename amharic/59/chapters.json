@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/59/1.json",
+    "sha": "91185818989f715981a2f2f8010542908e9026a5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/amharic/59/2.json",
+    "sha": "8904653fe1b460fb176cce77c03048a572033fed",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/amharic/59/3.json",
+    "sha": "460222ecbf99d6a08a5f0e56c9c1388526fdbabf",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/amharic/59/4.json",
+    "sha": "cfa16a78d561c58fae6d2d5e54385c78110fabde",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/amharic/59/5.json",
+    "sha": "a653b262306c426e6c7e3e5ae6f6f83dbbeb5547",
+    "id": "5"
+  }
+}

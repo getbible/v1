@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/54/1.json",
+    "sha": "94012131b11da7c9e7406ebcfa367755f9c31bc3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/54/2.json",
+    "sha": "df1b481239ece376d1f4c0c82258634b13d9ef66",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/54/3.json",
+    "sha": "88f0b94d21ac5fc60994f20e5b421cb686f859d5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/54/4.json",
+    "sha": "e2380b5b0c3268a5d7cdc0420d6d4d4aa9933dc5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/54/5.json",
+    "sha": "be8df8a34cfe3974e31e3ebe2fa50cb8553f3619",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/elberfelder/54/6.json",
+    "sha": "ed61aa2f64238869bd6c51d8d131eb7de49a11b4",
+    "id": "6"
+  }
+}

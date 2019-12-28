@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rom/55/1.json",
+    "sha": "7f5e7e62f711eccad2d6211664638260ef41afe6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rom/55/2.json",
+    "sha": "d1ac923d2826acf1c912f3d87776caf25df8124c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rom/55/3.json",
+    "sha": "ad038f115e58ed0486b25a41a545a4f61c235623",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rom/55/4.json",
+    "sha": "238ac0761350490df5c176c3a586e1194ad81e54",
+    "id": "4"
+  }
+}

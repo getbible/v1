@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/59/1.json",
+    "sha": "ae93551b49222f6aa62cbc49003e20a7633d4ba7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/59/2.json",
+    "sha": "e8bd05034f38cc086e0367a4b2936ecaa522b5de",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/59/3.json",
+    "sha": "bfa10cede558658fd447a628f6693bc54e0ef79f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/59/4.json",
+    "sha": "0937ed146568e49be497dfa71ed7de73894da3e7",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Jakobus",
+    "book_nr": "59",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/59/5.json",
+    "sha": "a41ecd8b3443c51ca3addab82e96a7a71f47a3c7",
+    "id": "5"
+  }
+}

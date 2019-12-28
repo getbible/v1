@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/53/1.json",
+    "sha": "aab3fa085edb984d64c930ea5336bbbd097f84d2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ukranian/53/2.json",
+    "sha": "c96e8dccd1770c45598d82be25b5dd705c92bcbf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ukranian/53/3.json",
+    "sha": "13c831ffece9917c68f6fb35db38a23be52a2551",
+    "id": "3"
+  }
+}

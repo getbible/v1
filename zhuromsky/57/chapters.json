@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/57/1.json",
+    "sha": "ab82697bd1bfd270c56565b9e4ce233bc151077f",
+    "id": "1"
+  }
+}

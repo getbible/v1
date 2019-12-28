@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/56/1.json",
+    "sha": "930146b99117077ecc24a55ea6cee7d4133969d3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basicenglish/56/2.json",
+    "sha": "9fe6de39270a06a06e04d2fa6137b13c11d9c317",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basicenglish/56/3.json",
+    "sha": "98ec04385f7c5f4ba68e8ebdc1f3f6f11ab95a45",
+    "id": "3"
+  }
+}

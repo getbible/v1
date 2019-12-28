@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/65/1.json",
+    "sha": "75ef9df666a3a2e3339ae91ee7cba7594cf9a0ab",
+    "id": "1"
+  }
+}

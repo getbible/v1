@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3 Johannes",
+    "book_nr": "64",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/64/1.json",
+    "sha": "6839a1ef4502f47dc7686db746f9645f7d911f77",
+    "id": "1"
+  }
+}

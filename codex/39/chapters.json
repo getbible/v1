@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/codex/39/1.json",
+    "sha": "89550be78154cab4e9a3e35c7dfac1d384a45242",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/codex/39/2.json",
+    "sha": "c2d25dcc2cbb6c57f0164b1c1ba138b46d1e56b4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/codex/39/3.json",
+    "sha": "50a411793a46de61c33992f2b4c4854a59a7c85e",
+    "id": "3"
+  }
+}

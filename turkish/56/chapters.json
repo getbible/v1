@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/turkish/56/1.json",
+    "sha": "198b0906f78f63f2b388aeb242cc0fbde7dd433c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/turkish/56/2.json",
+    "sha": "6a66591d19c44a7cd7c10b14a64ac10ce83c0dc4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/turkish/56/3.json",
+    "sha": "47b2dc960d49af3c60ceb3a92167df689ba170c5",
+    "id": "3"
+  }
+}

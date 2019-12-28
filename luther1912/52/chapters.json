@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/52/1.json",
+    "sha": "f35ce5dcc890cb9824b4f619ff1950a08ad53edc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/52/2.json",
+    "sha": "5cffa2db7f5cf9be2552f36d3d8a10b99562f744",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/52/3.json",
+    "sha": "7c6658a24a4c5ed0c5cfb6000128e02b8b768380",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1912/52/4.json",
+    "sha": "39813f3ad820b3021d2ab10e2b3144d2cfe10dbb",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1912/52/5.json",
+    "sha": "bde757de65b86e1c95abcf7343169695281b0960",
+    "id": "5"
+  }
+}

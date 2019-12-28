@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tamajaq/32/1.json",
+    "sha": "65d8c543f9a2556f4295e54354fa2d0e87c156da",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tamajaq/32/2.json",
+    "sha": "fed3ddb00a58bbf0e3197aff4c803b412e0a03d2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tamajaq/32/3.json",
+    "sha": "fa097ef04ab0cf2aa20396437ed7fd818cd58e5e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tamajaq/32/4.json",
+    "sha": "5012e1a55ca093c7162101e22dc75966868cd47a",
+    "id": "4"
+  }
+}

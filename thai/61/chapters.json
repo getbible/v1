@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/61/1.json",
+    "sha": "75638feaa8c03cbc2a032ee094ee8253ddc2defb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/61/2.json",
+    "sha": "f92cf9dbc5619d6046ff22c7b9caf8f7d344c9d6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/61/3.json",
+    "sha": "33dc729aa52fdf25a0d163d04e62e651f86f9a17",
+    "id": "3"
+  }
+}

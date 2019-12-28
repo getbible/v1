@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/asv/48/1.json",
+    "sha": "925fbc80efe00bd39f8c3f7f25605bdb30c0910c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/asv/48/2.json",
+    "sha": "9f347ee18c764d5e70fcf494f5a76fd222ec0ead",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/asv/48/3.json",
+    "sha": "b6888ec536f6acffa8e3e43e81f3346aac365728",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/asv/48/4.json",
+    "sha": "ff12a58993cec4001e6dcdc9ebafaab30597bc41",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/asv/48/5.json",
+    "sha": "e8f5496febc09e8b3c063955fbcf759d1e9a7f43",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/asv/48/6.json",
+    "sha": "b118ac56cbdd74c00a0724f70bb2ef0d30319b20",
+    "id": "6"
+  }
+}

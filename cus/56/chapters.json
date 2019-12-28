@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cus/56/1.json",
+    "sha": "c88419f5d05813d3a53a8d3c11d8dfb79d90cf07",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cus/56/2.json",
+    "sha": "80c4ee3643e1c64cc9afce5b0ced4e0b5c54ef92",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cus/56/3.json",
+    "sha": "14c75bfe017932698440cf2331b810f7248a0b2d",
+    "id": "3"
+  }
+}

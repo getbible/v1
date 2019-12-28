@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/korean/35/1.json",
+    "sha": "72fef37b44b90175df267b5de590bd4078346dfe",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/korean/35/2.json",
+    "sha": "99ead1d22509dfd1f1427cbb7c5e3e6ad7aff439",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/korean/35/3.json",
+    "sha": "8cd77933bd4afe1b5ba2a0b766604e9a7f163c8d",
+    "id": "3"
+  }
+}

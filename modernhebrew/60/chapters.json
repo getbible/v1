@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/modernhebrew/60/1.json",
+    "sha": "c8e051417bead811672e3974085183f964a3f3ec",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/modernhebrew/60/2.json",
+    "sha": "1365e915e01b044dff442cbe5f577fc71314bf62",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/modernhebrew/60/3.json",
+    "sha": "9efb2728ac6c6717ee036b599f3d2da071f1aede",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/modernhebrew/60/4.json",
+    "sha": "481e45c096938d0817c26d84c0e89a606bd750ad",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/modernhebrew/60/5.json",
+    "sha": "d60b1f6a37f890aefc098869a4866720f4bbef5e",
+    "id": "5"
+  }
+}

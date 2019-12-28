@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swahili/52/1.json",
+    "sha": "b0f359f4d6847288f94c0eb7db8e0234abee2fe8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swahili/52/2.json",
+    "sha": "c9f88530983e9e4e30c3a969a1b7ec8b9eacb12e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swahili/52/3.json",
+    "sha": "e29a821f4ff598a20fbeea0619154faffcdc8849",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swahili/52/4.json",
+    "sha": "d3bec627a1d8b8eeb987055663c233b3b1f893da",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/swahili/52/5.json",
+    "sha": "7a89cef72bf24826a0f54f9898831effbce5d29b",
+    "id": "5"
+  }
+}

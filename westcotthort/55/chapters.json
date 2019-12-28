@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/55/1.json",
+    "sha": "a184e25c455f9bd50fb3e83e16798d7fb989589c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcotthort/55/2.json",
+    "sha": "0e897fa68e04fe2074e8671c86ab813befcab0ae",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcotthort/55/3.json",
+    "sha": "0875ec9f3be94c7b808adcbcabc7e4be0384e2af",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westcotthort/55/4.json",
+    "sha": "64a3f347b0bc367367336550f58cedd493072cd7",
+    "id": "4"
+  }
+}

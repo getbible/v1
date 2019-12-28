@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rom/57/1.json",
+    "sha": "8982a95171d225f11c3ee5e183ff24c30ac80226",
+    "id": "1"
+  }
+}

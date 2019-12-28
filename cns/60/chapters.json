@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cns/60/1.json",
+    "sha": "67ce42d8ec4aa86ca16e16599c26d4d389bb4d18",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cns/60/2.json",
+    "sha": "c5ba5bd795242e8c954b09d7348fed44e61624c8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cns/60/3.json",
+    "sha": "06e8c71c2eebbe4086279b4a23b8be9fb43fcf8b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cns/60/4.json",
+    "sha": "4f66a27115c6161182f5862d6da5eaffa7188851",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cns/60/5.json",
+    "sha": "3953dd532cbe429ed7f6b6359e548970196ec205",
+    "id": "5"
+  }
+}

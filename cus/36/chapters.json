@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cus/36/1.json",
+    "sha": "751ad75311df8e8af5c3a1fb9b74eebec37ecde6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cus/36/2.json",
+    "sha": "4277d9a992376f03dbf1553105beee26c3256a1c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cus/36/3.json",
+    "sha": "89d06fd0820ef5349ada0b17f99c6270b2a743a3",
+    "id": "3"
+  }
+}

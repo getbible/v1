@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cornilescu/35/1.json",
+    "sha": "5c3590aba49ad6bb63933ad6515dfa593917cb1e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cornilescu/35/2.json",
+    "sha": "549df784edf9ac7f454a4ca505ee80ac4d222b59",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cornilescu/35/3.json",
+    "sha": "fbe7b8a05268e3c28126c7b855ab9b68c5e426bb",
+    "id": "3"
+  }
+}

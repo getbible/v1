@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/croatia/36/1.json",
+    "sha": "e83e598faf287e515ebf2208943fd0a8698a270c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/croatia/36/2.json",
+    "sha": "419b7183d327a9985db46385c43aaf455cb51368",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/croatia/36/3.json",
+    "sha": "6a9e554cf3deccf72adf18fa5bd49157a2261d54",
+    "id": "3"
+  }
+}

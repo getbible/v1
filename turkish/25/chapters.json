@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/turkish/25/1.json",
+    "sha": "724455e48ad8bc21516558afc8ab31ed7e21b1ea",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/turkish/25/2.json",
+    "sha": "7cb3985d8ecc2a12897f504de55854e6a38a1d7e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/turkish/25/3.json",
+    "sha": "f5fcd09629876b741a03e53db08bc49787d8bd35",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/turkish/25/4.json",
+    "sha": "1218366164eca5128d940483889cc66e0c044910",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/turkish/25/5.json",
+    "sha": "98729c31f9f53b2a91f289e7000723d65aa0bf3e",
+    "id": "5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/65/1.json",
+    "sha": "989b63f403504913ded810f4a50eb50b463a0d30",
+    "id": "1"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcotthort/59/1.json",
+    "sha": "c8d6ecb0f2457298d6bf07b6387d3fbddcf7fb21",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcotthort/59/2.json",
+    "sha": "609863a733e7f9fad262b8f9ba2c008b71da4a49",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcotthort/59/3.json",
+    "sha": "751ac3e250baf6046ddc9ef3bb2e4aa7e8638644",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westcotthort/59/4.json",
+    "sha": "62bd6b1ef963281c115dd2563331c821ac819a86",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/westcotthort/59/5.json",
+    "sha": "49b3d50c9dff600ef0f1d839b8cbc28f30155d36",
+    "id": "5"
+  }
+}

@@ -1,0 +1,5 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	61	2 Peter	1	d4cce9338eb263a4aa648c1daa362f21bc2b7039
+2	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	61	2 Peter	2	6ab125aca06c7bf34ca1b9db61a72b40aac83aa1
+3	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	61	2 Peter	3	900c4e412111a7e77895808474095e651477da31
+

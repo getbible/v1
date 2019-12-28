@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/35/1.json",
+    "sha": "ddad5f3145c2f9a98bdb048aa4112a159af3e462",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bibelselskap/35/2.json",
+    "sha": "ec31431b905f6829401ea10cdc03649ab3aec73a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bibelselskap/35/3.json",
+    "sha": "555e64aed415e1e0ed5798bdad022fce54388f4f",
+    "id": "3"
+  }
+}

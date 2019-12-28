@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/49/1.json",
+    "sha": "7ecd851bbee7350fef504baecfc9d10a60e174d6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/49/2.json",
+    "sha": "7b81bb5f6b9b56cd55132ef674c19f4fc94218ae",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/49/3.json",
+    "sha": "8b426dfb03a2999d1bd76f8a8898235b536916bf",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/thai/49/4.json",
+    "sha": "a294d3bfe17a1253726e5a11983421700dcd5c5a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/thai/49/5.json",
+    "sha": "44d4a1722a4f8d91168a5b27137a83bed26ecc5e",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/thai/49/6.json",
+    "sha": "48e64506860e9768c1328919e78aafb3d145f290",
+    "id": "6"
+  }
+}

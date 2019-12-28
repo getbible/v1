@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westernarmenian/60/1.json",
+    "sha": "b1d6764243fd21b39d86f8a6e1b48f856131c645",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westernarmenian/60/2.json",
+    "sha": "088e9522f986a9ef577977ffb4e3fe053ebd995f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westernarmenian/60/3.json",
+    "sha": "963a08b7498a7e6eaeeff4df485b08ec56b70b14",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/westernarmenian/60/4.json",
+    "sha": "c14a8822a3766248e975233e3cbe39db672f9190",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/westernarmenian/60/5.json",
+    "sha": "99a4400cf18b1cdd90694961e8df0393ee117393",
+    "id": "5"
+  }
+}

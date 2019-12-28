@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/zhuromsky/52/1.json",
+    "sha": "aa9cd01b1b34279e741ca6f00c80e705b2ce8336",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/zhuromsky/52/2.json",
+    "sha": "576a2b1e50b46c11d61f7f9ca5895c699200170e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/zhuromsky/52/3.json",
+    "sha": "a0ba7468de554a5ed9da1f2742b5f62bfd042fa3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/zhuromsky/52/4.json",
+    "sha": "ffa3e068511db570d1d891343329e04334600e21",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/zhuromsky/52/5.json",
+    "sha": "a07b19ae4d005d54cfde3d24ac3761843aa6e44b",
+    "id": "5"
+  }
+}

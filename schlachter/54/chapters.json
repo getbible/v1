@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/54/1.json",
+    "sha": "6313fe3483b941aa5c9a8fcf9582595e1919ea22",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/54/2.json",
+    "sha": "ddfcddd12f6936183ac7a8bed725b5c441e5ec42",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/54/3.json",
+    "sha": "768a129be62aa9a2e015ff7a138e30c550cb62a1",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/54/4.json",
+    "sha": "2bbe3881b8870cea154ed3c9077f7b3dd8f81809",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/54/5.json",
+    "sha": "086d1a62710d870dcb61cff6052444d117964181",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1. Timotheus",
+    "book_nr": "54",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/schlachter/54/6.json",
+    "sha": "d18a6f636dd8d5fa8d44314f26dba1dc89ca5bd3",
+    "id": "6"
+  }
+}

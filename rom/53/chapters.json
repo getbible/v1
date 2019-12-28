@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rom/53/1.json",
+    "sha": "fa26a86d01c8abfa24e5344c61bb7e4bf51f8baf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rom/53/2.json",
+    "sha": "92f028b8e9b8fe736e692a1afe619ce467d7761f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rom/53/3.json",
+    "sha": "a03850638719cb2ab44d5b304ef044742dccfe7a",
+    "id": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/kms/65/1.json",
+    "sha": "72ab834d8ce2b084c3ca66aa5d8395f8ffc6db8b",
+    "id": "1"
+  }
+}

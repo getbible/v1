@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/32/1.json",
+    "sha": "5e9cd78cfb0141d61d931d9e469ccce53710ccea",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/32/2.json",
+    "sha": "cdfe49bbf7fc51f947a31d28d64675de50659c11",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/32/3.json",
+    "sha": "54a219ef0e42c0461468148046c8c7c9a0120add",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/32/4.json",
+    "sha": "fe1b766a5686b99c6619f359c83b89996f78fde5",
+    "id": "4"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/55/1.json",
+    "sha": "a6c9235ddb1568ef8eb1824dbea223c10beb7242",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/martin/55/2.json",
+    "sha": "863ba1bb5ad10568e5775c90c4fa72f066553b12",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/martin/55/3.json",
+    "sha": "9c0a10031b48fd6f312f32e6841f57c2d3101650",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/martin/55/4.json",
+    "sha": "c36b26b23fe620e554bb526e5bf1a14f9386c421",
+    "id": "4"
+  }
+}

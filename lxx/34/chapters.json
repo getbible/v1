@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxx/34/1.json",
+    "sha": "26287e0af4b46cec524aa755eee4807e0bc65a33",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxx/34/2.json",
+    "sha": "e7346aefa43d8e4892880ccbe69b47ec83a1b4ff",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxx/34/3.json",
+    "sha": "a7e6725fb4cfceb2294788f24cddf294d3474b10",
+    "id": "3"
+  }
+}

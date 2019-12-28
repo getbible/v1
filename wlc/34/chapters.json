@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlc/34/1.json",
+    "sha": "750687da925531b0bcd339b4e66c6770c35bb418",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlc/34/2.json",
+    "sha": "cea85177843611be174daa7aceb7f1316d73777d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wlc/34/3.json",
+    "sha": "0e3750c7ee2811875c2f6cc297b4a3c6b079520d",
+    "id": "3"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rom/62/1.json",
+    "sha": "fcf025bf320c28e12d71fc9c0c3921f0958cba53",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rom/62/2.json",
+    "sha": "514dea8146d1f405c6d1687fc71bb54c06b319c2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rom/62/3.json",
+    "sha": "be9d21adcc3f68399545ce79d76a0aa44d918c75",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rom/62/4.json",
+    "sha": "9f01ccd3ce74bb9fa31114dfa0382339042488d2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/rom/62/5.json",
+    "sha": "1f06cd4186ad155001eb68102a16e4a360bee964",
+    "id": "5"
+  }
+}

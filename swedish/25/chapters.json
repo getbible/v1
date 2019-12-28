@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swedish/25/1.json",
+    "sha": "017c6c0f080c781afb655843b440c7516b24a4fa",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swedish/25/2.json",
+    "sha": "d3a0b92625c1ac2db0aa5b732a657936ec23872d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swedish/25/3.json",
+    "sha": "8b9a6553fb3f18115e20a2351b2dd8391bf0b6a9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/swedish/25/4.json",
+    "sha": "1df156717159262893d285a1abf82373d42e0070",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/swedish/25/5.json",
+    "sha": "2b5d6d5573950967658bce04a91676793500e2ad",
+    "id": "5"
+  }
+}

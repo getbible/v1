@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/georgian/59/1.json",
+    "sha": "3e2732d8a95aa58a9eedc9ee215f9ffcedf78a2e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/georgian/59/2.json",
+    "sha": "066f3486fa75df9c62dfaa2614ceba29fd591797",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/georgian/59/3.json",
+    "sha": "c58a4239551c6a435c274320ef13db2fe10f58b9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/georgian/59/4.json",
+    "sha": "df0697b5ddc3486592af7de5ba29599e95986697",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/georgian/59/5.json",
+    "sha": "8d043b32b74a39a1cc686205280ba036ca3d75b1",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/asv/36/1.json",
+    "sha": "a9371fdf305c8fbceb20fc58f3179c3e463e44e8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/asv/36/2.json",
+    "sha": "56ad6327fdac9fe3fb9318779637e4435a6833f1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/asv/36/3.json",
+    "sha": "de9cf2cb65299b46304a991e5279c7d01cb2f11f",
+    "id": "3"
+  }
+}

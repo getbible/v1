@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/giovanni/35/1.json",
+    "sha": "02a6c2a3fec4c415aed2479cc39e3f53e9eb870a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/giovanni/35/2.json",
+    "sha": "a46d67ca4b6fd124d319626245cdad3a068dbfa4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/giovanni/35/3.json",
+    "sha": "faae83a27870844f0f59088ecce729d6e9f5ec9f",
+    "id": "3"
+  }
+}

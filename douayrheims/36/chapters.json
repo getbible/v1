@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/douayrheims/36/1.json",
+    "sha": "0637cba05cd442f052a96db6b9700c31b0eb2b19",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/douayrheims/36/2.json",
+    "sha": "65d8a776b75585006ac9c3ff1635deda70730803",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/douayrheims/36/3.json",
+    "sha": "535049adf82e2c8daf057bd9a8c244efd535ab29",
+    "id": "3"
+  }
+}

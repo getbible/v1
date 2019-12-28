@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cornilescu/60/1.json",
+    "sha": "9184a898c3cb5550604784e6486e892fdd6d6aa0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cornilescu/60/2.json",
+    "sha": "a43486ab3c1d304fd1b14444bea2ada176a7fbd5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cornilescu/60/3.json",
+    "sha": "4a6bac8f5a08b8671d9da4d34a061f612a90de5d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cornilescu/60/4.json",
+    "sha": "eb94dda87a1dba5cd3a78f8bb7a4a7b99d83f1ad",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cornilescu/60/5.json",
+    "sha": "5ad7cdf6c514f04e5eda93b16677dca785e2a99a",
+    "id": "5"
+  }
+}

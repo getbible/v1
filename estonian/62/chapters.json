@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/62/1.json",
+    "sha": "694af1108f14092742a80f65bfc60d7a1128d71e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/estonian/62/2.json",
+    "sha": "5f2ae57cbae5531d3b812872373c78d0b38e61d9",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/estonian/62/3.json",
+    "sha": "9e95bca33889b42cce92998f4c8c3d8c0493c9bd",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/estonian/62/4.json",
+    "sha": "9bcb33a51b9678a1f67cd3886a699b87ff5610bd",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/estonian/62/5.json",
+    "sha": "d1507b95698d86945fafbe679b69a3ddf0240f73",
+    "id": "5"
+  }
+}

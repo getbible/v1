@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/34/1.json",
+    "sha": "e089b8b6085a6e515fa3a546ce780ebf564df22a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/hsab/34/2.json",
+    "sha": "e133e322e89ad7e414fc8fec41e2d48fbf966003",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/hsab/34/3.json",
+    "sha": "d775f73b52d9331f9cb102a912fa4e01047068c3",
+    "id": "3"
+  }
+}

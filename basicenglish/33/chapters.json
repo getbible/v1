@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basicenglish/33/1.json",
+    "sha": "dc11c2aca023d71e4ecb1d00df9788a429d03dab",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basicenglish/33/2.json",
+    "sha": "94b65056d7500f6edea979779de00393ea1c6b00",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basicenglish/33/3.json",
+    "sha": "1cb56d0dadf0fabc14b97d1cdba664d2af37edea",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basicenglish/33/4.json",
+    "sha": "84ad8682d24d691acce4aa9456690d6e2e7489be",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/basicenglish/33/5.json",
+    "sha": "313fa2081ba5d84119460a39237d0f8cf4f90304",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/basicenglish/33/6.json",
+    "sha": "66a52f356cc6e04e2fce75511d61ce240a1fe938",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/basicenglish/33/7.json",
+    "sha": "a08b03d503a4345a8293b1e4b2095fcc426761a1",
+    "id": "7"
+  }
+}

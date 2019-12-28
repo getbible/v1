@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/56/1.json",
+    "sha": "3de4ba52b0a23c6aa690f383d9438cd8756a3bc1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/peshitta/56/2.json",
+    "sha": "8c1ba7a2f41beda4ef7928725780d06138a6ae57",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/peshitta/56/3.json",
+    "sha": "30ac36845153682227101cfbe9ecb82249d3420a",
+    "id": "3"
+  }
+}

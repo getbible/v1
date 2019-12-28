@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhsnovowels/29/1.json",
+    "sha": "aaad0ee2bcdd5040bba42df9f22217612ee3a5de",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhsnovowels/29/2.json",
+    "sha": "e1b7508d2d135fd1aae70f4fa4baed4635b18fa1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhsnovowels/29/3.json",
+    "sha": "9de81fbe8f0030a8d383ab5e58a50850aa80d493",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bhsnovowels/29/4.json",
+    "sha": "c3b35141198e5cd87428b581cc5b0a0c710e6ede",
+    "id": "4"
+  }
+}

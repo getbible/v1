@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/48/1.json",
+    "sha": "51c89893571792749a9e4970a366a18fe9f5bf1f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/danish/48/2.json",
+    "sha": "43d5fee775b9de123b48b9fddd6be1e083fa5bc1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/danish/48/3.json",
+    "sha": "100a97e65cb99d82c5b4447cca5ef212babdcbba",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/danish/48/4.json",
+    "sha": "3f76ae17d6e8efec98122b995566eef6dd6539e0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/danish/48/5.json",
+    "sha": "857dd9f1d1149fe5b3a793f4a65d4b9339c5c639",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/danish/48/6.json",
+    "sha": "5f19b80229ddb9b86d41721fff90eb8922fde7eb",
+    "id": "6"
+  }
+}

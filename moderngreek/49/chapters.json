@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/moderngreek/49/1.json",
+    "sha": "05bacb5b17d26452b413840dd2612bf7f7a3ac92",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/moderngreek/49/2.json",
+    "sha": "89fd591c55fe040198cf068fa920830a72fb4a01",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/moderngreek/49/3.json",
+    "sha": "a74c63c18e852d11ddd1754697158e4cce8215ff",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/moderngreek/49/4.json",
+    "sha": "d76191b89cb97f79f8c7e988c77ef8b741e0a4ce",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/moderngreek/49/5.json",
+    "sha": "6ff9ca8b76c8fc323c1119d2256486c6f4405fb4",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/moderngreek/49/6.json",
+    "sha": "04493dd7df15c9396d6f1c9dec518d24b071be29",
+    "id": "6"
+  }
+}

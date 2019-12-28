@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cus/53/1.json",
+    "sha": "b3b04f8a30405f487a122a318bf002a1d49f9bcb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cus/53/2.json",
+    "sha": "166c7f066d5718062b0166e494409149ee48050a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cus/53/3.json",
+    "sha": "ecce0c457f16f2f37ac33309eb57bc28de5436d8",
+    "id": "3"
+  }
+}

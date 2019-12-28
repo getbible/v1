@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/54/1.json",
+    "sha": "dfc66bd3f0af42abb7e2806c7b476d77cadf7e68",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cnt/54/2.json",
+    "sha": "55de9152851fa9ac51dbd0d11b1d8d28789cecd8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cnt/54/3.json",
+    "sha": "ef75844354f352bea5599cd8d8c5b7458abd75b2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cnt/54/4.json",
+    "sha": "ed5381b36038e2d6b1b72e9def73b45ca4aeaf60",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cnt/54/5.json",
+    "sha": "b1f8b35be0e53531a66bbf7bd31232cfedfd1f19",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/cnt/54/6.json",
+    "sha": "7b43558db61fe3ca90c76ca818bbe8c7b36d9534",
+    "id": "6"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/akjv/33/1.json",
+    "sha": "ab94d3cfc5232575e6bac3df9e24fc6c53ce91a2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/akjv/33/2.json",
+    "sha": "4072e1869dc53707b4670f4c0950ce7b045df132",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/akjv/33/3.json",
+    "sha": "6b72e767105d86ae958a9433a082bf2c7bc21dc0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/akjv/33/4.json",
+    "sha": "d216b90329291a4457a52ad52479823ab6fcafe2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/akjv/33/5.json",
+    "sha": "84f3de9df0db48c71cae8b6e4bc50f79bcd19c20",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/akjv/33/6.json",
+    "sha": "6ca99a8ff5b6c2cae3af8f0d5d86836cee2dabf5",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/akjv/33/7.json",
+    "sha": "f5caeaf7a4072038d1d470197792a38e535cb926",
+    "id": "7"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/52/1.json",
+    "sha": "a97e78be5f7df5a387a0cfe5891062bf101a4cec",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basque/52/2.json",
+    "sha": "9bcb37e880dadf28b00f05a462d6bb468833213a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basque/52/3.json",
+    "sha": "ca380062e933be6a4e225e9e92b67c654e98f9bf",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/basque/52/4.json",
+    "sha": "abc9cd6c5037b2a7728b47a3b5cecf21da85058d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/basque/52/5.json",
+    "sha": "c504f90b3d5e5b0ee023eee40e062aa389a5c149",
+    "id": "5"
+  }
+}

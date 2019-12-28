@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vietnamese/48/1.json",
+    "sha": "3443f85bdb5ed6ee9c629bfe1bb37bfae8eb530e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vietnamese/48/2.json",
+    "sha": "e715aa57ccd7e91125d32e86298de916febffd9b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vietnamese/48/3.json",
+    "sha": "a13da4c3349fd1cebda4dd1a3dfcc3f350cae482",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/vietnamese/48/4.json",
+    "sha": "c7a4037428c6a61f2f2781241177d541c80528a5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/vietnamese/48/5.json",
+    "sha": "34c9235acab90193ec2277110f1c681099076ee9",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/vietnamese/48/6.json",
+    "sha": "92ea6d2f63ba9b2fdcb0d58160c7bb59d180b521",
+    "id": "6"
+  }
+}

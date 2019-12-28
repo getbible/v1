@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sse/60/1.json",
+    "sha": "e8aa0961e7652005fc3cb845afb7364dee310c0a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sse/60/2.json",
+    "sha": "261c17e61aa28ca9f2d80b8208679f0d15fae201",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sse/60/3.json",
+    "sha": "d246b77b076e54d937e17520dc8e275516759fe9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/sse/60/4.json",
+    "sha": "75fc019b2c529832768802222641e3a505296b24",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/sse/60/5.json",
+    "sha": "3a3326a53a3201d340518d7efbefa1b5baa6eb14",
+    "id": "5"
+  }
+}

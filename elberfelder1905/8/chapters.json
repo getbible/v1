@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/8/1.json",
+    "sha": "479169d0f525267d12c677cacbfea37aaa4bfb0e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/8/2.json",
+    "sha": "f5704ce9b2c85d94107230d491a239bbe79c92af",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/8/3.json",
+    "sha": "1aa927bc74c915a2243d1be7b2717d907249b78a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Rut",
+    "book_nr": "8",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/8/4.json",
+    "sha": "e1f9c48a4e438a499a3c7bd5db41536bf130d427",
+    "id": "4"
+  }
+}

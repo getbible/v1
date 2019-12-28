@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/danish/53/1.json",
+    "sha": "f0591939894366f69967bb5a276ba656ae7747a3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/danish/53/2.json",
+    "sha": "4aaede75c8d4c47df6dbb09329bbb6117d40655b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/danish/53/3.json",
+    "sha": "56a4d281562d8e51c8edf4fc0c43bfc6106a556a",
+    "id": "3"
+  }
+}

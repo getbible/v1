@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/25/1.json",
+    "sha": "cd1a9660e726a0455caf84dc09bd07f6a6c058db",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/25/2.json",
+    "sha": "5f17635cffa6fc638f7980414a4d1735143b4cc2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/25/3.json",
+    "sha": "d72fc39209b2a5b7289b254230b254ec7e9ff143",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/25/4.json",
+    "sha": "8de7e8ad06a77b7962d4b1056bcd5473d95ca904",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/25/5.json",
+    "sha": "015d883260282f25b82c6947080e0a52ea640c45",
+    "id": "5"
+  }
+}

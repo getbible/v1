@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/codex/35/1.json",
+    "sha": "7d5561238a8bd442c73f12c48f7d43fd38ae14b2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/codex/35/2.json",
+    "sha": "3d96005648a0437238e17af6d1f0fe652f66883a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakkuk",
+    "book_nr": "35",
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/codex/35/3.json",
+    "sha": "d43b8b9baf4c9953e4751afeeb40df033e17026c",
+    "id": "3"
+  }
+}

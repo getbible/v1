@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/51/1.json",
+    "sha": "913772e2acc4cf3a0e393a8063015955fbc770fb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/51/2.json",
+    "sha": "710cdb4cbea6d6caad79bfd2acec8f146819b130",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/51/3.json",
+    "sha": "d1f21ae8025df249f04bb6eb16e11fde06270d4b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Kolosser",
+    "book_nr": "51",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/51/4.json",
+    "sha": "1fc15d968099ac42524bb18a5f11f72eb37a92c2",
+    "id": "4"
+  }
+}

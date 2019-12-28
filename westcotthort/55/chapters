@@ -1,0 +1,6 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	55	2 Timothy	1	a184e25c455f9bd50fb3e83e16798d7fb989589c
+2	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	55	2 Timothy	2	0e897fa68e04fe2074e8671c86ab813befcab0ae
+3	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	55	2 Timothy	3	0875ec9f3be94c7b808adcbcabc7e4be0384e2af
+4	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	55	2 Timothy	4	64a3f347b0bc367367336550f58cedd493072cd7
+

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bibelselskap/62/1.json",
+    "sha": "bcd75f0701fdc27e0ecbbf3722354a308ed0ba86",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bibelselskap/62/2.json",
+    "sha": "41355b8edc2efcac492ad644e8d5507788e6144b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bibelselskap/62/3.json",
+    "sha": "93b3ca116a701670a458d1a6a3590185a3cf949c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bibelselskap/62/4.json",
+    "sha": "cfd49d92ad7770a481f8021d2c857fc1cf00f735",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bibelselskap/62/5.json",
+    "sha": "02866bf72bb7e15757212d5f5ebc3d2127f5b0b3",
+    "id": "5"
+  }
+}

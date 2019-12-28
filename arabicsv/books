@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Arabic	Smith and Van Dyke	arabicsv	RTL	Genesis	1	55488264c0b335622a55fa9feb2736a0c3740799
+2	Arabic	Smith and Van Dyke	arabicsv	RTL	Exodus	2	daaf708c95dd9c40b80697b31f152a3ac648edd3
+3	Arabic	Smith and Van Dyke	arabicsv	RTL	Leviticus	3	f5df1bd1ddfc59e4872b5e63311aed4577f9f253
+4	Arabic	Smith and Van Dyke	arabicsv	RTL	Numbers	4	db3afdd7072d65ada266fc0f90f14d97f5fbe259
+5	Arabic	Smith and Van Dyke	arabicsv	RTL	Deuteronomy	5	de52da6e900aabe5310f11616328e4c5e028c38c
+6	Arabic	Smith and Van Dyke	arabicsv	RTL	Joshua	6	8086eb9efd421643156c0a2534af9aa294e89bcd
+7	Arabic	Smith and Van Dyke	arabicsv	RTL	Judges	7	2424d92d01e1a9416a4ad279bad82ed910e0346a
+8	Arabic	Smith and Van Dyke	arabicsv	RTL	Ruth	8	2c670b30db1f8b9e072ebec7bdf2e2a70b162c3c
+9	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Samuel	9	19abe087373dd501e52c82cde5fbdc5d386276f4
+10	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Samuel	10	17ab7be03e9f07cbbc8c47fc26dad939371969ce
+11	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Kings	11	3a0c5b9fa6153038395fae29195aa112b0803858
+12	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Kings	12	13cef2d6584efabff5994a1f0c816e90a87d28d7
+13	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Chronicles	13	da1ddb925659d6e8e0807efd652b45794dd31e03
+14	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Chronicles	14	80ca09eab32b64fd350ec64be4f309a0d137da14
+15	Arabic	Smith and Van Dyke	arabicsv	RTL	Ezra	15	6f9166016277fda904a9936f5cf8a43de5a5089e
+16	Arabic	Smith and Van Dyke	arabicsv	RTL	Nehemiah	16	fd1319bcdad749d097875506fbd5c499b5cbf650
+17	Arabic	Smith and Van Dyke	arabicsv	RTL	Esther	17	47526831512a6faca462c373b7c3248fd78c4851
+18	Arabic	Smith and Van Dyke	arabicsv	RTL	Job	18	035e327440c23541131d950676abad8ad54454b1
+19	Arabic	Smith and Van Dyke	arabicsv	RTL	Psalms	19	e87e420f0c9477481a865046f580514638ab4d51
+20	Arabic	Smith and Van Dyke	arabicsv	RTL	Proverbs	20	40f235f495a34ffbdfd47b6fa3320665b998e7ea
+21	Arabic	Smith and Van Dyke	arabicsv	RTL	Ecclesiastes	21	ca2102042fbd65b539e9d601abefe7f2d0f38f5f
+22	Arabic	Smith and Van Dyke	arabicsv	RTL	Song of Songs	22	b7580fcb0e6716c8c69373d63396afd5832e4dd5
+23	Arabic	Smith and Van Dyke	arabicsv	RTL	Isaiah	23	edc9aaa85da2cb1d50dacbb71078601ec49b1691
+24	Arabic	Smith and Van Dyke	arabicsv	RTL	Jeremiah	24	554b7a5f133946ed1e7ff98fd500ea53f240c688
+25	Arabic	Smith and Van Dyke	arabicsv	RTL	Lamentations	25	05b52089fd81565f1966a916d14b3b29b4dbe751
+26	Arabic	Smith and Van Dyke	arabicsv	RTL	Ezekiel	26	521b40ee105a39d9addedeffcf837a03e85573b4
+27	Arabic	Smith and Van Dyke	arabicsv	RTL	Daniel	27	a6e13df67a36e9f0cfc97b5f80e385d25fe20b25
+28	Arabic	Smith and Van Dyke	arabicsv	RTL	Hosea	28	0e5a0ca02b3c6f726a683618698610e68e7febcc
+29	Arabic	Smith and Van Dyke	arabicsv	RTL	Joel	29	cd28353fb7d0eefc4cc010f4ddf08b63197674e1
+30	Arabic	Smith and Van Dyke	arabicsv	RTL	Amos	30	cfeafd564ec625f782d5cb4360498d603edeeece
+31	Arabic	Smith and Van Dyke	arabicsv	RTL	Obadiah	31	153858821c48e08bcf5f7a1b084a3e8a601c24eb
+32	Arabic	Smith and Van Dyke	arabicsv	RTL	Jonah	32	f17a746ea5fc082d9e7d7a448fbba1d7a38141ab
+33	Arabic	Smith and Van Dyke	arabicsv	RTL	Micah	33	22d27b7c522467b57e7831de267f584ea73b6c9f
+34	Arabic	Smith and Van Dyke	arabicsv	RTL	Nahum	34	a796b4734f748e742d2b0a90a5f6086555c5014c
+35	Arabic	Smith and Van Dyke	arabicsv	RTL	Habakkuk	35	990ba224ff43f803ef3e33986bbcd7596515e303
+36	Arabic	Smith and Van Dyke	arabicsv	RTL	Zephaniah	36	dce39522322aa55aa8e28904ef1b9355931f0987
+37	Arabic	Smith and Van Dyke	arabicsv	RTL	Haggai	37	aca1f4efc87e8f7eda393d9c2ea47809619c1da3
+38	Arabic	Smith and Van Dyke	arabicsv	RTL	Zechariah	38	ec64faab4613a0f4f2ea9746b3b42b0dbfd805f6
+39	Arabic	Smith and Van Dyke	arabicsv	RTL	Malachi	39	3a19e0619e2d2a0c77ca1c05e4bc08cc56a9b2dc
+40	Arabic	Smith and Van Dyke	arabicsv	RTL	Matthew	40	82b2c17acd57a119c76d6ce5fd4f98a15411885b
+41	Arabic	Smith and Van Dyke	arabicsv	RTL	Mark	41	205a77bd735aa1c37b988897f89d7745f13d4ec8
+42	Arabic	Smith and Van Dyke	arabicsv	RTL	Luke	42	b86022af7612095039ded17a7967dbc08bc97c30
+43	Arabic	Smith and Van Dyke	arabicsv	RTL	John	43	cc7548bb26d9c100a731160925f7d2bddb825219
+44	Arabic	Smith and Van Dyke	arabicsv	RTL	Acts	44	e98553e139d24c6b51896e25a7e04ed44f7fd300
+45	Arabic	Smith and Van Dyke	arabicsv	RTL	Romans	45	c38f99310209c60c1dbe8872f81e51721b02471d
+46	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Corinthians	46	a932cf0046ea65d61d700b0d11307c7ff47c1afd
+47	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Corinthians	47	70dab5d70a1e1e9b28cb6cedb00eb67538c80660
+48	Arabic	Smith and Van Dyke	arabicsv	RTL	Galatians	48	c796f123593f008012ca9fed3a63bd782c9d6b17
+49	Arabic	Smith and Van Dyke	arabicsv	RTL	Ephesians	49	2c37d7e270c4ef205a2da49e39357d781e636cae
+50	Arabic	Smith and Van Dyke	arabicsv	RTL	Philippians	50	a34679361efc48e9dd2dd9fd780624ec98c2f19b
+51	Arabic	Smith and Van Dyke	arabicsv	RTL	Colossians	51	c68c2855a6e0f2272287687f8ffdab4d49cbc03f
+52	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Thessalonians	52	cbc56237b806a0c31ce97a7704ac2223f0acd324
+53	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Thessalonians	53	89431a05685b1988d9d6569ff130f2edfc818a63
+54	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Timothy	54	1561229ea3fa08ec2b6cb185b22e87055cf29fd5
+55	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Timothy	55	f14012fec42b0f999ef68f0ffdbf0826a68d9cc7
+56	Arabic	Smith and Van Dyke	arabicsv	RTL	Titus	56	8d40701e9ac2a995e50880a9ae29c33f2068fd0d
+57	Arabic	Smith and Van Dyke	arabicsv	RTL	Philemon	57	1335cd67ebe2eb0b64fffe782fe031a4fccaeb17
+58	Arabic	Smith and Van Dyke	arabicsv	RTL	Hebrews	58	46bfbd722fa55eeeb2c6ee19be2eddbbf0db6507
+59	Arabic	Smith and Van Dyke	arabicsv	RTL	James	59	eedc0ef78ef28942069429e7ca824048c310e041
+60	Arabic	Smith and Van Dyke	arabicsv	RTL	1 Peter	60	b2faca38bfb3e3b7b646fb384add14fa5afa2de0
+61	Arabic	Smith and Van Dyke	arabicsv	RTL	2 Peter	61	000ce92dc7fe7feda692d9baafc6c73dd95362ea
+62	Arabic	Smith and Van Dyke	arabicsv	RTL	1 John	62	13ecdf489b8dc0e85db964baa7f34f72bfcdf1ee
+63	Arabic	Smith and Van Dyke	arabicsv	RTL	2 John	63	51019020233cb0b44769236f273eb0384bd87b00
+64	Arabic	Smith and Van Dyke	arabicsv	RTL	3 John	64	35c9140371ec6bf82ce4e2d758a162ac18063716
+65	Arabic	Smith and Van Dyke	arabicsv	RTL	Jude	65	173548f687cf0e1107ae9bbb542853dc39e34309
+66	Arabic	Smith and Van Dyke	arabicsv	RTL	Revelation	66	c032ebb081d0ddce44976865ee937337d4d7d701
+

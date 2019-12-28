@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhsnovowels/33/1.json",
+    "sha": "f9dd402ad19d93eaf62cfe7b01a02da3de7dc0aa",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhsnovowels/33/2.json",
+    "sha": "70cb7b1093b6e1594d08138011f295afebca5b24",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhsnovowels/33/3.json",
+    "sha": "8d7b4047fbbb4c04c5cec9e47ed181cd7e321d2d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bhsnovowels/33/4.json",
+    "sha": "fb9d8caeb39d30f4d805c8125b615323b08586b2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bhsnovowels/33/5.json",
+    "sha": "5248b192f44bb65bdad86fee4c09ffaaba149229",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "6",
+    "url": "https://getbible.net/v1/bhsnovowels/33/6.json",
+    "sha": "b120984ec7b9ee017a455e36b40fd1b6dd0232af",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "7",
+    "url": "https://getbible.net/v1/bhsnovowels/33/7.json",
+    "sha": "6c26edb91b23cd5e40235f8b3f710d38c193a8dc",
+    "id": "7"
+  }
+}

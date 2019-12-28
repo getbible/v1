@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/50/1.json",
+    "sha": "ac71223e828afcbcc2b3eba42965f8171d9333b4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/50/2.json",
+    "sha": "65aa24d061d0286457b6ff2d4ace3882c828c82d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/50/3.json",
+    "sha": "2fd9580cff8450078cccea810aeb1bc4feb49aa6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/50/4.json",
+    "sha": "5dbbf32fa22d78623cf01a8c8425b00d096f1f59",
+    "id": "4"
+  }
+}

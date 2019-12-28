@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bulgarian1940/53/1.json",
+    "sha": "48f8a6ff86abf38cb599dfa68bf11e2aa54870d0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bulgarian1940/53/2.json",
+    "sha": "a96c40a0bac92897ea610456eaf0131503fe5995",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bulgarian1940/53/3.json",
+    "sha": "fe1d67b27cfcc8d41c9d1c013afe7ad01dc72216",
+    "id": "3"
+  }
+}

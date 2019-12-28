@@ -1,0 +1,5 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	53	2 Thessalonians	1	bdb542c31e371db9bb2e783ebaca629a6120d142
+2	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	53	2 Thessalonians	2	403ebdd54716dae05c2ef08179b8e170e6019a81
+3	Greek	NT Westcott Hort UBS4 variants Parsed	westcotthort	LTR	53	2 Thessalonians	3	d1500e58480381d12e7e3f2e2925fe66a20fb543
+

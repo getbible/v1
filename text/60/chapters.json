@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/text/60/1.json",
+    "sha": "7d5d4d8ed7773a43eab6dbe6b7383aa309b2e748",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/text/60/2.json",
+    "sha": "1b3a1402f40c297c753a7ca7792648908cb061d7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/text/60/3.json",
+    "sha": "57802538d3cbd41ae6065e73c072f0babc851bb9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/text/60/4.json",
+    "sha": "18729c46e1bfa9c84692ad7dc933207c00b67a67",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/text/60/5.json",
+    "sha": "ce695663238dae4d65f9de2a49245833789bdfa5",
+    "id": "5"
+  }
+}

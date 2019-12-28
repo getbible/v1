@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/valera/37/1.json",
+    "sha": "0b06192d84013f398d7b4d53066f39d4ba55aafa",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/valera/37/2.json",
+    "sha": "d935924a30cc468018dc9687576e832642921ff7",
+    "id": "2"
+  }
+}

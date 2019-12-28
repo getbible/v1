@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sse/50/1.json",
+    "sha": "3c044bf7aa97212f4d1d3c91ec24af030bf4e61e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sse/50/2.json",
+    "sha": "74140ad8d5ac0e148813cf5bd078b5464e8ab867",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sse/50/3.json",
+    "sha": "e5d289e4c33e819ff3526b9f73b62dad13354fa7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/sse/50/4.json",
+    "sha": "16e0cd16ff1151eb804746a0e77fb75584cd82eb",
+    "id": "4"
+  }
+}

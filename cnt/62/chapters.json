@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/62/1.json",
+    "sha": "bec01a9a3dd12c005571495f3b5129876e918245",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cnt/62/2.json",
+    "sha": "9607bcc7712dc5e795257469de31ec08be20f842",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cnt/62/3.json",
+    "sha": "bce701eaed36d3fba005f3cc9d18cf36eb2541fe",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cnt/62/4.json",
+    "sha": "4b4955c03985933e1854990c8af8ade49b0911ba",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/cnt/62/5.json",
+    "sha": "5a1a12bf698da0d62f5e61bafd0208d2190a3d82",
+    "id": "5"
+  }
+}

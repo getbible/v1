@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/gothic/62/1.json",
+    "sha": "154b86d8a19fbdc43386c0e32583534d79886564",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/gothic/62/2.json",
+    "sha": "7350078990effce210d2c673631fdcf741ef5bf6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/gothic/62/3.json",
+    "sha": "0c825d05746b69b1c9f98fd92b5d599803c754da",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/gothic/62/4.json",
+    "sha": "6b8625e457dd8858f2f9c030f3b14c68091f3181",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/gothic/62/5.json",
+    "sha": "2fe12934b51b0265b54bdf86f4a39a7f09a5e861",
+    "id": "5"
+  }
+}

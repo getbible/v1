@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tagalog/25/1.json",
+    "sha": "ebbbe6d1cd118321ca0a761e00ffe4a54c10090d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tagalog/25/2.json",
+    "sha": "6dd5aa13138dcaee5ced739df9e93cf7a8f31e22",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tagalog/25/3.json",
+    "sha": "5496453b1f6d1f672e0955e85f431c8c9e1d67e0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tagalog/25/4.json",
+    "sha": "eabb58fddc3c298d475f5b609de6d5e5c9774922",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tagalog/25/5.json",
+    "sha": "154b01afbda917973caefbc04c0b7ec2e57046e7",
+    "id": "5"
+  }
+}

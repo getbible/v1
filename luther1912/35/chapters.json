@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/35/1.json",
+    "sha": "c097a46bb2323bc921d14ec9f99081a54f1e86be",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/35/2.json",
+    "sha": "afbc8d810ff3e754767f89f6aeb62fe117cac973",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/35/3.json",
+    "sha": "a80d97d669e3c402799d8ab6bb75dd0e0ad50502",
+    "id": "3"
+  }
+}

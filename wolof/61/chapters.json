@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wolof/61/1.json",
+    "sha": "c682d7ddab0622033a854f0c858a85b06cce042a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wolof/61/2.json",
+    "sha": "02bf8424295f879e9ebf305b43cec10ed79d973c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wolof/61/3.json",
+    "sha": "d87b6237a240bea846cebaf71f4005970b006786",
+    "id": "3"
+  }
+}

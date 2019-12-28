@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/hsab/52/1.json",
+    "sha": "c78275c5f89586679a183d57e74906874ebc33cd",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/hsab/52/2.json",
+    "sha": "fed72648ba0d567251e5decee947e2d88427063b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/hsab/52/3.json",
+    "sha": "6260d7ad087397fdf7c455ea896fe2e1825e6a9a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/hsab/52/4.json",
+    "sha": "4421cc8a966ce82db41e553ab6d62c32be442f52",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/hsab/52/5.json",
+    "sha": "76626775cecbcefa88877be6d050611b43e2ce87",
+    "id": "5"
+  }
+}

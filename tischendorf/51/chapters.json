@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/51/1.json",
+    "sha": "4f8081101d88a35d409bc9bf0a102c78bf0337c3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tischendorf/51/2.json",
+    "sha": "cd26a72add80e6ff488ea7a7551516fd5506dabb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tischendorf/51/3.json",
+    "sha": "f6930b3f9a9ebe4801943c20ddb850f913fa5857",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tischendorf/51/4.json",
+    "sha": "232620b3c22696a2b9882722fc7f1eda02966fb3",
+    "id": "4"
+  }
+}

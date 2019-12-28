@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/35/1.json",
+    "sha": "c41c5693a1167a543463f66a7945df48588f4b98",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/35/2.json",
+    "sha": "899f2db4d2dec7c786a5da0cd484ee55761b092f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/35/3.json",
+    "sha": "315c1fe4489ca22c5fd032b305d534c06d0427ae",
+    "id": "3"
+  }
+}

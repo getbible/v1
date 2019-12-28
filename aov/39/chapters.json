@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Maleagi",
+    "book_nr": "39",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/39/1.json",
+    "sha": "8f917b8999572ddf40a8ab6de8a30631cbc0797b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Maleagi",
+    "book_nr": "39",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/39/2.json",
+    "sha": "9af59b2204ac301c8f2c472943f09fa77ae12be4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Maleagi",
+    "book_nr": "39",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/39/3.json",
+    "sha": "19001f0bd25685db471e93ddf25150f2430d53c7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Maleagi",
+    "book_nr": "39",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/39/4.json",
+    "sha": "8b0abdab19c68fd8343147376eda093c75179a14",
+    "id": "4"
+  }
+}

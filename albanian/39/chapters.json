@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/albanian/39/1.json",
+    "sha": "8993a52a124be90df92ef99e141f41d6f0163056",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/albanian/39/2.json",
+    "sha": "7bb138e65606a4efe7976c74bc233d28a80b7aa5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/albanian/39/3.json",
+    "sha": "15e39626814f3099919cd170311eb627a67dd420",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/albanian/39/4.json",
+    "sha": "0dbad644fb64cfedcd6085958a32b8d9125526ac",
+    "id": "4"
+  }
+}

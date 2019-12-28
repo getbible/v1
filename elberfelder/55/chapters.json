@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/55/1.json",
+    "sha": "eb21c6a749716bda43dee2b938329fa27f8eaccf",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/55/2.json",
+    "sha": "c33043479788fff051e8f5c58b89d5a0332945eb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/55/3.json",
+    "sha": "c3c5ed2204ebf2d538b05a041560eab21b0506c3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/55/4.json",
+    "sha": "c75f89f47ff9ed0af469e280532a2ae4a2c5ee24",
+    "id": "4"
+  }
+}

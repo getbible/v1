@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/50/1.json",
+    "sha": "9fbb341432c11108f27d33b65c7a3bb499b777e4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ukranian/50/2.json",
+    "sha": "7cb05193d98877adeb67a135d476b859c6bc0c79",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ukranian/50/3.json",
+    "sha": "146b132e64c16dec7765b045d7d7a44d7530034e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ukranian/50/4.json",
+    "sha": "2e31ef8dabfe8bdc605ea6dfd8c1db7c97306abc",
+    "id": "4"
+  }
+}

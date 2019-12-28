@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ukranian/60/1.json",
+    "sha": "128df91bb4e4052bfe66db283b234ed3ea64ce17",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ukranian/60/2.json",
+    "sha": "94ddfc92c0e2e8cd7e3a002b4d006cf0968a0493",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ukranian/60/3.json",
+    "sha": "50c4f45ae0a46970f5a31a1d6b9368e14854cd40",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ukranian/60/4.json",
+    "sha": "c4d80c18b9f77b8bf35d02a443af4f80d347254f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ukranian/60/5.json",
+    "sha": "a26b11ac9d16e2e0d17dbff0d9d04b7219082586",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cnt/8/1.json",
+    "sha": "539aaba5c60fb4573c13ef21b0e27ef05bf1dc47",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cnt/8/2.json",
+    "sha": "1ad5b64298fb9d25234d6afc88c1461df970eea4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cnt/8/3.json",
+    "sha": "2f42d65ac53992dd58bf3b18f679b40037148a6e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cnt/8/4.json",
+    "sha": "6a0a55684f4791f3c864533a6a6a98f07f2ad738",
+    "id": "4"
+  }
+}

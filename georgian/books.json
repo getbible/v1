@@ -1,0 +1,68 @@
+{
+  "40": {
+    "name": "Matthew",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "40",
+    "url": "https://getbible.net/v1/georgian/40.json",
+    "sha": "ce0dee0e2df8aa0341d440ded199aaab63d64e8e",
+    "id": "40"
+  },
+  "41": {
+    "name": "Mark",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "41",
+    "url": "https://getbible.net/v1/georgian/41.json",
+    "sha": "47efad746237682c01499d6e22779e5fc58e78bc",
+    "id": "41"
+  },
+  "42": {
+    "name": "Luke",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "42",
+    "url": "https://getbible.net/v1/georgian/42.json",
+    "sha": "390f6cb7866f558cb927ce293e757dfea2225b72",
+    "id": "42"
+  },
+  "43": {
+    "name": "John",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "43",
+    "url": "https://getbible.net/v1/georgian/43.json",
+    "sha": "268fbe94f0dd12e10418cd94fac8e375c03d5255",
+    "id": "43"
+  },
+  "44": {
+    "name": "Acts",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "44",
+    "url": "https://getbible.net/v1/georgian/44.json",
+    "sha": "4b636dd45ffff0397444f69ca792c12c3e5c4802",
+    "id": "44"
+  },
+  "59": {
+    "name": "James",
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "59",
+    "url": "https://getbible.net/v1/georgian/59.json",
+    "sha": "d46a64a2c7495908d847350375b0b00e54f26d10",
+    "id": "59"
+  }
+}

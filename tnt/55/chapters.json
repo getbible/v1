@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tnt/55/1.json",
+    "sha": "075bc630098e9aab7d04805dd2acf5e2d1bcf4b1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tnt/55/2.json",
+    "sha": "b9226521183949e95d93813177933abd7c6f7aa2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tnt/55/3.json",
+    "sha": "c701304cdeabd42c55a9a068e822bd2fbddafb7e",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tnt/55/4.json",
+    "sha": "29313fe546add4c57c93d9adb578012a785a4565",
+    "id": "4"
+  }
+}

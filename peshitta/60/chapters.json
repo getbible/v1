@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/60/1.json",
+    "sha": "6868e3de06779a9831e3769de85eef7cb8055df8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/peshitta/60/2.json",
+    "sha": "b5a0fcd60de1f78b4b349f7199ddefa244d962df",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/peshitta/60/3.json",
+    "sha": "ed62572a6cc2525f7bd26c14ba9bf9811bacf7a8",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/peshitta/60/4.json",
+    "sha": "a681d6fcb45fbe51fae2df2b095f1f4d9745566d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/peshitta/60/5.json",
+    "sha": "6f2e45b572ee48d7a1c94dc5240f5dd955910efe",
+    "id": "5"
+  }
+}

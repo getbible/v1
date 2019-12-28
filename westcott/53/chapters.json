@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/westcott/53/1.json",
+    "sha": "3f5cdb61e0476f3a5fb44b75684a0b9cdcac1064",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/westcott/53/2.json",
+    "sha": "1643f70ef1f99ebd9408fc9c837ed4b4140970b2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/westcott/53/3.json",
+    "sha": "4b349ac2b2dd502f31d2b6632c86a3855b73e425",
+    "id": "3"
+  }
+}

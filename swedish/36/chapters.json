@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/swedish/36/1.json",
+    "sha": "8983dbfeb14b26e59e046a19a6add18443c95bf2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/swedish/36/2.json",
+    "sha": "a4a9e05d689a0a32ba11af5a61c63edee2e2a8da",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/swedish/36/3.json",
+    "sha": "71d0b2012b4a71fe07e874404949021a8fa6db05",
+    "id": "3"
+  }
+}

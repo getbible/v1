@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhs/34/1.json",
+    "sha": "9dac5fa5043e74e53c5890a241f7c06c22345428",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhs/34/2.json",
+    "sha": "be4b1d1dea96b0715a71e0c5158ef215e6ebaa4c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhs/34/3.json",
+    "sha": "1451d02311811686993af5f93e4d0fe4a87f5eed",
+    "id": "3"
+  }
+}

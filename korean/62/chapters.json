@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/korean/62/1.json",
+    "sha": "cad8cce0ad704f98034ff6a50c7b59d1a4c08fa9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/korean/62/2.json",
+    "sha": "3c34a30cdf025eaea78aae29f510a94096fd6722",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/korean/62/3.json",
+    "sha": "d1e66974e222b7aa6c7406a6832dec67084fca81",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/korean/62/4.json",
+    "sha": "bbd2f3ed4aa710f16dc52d1c262c84db52951a8f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/korean/62/5.json",
+    "sha": "eb35f3ba813008292f14732de6b129b466ee9186",
+    "id": "5"
+  }
+}

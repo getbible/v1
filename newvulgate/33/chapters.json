@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/newvulgate/33/1.json",
+    "sha": "2b09915aa221323ee0f3fd69db1dd86dbd0747ba",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/newvulgate/33/2.json",
+    "sha": "510095213386a1361ca49d5aeafae7464095432f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/newvulgate/33/3.json",
+    "sha": "b9b17d1f2ca395845d7f1581684c8ecad6935b7f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/newvulgate/33/4.json",
+    "sha": "088fe85ff10ff8527aa4ae1720654b7a074b90ca",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/newvulgate/33/5.json",
+    "sha": "ac9d60cc9ce27436fd586afcc35d1baf38827ca0",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/newvulgate/33/6.json",
+    "sha": "2a5b99cfbcee63277528e451579ce8ed94a9131a",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/newvulgate/33/7.json",
+    "sha": "d28793d49e86761e51e0f3e5148bf037997e80be",
+    "id": "7"
+  }
+}

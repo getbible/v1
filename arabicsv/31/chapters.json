@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/arabicsv/31/1.json",
+    "sha": "f7a945a64b5500475ea96307cef529aa85acc86e",
+    "id": "1"
+  }
+}

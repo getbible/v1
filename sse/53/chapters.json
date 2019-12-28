@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sse/53/1.json",
+    "sha": "4d9c3e9b08e48f6d7917338bf0ac90f1edbf6fb8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sse/53/2.json",
+    "sha": "9fd079e8639f334395f01f352e9e3417c1afa16d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sse/53/3.json",
+    "sha": "21b35a9479d0a0a76dda62ae32766633cf7b5e52",
+    "id": "3"
+  }
+}

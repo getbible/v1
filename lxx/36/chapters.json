@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxx/36/1.json",
+    "sha": "3909dcad3cd95f3e1c78aec06c896017abd64f8d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxx/36/2.json",
+    "sha": "858f69dade76c43ad7816e042397698c565ecbe8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxx/36/3.json",
+    "sha": "dd0be2c7135fc434035ea047adeffdf2fe257543",
+    "id": "3"
+  }
+}

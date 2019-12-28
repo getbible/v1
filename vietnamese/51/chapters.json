@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/vietnamese/51/1.json",
+    "sha": "6281a831111c8acfc4c61476d19a6727d57cd735",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/vietnamese/51/2.json",
+    "sha": "0cd99fd7912461cffa69c250042a8e8e326d9188",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/vietnamese/51/3.json",
+    "sha": "f15483a10a25e9ad403096f410be3cf9ccf8b67a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/vietnamese/51/4.json",
+    "sha": "2d7da22e82e304ce2e507de43c8d7dd1b088aa55",
+    "id": "4"
+  }
+}

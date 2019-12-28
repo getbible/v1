@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/sse/8/1.json",
+    "sha": "4a1d789233a7c8f29ee6c859f9c5c21116c50f78",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/sse/8/2.json",
+    "sha": "8801f9fb69a4a3e047f6ceb46ef9810a1a6c789c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/sse/8/3.json",
+    "sha": "82a1ef875a147709e3df3f8094aca5dbd56d5ee9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/sse/8/4.json",
+    "sha": "450a050d94a6a7a354e0c85b4c47e9fabfc30eed",
+    "id": "4"
+  }
+}

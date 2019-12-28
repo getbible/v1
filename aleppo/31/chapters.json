@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aleppo/31/1.json",
+    "sha": "a2932cee93d84e39d313ff604016d4bed69d7f92",
+    "id": "1"
+  }
+}

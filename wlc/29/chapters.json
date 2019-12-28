@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlc/29/1.json",
+    "sha": "e431a045a1e4718a0c9c9f08436846bbea20f98f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wlc/29/2.json",
+    "sha": "da3ec5516d5d2e8e6cb297ca479cae0d86f09790",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wlc/29/3.json",
+    "sha": "cec193c1698032e4697b8265c1338b89dcfce4b1",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wlc/29/4.json",
+    "sha": "63300f038ef7b3e9656a59925ae8e1a11fbcd99c",
+    "id": "4"
+  }
+}

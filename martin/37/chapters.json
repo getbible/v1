@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/37/1.json",
+    "sha": "ffb64cd01a9889d15b77540ae7583b0189fffd49",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/martin/37/2.json",
+    "sha": "6cf2837ab68df5cd92131c61fc234271e7290746",
+    "id": "2"
+  }
+}

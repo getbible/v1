@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/cornilescu/51/1.json",
+    "sha": "ab1e6ec5e6b094c8c297550311f81e811ca82b8f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/cornilescu/51/2.json",
+    "sha": "1e5b8e796fde8226b4007a0cb3e3694c2c147691",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/cornilescu/51/3.json",
+    "sha": "3fffc1847aa0d5bb390f25fa693306b5486b4128",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/cornilescu/51/4.json",
+    "sha": "1d2862b997d7ac82bf5f8e20f3e9f8aae3043080",
+    "id": "4"
+  }
+}

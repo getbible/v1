@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Greek	Greek Modern	moderngreek	LTR	Genesis	1	e28e092f99a03803f9bce0d043b542c336853719
+2	Greek	Greek Modern	moderngreek	LTR	Exodus	2	6a7273b39e0d87fe140d764ff892d258c12da638
+3	Greek	Greek Modern	moderngreek	LTR	Leviticus	3	7da3c7f88674f60173cbc5b2afded3c4185fc1ad
+4	Greek	Greek Modern	moderngreek	LTR	Numbers	4	d3778856647b27888dbf5f2a0cb924149bc59fbb
+5	Greek	Greek Modern	moderngreek	LTR	Deuteronomy	5	fa03e6207f624be6564c946893241733d7ed560b
+6	Greek	Greek Modern	moderngreek	LTR	Joshua	6	9be437380a63138b622dd93845d7cebb991102a7
+7	Greek	Greek Modern	moderngreek	LTR	Judges	7	8173ff1df6fe028bfbdcc434e5011d72c8bee9d4
+8	Greek	Greek Modern	moderngreek	LTR	Ruth	8	102e66c3d7989f4f91129875ec31a488cfd64be4
+9	Greek	Greek Modern	moderngreek	LTR	1 Samuel	9	3afb8895325c2b90d69be6c93199c09a45a923ab
+10	Greek	Greek Modern	moderngreek	LTR	2 Samuel	10	041a60fa91fdba8b257bde98f1fdcae770d6427e
+11	Greek	Greek Modern	moderngreek	LTR	1 Kings	11	8bef97b08ed38909523f9adcb07b92fe11fc4ffc
+12	Greek	Greek Modern	moderngreek	LTR	2 Kings	12	2f0e36684dc1066db6b1368b000ca44a84c23dc5
+13	Greek	Greek Modern	moderngreek	LTR	1 Chronicles	13	5f33a0b42d11fce50ca720a6a0053818dc86bdc8
+14	Greek	Greek Modern	moderngreek	LTR	2 Chronicles	14	71113cc4be0908737af1266927af3ea5d1d5214d
+15	Greek	Greek Modern	moderngreek	LTR	Ezra	15	5e7a3deb16bed121f9e27a63d61d55af61514145
+16	Greek	Greek Modern	moderngreek	LTR	Nehemiah	16	9049c15a5e2204ab759fdc86c7d9cc355d4445ae
+17	Greek	Greek Modern	moderngreek	LTR	Esther	17	e810665cd5355e90823b484c30e75273faef13b0
+18	Greek	Greek Modern	moderngreek	LTR	Job	18	848e13c29e6c4130358b93ee65e01eb231199fd2
+19	Greek	Greek Modern	moderngreek	LTR	Psalms	19	3bcf0960e18f607cb426efc13499b58784d5ba81
+20	Greek	Greek Modern	moderngreek	LTR	Proverbs	20	ed3fdef3926c92785b4fd90feb61661a4433110c
+21	Greek	Greek Modern	moderngreek	LTR	Ecclesiastes	21	f0e55886f9842c03ee903c5c17f3d406ac9c1d43
+22	Greek	Greek Modern	moderngreek	LTR	Song of Songs	22	c8b6c6afcdc506b3f758711a18294c22efd08806
+23	Greek	Greek Modern	moderngreek	LTR	Isaiah	23	532f95be3a86febc9ac556cd66da10b1a9ddd84c
+24	Greek	Greek Modern	moderngreek	LTR	Jeremiah	24	acddc65f566056ac1516f99fa84a9680d5873865
+25	Greek	Greek Modern	moderngreek	LTR	Lamentations	25	0428d33d65469080159ae7e25cdf9ee47c440f8d
+26	Greek	Greek Modern	moderngreek	LTR	Ezekiel	26	e137f318e750fbc63d6396c08c84bdf0e654d5c2
+27	Greek	Greek Modern	moderngreek	LTR	Daniel	27	d298df1ad70c553dbaf59ded0a8e2970ee78bb57
+28	Greek	Greek Modern	moderngreek	LTR	Hosea	28	49d02cf4c32be06277272bd1248c80fab90c1e7c
+29	Greek	Greek Modern	moderngreek	LTR	Joel	29	a4fec5fbb30535059d6d985a9ec5b63d453191db
+30	Greek	Greek Modern	moderngreek	LTR	Amos	30	2ffe907d3ebdacc9aad162d1af45b43f91daab3c
+31	Greek	Greek Modern	moderngreek	LTR	Obadiah	31	20a9bc310d489f35b947606c239cb9e36afd3a96
+32	Greek	Greek Modern	moderngreek	LTR	Jonah	32	ad7624b82677998990239f5b711839b84b7df43f
+33	Greek	Greek Modern	moderngreek	LTR	Micah	33	38bbbdd579d0d3f13c98fe83e818c8d7a6d90201
+34	Greek	Greek Modern	moderngreek	LTR	Nahum	34	3aaf71ab3f27351226b876f7e568b12e5a07e2cf
+35	Greek	Greek Modern	moderngreek	LTR	Habakkuk	35	0348d93e7e03fdb18eb207503e14cfd8ba8f4334
+36	Greek	Greek Modern	moderngreek	LTR	Zephaniah	36	19f121b6dc516cafa9d09bb08c55a0f37f3eba13
+37	Greek	Greek Modern	moderngreek	LTR	Haggai	37	4335fb428b4d5e4a8d3b352e1e81ae443165a806
+38	Greek	Greek Modern	moderngreek	LTR	Zechariah	38	dea832200866620179413bec83824f5c1ccee8c3
+39	Greek	Greek Modern	moderngreek	LTR	Malachi	39	e9cb7659ed6bf96b9c95d11f5cdb1c24900d294a
+40	Greek	Greek Modern	moderngreek	LTR	Matthew	40	ebaca62cddf58467b2e7b2c72030731d3ff5df0d
+41	Greek	Greek Modern	moderngreek	LTR	Mark	41	828021dfd1e280e71e1569f12f5916facd533d11
+42	Greek	Greek Modern	moderngreek	LTR	Luke	42	def22f492401b42d4f5641bed3c7b6875b747d51
+43	Greek	Greek Modern	moderngreek	LTR	John	43	10ce9ecf51d98f1f4f4d6ac2340825575724212d
+44	Greek	Greek Modern	moderngreek	LTR	Acts	44	4237576fe4df24163fbbb040eee1283f30e1cb7e
+45	Greek	Greek Modern	moderngreek	LTR	Romans	45	132b3e08abf2a037828867a748cbc1d0185ae43d
+46	Greek	Greek Modern	moderngreek	LTR	1 Corinthians	46	eb0327f87eafe4ad4575fa0fffe99c0c0687e4a4
+47	Greek	Greek Modern	moderngreek	LTR	2 Corinthians	47	de24e5d463206fbd101cd92dfbfbce29be9d723d
+48	Greek	Greek Modern	moderngreek	LTR	Galatians	48	fee3f6af84cbb350fbc926bc3ea8d7b4987df50a
+49	Greek	Greek Modern	moderngreek	LTR	Ephesians	49	65a20dfbea1168142e301d7eec13ec08cda63493
+50	Greek	Greek Modern	moderngreek	LTR	Philippians	50	da4e9219bede2056768d68d5f93808e509264c1e
+51	Greek	Greek Modern	moderngreek	LTR	Colossians	51	96a54b4ecbe64cfb740dd7e64fa19eb76ad3e3dc
+52	Greek	Greek Modern	moderngreek	LTR	1 Thessalonians	52	57eba957d6bbdf596c5db47b1184a488d061903b
+53	Greek	Greek Modern	moderngreek	LTR	2 Thessalonians	53	e9f584f5ac6b34556e62f28f9b33bc5380f63613
+54	Greek	Greek Modern	moderngreek	LTR	1 Timothy	54	cd71942276ab182f150db84231e873a36ae0bb2e
+55	Greek	Greek Modern	moderngreek	LTR	2 Timothy	55	2bec0c5671d11f70eccba9cef5fa5c2504ff406c
+56	Greek	Greek Modern	moderngreek	LTR	Titus	56	4da519b3eea1ffcc8111aaa23229fdc1e7107239
+57	Greek	Greek Modern	moderngreek	LTR	Philemon	57	45b978a26f810465483956c0c716150ebe9b33fe
+58	Greek	Greek Modern	moderngreek	LTR	Hebrews	58	882c63e99aaf0a7fe32fb5e2fdc35d9fc00c4de5
+59	Greek	Greek Modern	moderngreek	LTR	James	59	fdcff7834161245eb20f03980201f15a8a1ca5a8
+60	Greek	Greek Modern	moderngreek	LTR	1 Peter	60	a1836aa5139ec424555652d204ae659d47952c55
+61	Greek	Greek Modern	moderngreek	LTR	2 Peter	61	a2d2519a396aa805893aaa95989f0662c4a85d79
+62	Greek	Greek Modern	moderngreek	LTR	1 John	62	4ec079de5b8cd7a7e780e098c719ed551fd5c571
+63	Greek	Greek Modern	moderngreek	LTR	2 John	63	afb7388791c2ed8e155f10b64532590a6bcf7902
+64	Greek	Greek Modern	moderngreek	LTR	3 John	64	416af770198d9bd266da9de79429d98d4295f3e4
+65	Greek	Greek Modern	moderngreek	LTR	Jude	65	c76cfb5884996cf7b8396bacba43e6856b8c0ace
+66	Greek	Greek Modern	moderngreek	LTR	Revelation	66	245ff143306ce5726f9c768b83db8e4c27ff788a
+

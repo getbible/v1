@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wolof/51/1.json",
+    "sha": "ab12ed546a22208c3fcadbbd0ee8907611e8c986",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wolof/51/2.json",
+    "sha": "731020250eb27d348173862f09dd0384e2fad76c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wolof/51/3.json",
+    "sha": "8e6502d79eb8c15a1cf3aaac0fe4aab74361ba01",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wolof/51/4.json",
+    "sha": "1a3be2575b16b9c466635323f9b0014679ad055e",
+    "id": "4"
+  }
+}

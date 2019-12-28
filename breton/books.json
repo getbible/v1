@@ -1,0 +1,46 @@
+{
+  "40": {
+    "name": "Matthew",
+    "language": "Breton",
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "textdirection": "LTR",
+    "filename": "40",
+    "url": "https://getbible.net/v1/breton/40.json",
+    "sha": "f12dc9352b8b5370691acd6f5c0c9383a63ff303",
+    "id": "40"
+  },
+  "41": {
+    "name": "Mark",
+    "language": "Breton",
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "textdirection": "LTR",
+    "filename": "41",
+    "url": "https://getbible.net/v1/breton/41.json",
+    "sha": "9c658bd849f7ade3f465524b8d8a199a6597bc4c",
+    "id": "41"
+  },
+  "42": {
+    "name": "Luke",
+    "language": "Breton",
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "textdirection": "LTR",
+    "filename": "42",
+    "url": "https://getbible.net/v1/breton/42.json",
+    "sha": "b8c2ea70d809c8233f228488cc5b9041d6f59de5",
+    "id": "42"
+  },
+  "43": {
+    "name": "John",
+    "language": "Breton",
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "textdirection": "LTR",
+    "filename": "43",
+    "url": "https://getbible.net/v1/breton/43.json",
+    "sha": "9391f47567006ac0c7ca5cfe764027f9d70601b4",
+    "id": "43"
+  }
+}

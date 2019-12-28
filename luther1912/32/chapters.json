@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/32/1.json",
+    "sha": "e87e603a46a742553e659ee180932379d76d31f8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/32/2.json",
+    "sha": "ee32303f61382bfed3487952e44b877c3367193b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/32/3.json",
+    "sha": "d6ae7579f69bac0ec987477773e513a132a18e03",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1912/32/4.json",
+    "sha": "14dd783104fa532ac23c7b64f84010fb57437d90",
+    "id": "4"
+  }
+}

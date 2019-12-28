@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadja",
+    "book_nr": "31",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/31/1.json",
+    "sha": "831b84aceec7818dec93a48f5fae4eb198cdbd2b",
+    "id": "1"
+  }
+}

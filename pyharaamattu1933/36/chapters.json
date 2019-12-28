@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/pyharaamattu1933/36/1.json",
+    "sha": "45cf3b4cbf0f9d1494663d61fd293d4387ca3580",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/pyharaamattu1933/36/2.json",
+    "sha": "5bbcdae0d928016a67d903f48639fda48c750f0f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/pyharaamattu1933/36/3.json",
+    "sha": "85fdec1aa216d5a9150b1f47c8b90dfb7ac668d4",
+    "id": "3"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/32/1.json",
+    "sha": "341721cf119bac17248928cf392e73d29bc63bc9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/32/2.json",
+    "sha": "74173853d97ea51423dbc4a7c45f0c196e834c38",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/32/3.json",
+    "sha": "122ee5d3c08763b8b29d3963deaea45005e255a7",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/32/4.json",
+    "sha": "2a1bccbb585955c3f3a7d35ab550b86781fc9557",
+    "id": "4"
+  }
+}

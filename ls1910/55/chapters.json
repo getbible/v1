@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/55/1.json",
+    "sha": "c47bb2693cb0ea517e4a92cadde2fa11c7761614",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ls1910/55/2.json",
+    "sha": "c713bb9ffa57b0b0540072ac0fb32c093bc3a1d8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ls1910/55/3.json",
+    "sha": "3c939bb6438d2ac47cddd61e8dbf1f5dd7febfc5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ls1910/55/4.json",
+    "sha": "dcd8d72d2896f4bbd5f7cdb22d51247821521611",
+    "id": "4"
+  }
+}

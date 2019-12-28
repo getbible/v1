@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rv1858/48/1.json",
+    "sha": "ef2e8bab701a80e99cb27af1ba1ae23ad6c361a1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rv1858/48/2.json",
+    "sha": "b6fb78a11aa176b66066599827f768295ffdcca7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rv1858/48/3.json",
+    "sha": "9f33c86adffadd0d837162f07ebd6ed7a8ecdd72",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rv1858/48/4.json",
+    "sha": "5f319914ac251e3337201d5a503d639ed6808b2f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/rv1858/48/5.json",
+    "sha": "9160b3bd65cfee2b60e066e335ea26d84b3ae45d",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/rv1858/48/6.json",
+    "sha": "99cd0b13b0484dde992a0cb9f8c518088c631623",
+    "id": "6"
+  }
+}

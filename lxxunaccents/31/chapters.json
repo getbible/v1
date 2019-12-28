@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/31/1.json",
+    "sha": "12cc0e02f072ae68626d4a1f74e4326e9673e45d",
+    "id": "1"
+  }
+}

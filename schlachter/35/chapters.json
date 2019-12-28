@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/35/1.json",
+    "sha": "f3fc7a648e8655fbf8914ed05f4e59267d2f24b2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/35/2.json",
+    "sha": "f15562ea550d18e1d1f2002c6665631415c403d7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Habakuk",
+    "book_nr": "35",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/35/3.json",
+    "sha": "1cf0e76c0c630a3b4df2b7965374aa1099b9962e",
+    "id": "3"
+  }
+}

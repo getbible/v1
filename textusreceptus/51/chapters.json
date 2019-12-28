@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/51/1.json",
+    "sha": "c8aec95437e1df8c9fa919099f646bba8a913d13",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/textusreceptus/51/2.json",
+    "sha": "c98d092b2ca7a135f1359e7cd0f0cc215d85e8d7",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/textusreceptus/51/3.json",
+    "sha": "0e1ff1310bd02e9e6ca893c7215378b6c2f18587",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/textusreceptus/51/4.json",
+    "sha": "5eab6522a9c41e6125499f5183e77a1342774806",
+    "id": "4"
+  }
+}

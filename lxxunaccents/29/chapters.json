@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccents/29/1.json",
+    "sha": "7e985d977b9817f64a41454d0376d5d144c2bcc8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccents/29/2.json",
+    "sha": "33dabd6a96ec70fff9d583b98358538c19a816f6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccents/29/3.json",
+    "sha": "01aadfdd7c4e4e80703d23e9dd90dc1c9794b2fd",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccents/29/4.json",
+    "sha": "9fc8df438e14e64754fd0390923858f72c4e4b17",
+    "id": "4"
+  }
+}

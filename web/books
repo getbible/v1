@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	English	World English Bible	web	LTR	Genesis	1	e76e8e6a78bdc653fac351df4f97829ac5bdffb6
+2	English	World English Bible	web	LTR	Exodus	2	7777c071e717b03041b4f6161606f141e58098c0
+3	English	World English Bible	web	LTR	Leviticus	3	ad3a00f6c1184da80bd73633963f981228d03df4
+4	English	World English Bible	web	LTR	Numbers	4	d9ea3d84652eb0efd77f690abb86b5cc9d53ffe7
+5	English	World English Bible	web	LTR	Deuteronomy	5	ab09e07c5d3f44cc41b8042d12506034cd5fa51f
+6	English	World English Bible	web	LTR	Joshua	6	897500034d556f402176915b5ce6d588f1d12683
+7	English	World English Bible	web	LTR	Judges	7	6df82ca3c70c889956fed22ca71837ae22389dd4
+8	English	World English Bible	web	LTR	Ruth	8	890dea1c2baec8008fc019205fa6b98d7a8f82b8
+9	English	World English Bible	web	LTR	1 Samuel	9	7f741fb4dbb07846bef9849fc5d90a619d201ec3
+10	English	World English Bible	web	LTR	2 Samuel	10	41546b4c327cb59c5f2b4949cdb6f047e3ce0610
+11	English	World English Bible	web	LTR	1 Kings	11	0677f4904cc7a8519e3d336dc79d7ce91feabac3
+12	English	World English Bible	web	LTR	2 Kings	12	cadd582a760dd4d74ec79afa9f2d81333507af03
+13	English	World English Bible	web	LTR	1 Chronicles	13	1d85ec9c73e849aa0fb78b7aba6a0cda917ae3e1
+14	English	World English Bible	web	LTR	2 Chronicles	14	d59704055bd65d8b8ea626077ae6603f39fa5064
+15	English	World English Bible	web	LTR	Ezra	15	dd55f65f590717ea542a3805fbcb94877940d880
+16	English	World English Bible	web	LTR	Nehemiah	16	731da25bc7b7c5d5d98ad87b6da65f7b81fa96a4
+17	English	World English Bible	web	LTR	Esther	17	acc28a6b657802de38df1c28de019f4e182e3b88
+18	English	World English Bible	web	LTR	Job	18	af1ac86d10e63e0a6b9de1afde5f1e768c76b932
+19	English	World English Bible	web	LTR	Psalms	19	70fb6159c19ecc18789d4bee5cda4218efef6990
+20	English	World English Bible	web	LTR	Proverbs	20	42cc30aacdd787b706422b6c62a70059de1fd4c0
+21	English	World English Bible	web	LTR	Ecclesiastes	21	7a61feb2021028761a93041517a348561790eb8f
+22	English	World English Bible	web	LTR	Song of Songs	22	0a73a87fc616c38a170c5b478615cafa7de27633
+23	English	World English Bible	web	LTR	Isaiah	23	29ff17c5bc831d7d5ebde2cad72e9d01110c0e74
+24	English	World English Bible	web	LTR	Jeremiah	24	0dbc897561c0b9fac9ab0471411bb919e3342798
+25	English	World English Bible	web	LTR	Lamentations	25	a3061599d453e1f0e95cba80ea249723f0d54960
+26	English	World English Bible	web	LTR	Ezekiel	26	b206c1f975431e1ca8142d4c9e3893523d4080ed
+27	English	World English Bible	web	LTR	Daniel	27	da299cd563da15534f37e90c697a92cf4cb47c32
+28	English	World English Bible	web	LTR	Hosea	28	c8e01b492d2a274f867926e9ea7cf0b53df080cf
+29	English	World English Bible	web	LTR	Joel	29	1730942d321b2d7f2500cffcf6e5f96966be3aa8
+30	English	World English Bible	web	LTR	Amos	30	e0a9e0067ad662bd2bc526529812694e7c17158d
+31	English	World English Bible	web	LTR	Obadiah	31	06c711c37dfb2f2f3f11862fe879dd4f8620589a
+32	English	World English Bible	web	LTR	Jonah	32	a66293a5b5ea0f1effe79783ffb6c2151a567d7a
+33	English	World English Bible	web	LTR	Micah	33	4d1f60d49a3e1623f5bcfd236a785616ee356722
+34	English	World English Bible	web	LTR	Nahum	34	a6e1a6aaafb9f44d881147c4da64afd051458aa1
+35	English	World English Bible	web	LTR	Habakkuk	35	45e70b965c0bd07413ed9848193f3ce7adf4f0bd
+36	English	World English Bible	web	LTR	Zephaniah	36	7e7371e92e9c37e6f5f5ebeed93abd85e3cdd51a
+37	English	World English Bible	web	LTR	Haggai	37	e616571fd9fdd47f1d95a69b4371ab65a109ba70
+38	English	World English Bible	web	LTR	Zechariah	38	3686d0ca72f24d0bf608c3c3c45285bc9e9142f0
+39	English	World English Bible	web	LTR	Malachi	39	a7f6e65692623a37dac20754b5ba4a2c39641eaf
+40	English	World English Bible	web	LTR	Matthew	40	10aabf7606d797b1da63f2d170d448c306a56510
+41	English	World English Bible	web	LTR	Mark	41	4ad3d67a327476123712cf550b03f39a6515619b
+42	English	World English Bible	web	LTR	Luke	42	1ca4ec161d3a8c58f58fca4c54a5ee4a97164ece
+43	English	World English Bible	web	LTR	John	43	1150ec647f114fa846695d7b374a08a18f12d007
+44	English	World English Bible	web	LTR	Acts	44	64802679dc2e5a5bc0aa4f4dfb5edfdb99e61e7d
+45	English	World English Bible	web	LTR	Romans	45	d7a1e8fa4129341297cdfb1743da8ac594d08443
+46	English	World English Bible	web	LTR	1 Corinthians	46	9f4967f1a7d0574263a1a163d2882e6b9d7b3954
+47	English	World English Bible	web	LTR	2 Corinthians	47	8894aec03dd218d184a08b1cd27d046d38fb20ea
+48	English	World English Bible	web	LTR	Galatians	48	ae238aba49ce869e11af0bca08f14ad84b08ea84
+49	English	World English Bible	web	LTR	Ephesians	49	3156d4020294e51a7062d2ff5cb152d18f4f84c1
+50	English	World English Bible	web	LTR	Philippians	50	903a8d879170a3aa80457db0a006c97190b96b33
+51	English	World English Bible	web	LTR	Colossians	51	1f856a5c6463b184e86b4274cbb694e280d5b764
+52	English	World English Bible	web	LTR	1 Thessalonians	52	68dcea64f3fe9fb91e6e2cbc0c5f4f171831fbed
+53	English	World English Bible	web	LTR	2 Thessalonians	53	351803dd3cb4ce700082df8362516333292f400c
+54	English	World English Bible	web	LTR	1 Timothy	54	ecef7c4e7ae1fdc02055bf658f82c4f8541aa450
+55	English	World English Bible	web	LTR	2 Timothy	55	d5789217b4ca2dc609d7f1ac4e317aa450166eb4
+56	English	World English Bible	web	LTR	Titus	56	92a04b9aeacd2176fea407bcd444f23227d9cf22
+57	English	World English Bible	web	LTR	Philemon	57	c2256c68fb79ff809a0c2e1457c6dca29516e590
+58	English	World English Bible	web	LTR	Hebrews	58	3c60fb902fd08a31efba90d08e906531b584fd3e
+59	English	World English Bible	web	LTR	James	59	b0991497102d7d30f7e7707000b4e234ea78b1a5
+60	English	World English Bible	web	LTR	1 Peter	60	63969f24f805a119277bb902ac0e4783f057e336
+61	English	World English Bible	web	LTR	2 Peter	61	1554a518ba48da95561d51f5027b7b9b30f2ef5e
+62	English	World English Bible	web	LTR	1 John	62	c4329e8b4ae8765f37d33ad335fd29511289f996
+63	English	World English Bible	web	LTR	2 John	63	e3af5222b25cdef17f7a6f1f3e0f6fba2a043307
+64	English	World English Bible	web	LTR	3 John	64	cf21a6e9869c9b2de00c518bf7d645e8df6b353b
+65	English	World English Bible	web	LTR	Jude	65	3fd4edde151b2db781f3555b059e09d3c1d13423
+66	English	World English Bible	web	LTR	Revelation	66	deffea8431405445a67a2f2c7ef7b9f7a464c84e
+

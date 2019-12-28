@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/51/1.json",
+    "sha": "115f813ab1852c76085ab61a6aa3ed93b228c558",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ls1910/51/2.json",
+    "sha": "5646b9afe2d7ce9f3e5981215c771adfcb1b0b87",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ls1910/51/3.json",
+    "sha": "1a76bca06a4bce1dffc1fd7f78a60ebd82ade2d2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ls1910/51/4.json",
+    "sha": "ca8de00ed5396979833770f3221226d60c3e426a",
+    "id": "4"
+  }
+}

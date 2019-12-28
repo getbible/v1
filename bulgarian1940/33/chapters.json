@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bulgarian1940/33/1.json",
+    "sha": "441b49a0116c3afa1fc4ece08bf2d51ae3377901",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bulgarian1940/33/2.json",
+    "sha": "4f3ec027a2320910937314a04fc1720714c62e1d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bulgarian1940/33/3.json",
+    "sha": "0dd9ee0c37ada5d7765133f02f6983792f7b2b02",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/bulgarian1940/33/4.json",
+    "sha": "883c7741c2f32c6b3985cca77f0b843d2ecf1c07",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/bulgarian1940/33/5.json",
+    "sha": "e411c015779dab9e0ad9031c55983e6423611965",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/bulgarian1940/33/6.json",
+    "sha": "8d74cfc4596d31feb4cc8e4805aca37cc704c41d",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/bulgarian1940/33/7.json",
+    "sha": "51ec09a1eeba429a516c937bbb86f5d16a7ae0a4",
+    "id": "7"
+  }
+}

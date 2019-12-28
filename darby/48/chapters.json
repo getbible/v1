@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/48/1.json",
+    "sha": "384ca260bda99c73a90a9f109308c3b16d698dc3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/48/2.json",
+    "sha": "f320df8d1410f4d967c766b72467a6258a6dbd2b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/48/3.json",
+    "sha": "7354c2acc3ce4afd2cdd0e3973933f248b8c7bf0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/darby/48/4.json",
+    "sha": "931a47a25633c9f37ddfb62b94c472b112c49338",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/darby/48/5.json",
+    "sha": "9d14a6153d4d82b4530cc4b4a2094fc1ca6d7e92",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/darby/48/6.json",
+    "sha": "9b9fa12a0195b6880a6761c5190ecaeccd979d10",
+    "id": "6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhs/31/1.json",
+    "sha": "5c0a62493df6d39a6c1f3cf9a6819f526732c0c0",
+    "id": "1"
+  }
+}

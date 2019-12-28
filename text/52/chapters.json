@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/text/52/1.json",
+    "sha": "c191d388a047b642747256f9e9df05e8c008c97f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/text/52/2.json",
+    "sha": "6baa550996c26deb34ea0424644c4c7b3dafe0cc",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/text/52/3.json",
+    "sha": "25cb1eb8505a8c8a5019b1f79e4f04f3823e162b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/text/52/4.json",
+    "sha": "40b3b77b9030245da0f791ecfd1f799bcaa64ba1",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/text/52/5.json",
+    "sha": "593fbfc143d1967296184fdecbe7a17b3835cc91",
+    "id": "5"
+  }
+}

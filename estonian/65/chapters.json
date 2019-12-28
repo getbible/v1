@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/65/1.json",
+    "sha": "cfd620cf8c333176eb283ac6f8879c806b8a4f5d",
+    "id": "1"
+  }
+}

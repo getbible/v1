@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/byzantine/53/1.json",
+    "sha": "0b899de86f4e11c055eb88a9dae9fea9ac7adcc3",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/byzantine/53/2.json",
+    "sha": "3e3cc79a551a3e81a7c7d663401edd94cc61d68d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/byzantine/53/3.json",
+    "sha": "ba3343ce79aa7208d8d4468952b8ed9ae263b979",
+    "id": "3"
+  }
+}

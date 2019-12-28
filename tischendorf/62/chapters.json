@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tischendorf/62/1.json",
+    "sha": "0fbd1553c0b84ceb8dcadf10b6f7d3f5013d2adc",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tischendorf/62/2.json",
+    "sha": "6348dcdb62d28ba1df1b6b1fb313bd69d1ae4364",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tischendorf/62/3.json",
+    "sha": "150a209b9dbfbc1acea53609f517b4c191d7aa1b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tischendorf/62/4.json",
+    "sha": "e83d9adfadd0c83cdcbf4da37da7a91bd7a977b8",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tischendorf/62/5.json",
+    "sha": "ef35c08652eaa37a9cc59956ef2d6ad9ddffb354",
+    "id": "5"
+  }
+}

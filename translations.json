@@ -1,0 +1,1062 @@
+{
+  "aov": {
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "aov",
+    "url": "https://getbible.net/v1/aov.json",
+    "sha": "3644b9abf58609a925e2ad916dcd0c50ef5545c9",
+    "id": "1"
+  },
+  "albanian": {
+    "language": "Albanian",
+    "translation": "Albanian",
+    "abbreviation": "albanian",
+    "textdirection": "LTR",
+    "filename": "albanian",
+    "url": "https://getbible.net/v1/albanian.json",
+    "sha": "6efc4d73c8a25bd7951806e3222c8c1d9bc2a1e7",
+    "id": "2"
+  },
+  "amharic": {
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "amharic",
+    "url": "https://getbible.net/v1/amharic.json",
+    "sha": "582b73f3e3bb57422c2752c79e0b6773f31d01bd",
+    "id": "3"
+  },
+  "hsab": {
+    "language": "Amharic",
+    "translation": "Haile Selassie Amharic Bible",
+    "abbreviation": "hsab",
+    "textdirection": "LTR",
+    "filename": "hsab",
+    "url": "https://getbible.net/v1/hsab.json",
+    "sha": "a9ba0c4ed7866ce601242c16793079d5a13c3968",
+    "id": "4"
+  },
+  "arabicsv": {
+    "language": "Arabic",
+    "translation": "Smith and Van Dyke",
+    "abbreviation": "arabicsv",
+    "textdirection": "RTL",
+    "filename": "arabicsv",
+    "url": "https://getbible.net/v1/arabicsv.json",
+    "sha": "9bc03cbbe58366643a93cd71f2e1d4ef565fa532",
+    "id": "5"
+  },
+  "peshitta": {
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "peshitta",
+    "url": "https://getbible.net/v1/peshitta.json",
+    "sha": "d9b4161967634db7e83682f3447917cfb91a4797",
+    "id": "6"
+  },
+  "easternarmenian": {
+    "language": "Armenian",
+    "translation": "Eastern (Genesis Exodus Gospels)",
+    "abbreviation": "easternarmenian",
+    "textdirection": "LTR",
+    "filename": "easternarmenian",
+    "url": "https://getbible.net/v1/easternarmenian.json",
+    "sha": "f6941f78bcf6968524289ca5fc2fab84035902ce",
+    "id": "7"
+  },
+  "westernarmenian": {
+    "language": "Armenian",
+    "translation": "Western NT",
+    "abbreviation": "westernarmenian",
+    "textdirection": "LTR",
+    "filename": "westernarmenian",
+    "url": "https://getbible.net/v1/westernarmenian.json",
+    "sha": "510ce1dde0dd029a2862fdb456b17a23195fff33",
+    "id": "8"
+  },
+  "basque": {
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "basque",
+    "url": "https://getbible.net/v1/basque.json",
+    "sha": "f2471b6a82a13ac52e0389d039888708790a4919",
+    "id": "9"
+  },
+  "breton": {
+    "language": "Breton",
+    "translation": "Gospels",
+    "abbreviation": "breton",
+    "textdirection": "LTR",
+    "filename": "breton",
+    "url": "https://getbible.net/v1/breton.json",
+    "sha": "4c782d54991d5f67f604e14b3d0add3a5a18624b",
+    "id": "10"
+  },
+  "bulgarian1940": {
+    "language": "Bulgarian",
+    "translation": "Bulgarian Bible (1940)",
+    "abbreviation": "bulgarian1940",
+    "textdirection": "LTR",
+    "filename": "bulgarian1940",
+    "url": "https://getbible.net/v1/bulgarian1940.json",
+    "sha": "ccb8041a724faf39d254ff704521593a7c298a89",
+    "id": "11"
+  },
+  "chamorro": {
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "chamorro",
+    "url": "https://getbible.net/v1/chamorro.json",
+    "sha": "e72a27ba186ab2072f1b60b69bdbe285ec706c45",
+    "id": "12"
+  },
+  "cns": {
+    "language": "Chinese",
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "textdirection": "LTR",
+    "filename": "cns",
+    "url": "https://getbible.net/v1/cns.json",
+    "sha": "bfa4b194d38971e584291dba593d3b96f629973e",
+    "id": "13"
+  },
+  "cnt": {
+    "language": "Chinese",
+    "translation": "NCV Traditional",
+    "abbreviation": "cnt",
+    "textdirection": "LTR",
+    "filename": "cnt",
+    "url": "https://getbible.net/v1/cnt.json",
+    "sha": "1089043a385bed6b2d89a58fb5e1987d98e24d32",
+    "id": "14"
+  },
+  "cus": {
+    "language": "Chinese",
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "textdirection": "LTR",
+    "filename": "cus",
+    "url": "https://getbible.net/v1/cus.json",
+    "sha": "3f03724039234e2bea305f3431ab67db6dadaf2c",
+    "id": "15"
+  },
+  "cut": {
+    "language": "Chinese",
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "textdirection": "LTR",
+    "filename": "cut",
+    "url": "https://getbible.net/v1/cut.json",
+    "sha": "5f09ce3f15bd362b3501a7a7afb151441e95bd19",
+    "id": "16"
+  },
+  "bohairic": {
+    "language": "Coptic",
+    "translation": "Bohairic NT",
+    "abbreviation": "bohairic",
+    "textdirection": "LTR",
+    "filename": "bohairic",
+    "url": "https://getbible.net/v1/bohairic.json",
+    "sha": "e60ea60a66177d42bc220d540c51ec08120c5bd9",
+    "id": "17"
+  },
+  "coptic": {
+    "language": "Coptic",
+    "translation": "New Testament",
+    "abbreviation": "coptic",
+    "textdirection": "LTR",
+    "filename": "coptic",
+    "url": "https://getbible.net/v1/coptic.json",
+    "sha": "d5e2b3867395d5c52375d64bcedbbfaaad0a3512",
+    "id": "18"
+  },
+  "sahidic": {
+    "language": "Coptic",
+    "translation": "Sahidic NT",
+    "abbreviation": "sahidic",
+    "textdirection": "LTR",
+    "filename": "sahidic",
+    "url": "https://getbible.net/v1/sahidic.json",
+    "sha": "5979994c6bb522692b09a96b90adf6d70fd0d500",
+    "id": "19"
+  },
+  "croatia": {
+    "language": "Croatian",
+    "translation": "Croatian",
+    "abbreviation": "croatia",
+    "textdirection": "LTR",
+    "filename": "croatia",
+    "url": "https://getbible.net/v1/croatia.json",
+    "sha": "0207b96dabe1fd31019e12ccd81370697f718831",
+    "id": "20"
+  },
+  "bkr": {
+    "language": "Czech",
+    "translation": "Czech BKR",
+    "abbreviation": "bkr",
+    "textdirection": "LTR",
+    "filename": "bkr",
+    "url": "https://getbible.net/v1/bkr.json",
+    "sha": "2a9b8bf3120dae463536b6d7d5c2c60d01b1d2b4",
+    "id": "21"
+  },
+  "cep": {
+    "language": "Czech",
+    "translation": "Czech CEP",
+    "abbreviation": "cep",
+    "textdirection": "LTR",
+    "filename": "cep",
+    "url": "https://getbible.net/v1/cep.json",
+    "sha": "0e42067f5836cf65cbd2bb171ad5a81708d19985",
+    "id": "22"
+  },
+  "kms": {
+    "language": "Czech",
+    "translation": "Czech KMS",
+    "abbreviation": "kms",
+    "textdirection": "LTR",
+    "filename": "kms",
+    "url": "https://getbible.net/v1/kms.json",
+    "sha": "2feb712178283b698fcf28a81ae221a9cdad4eef",
+    "id": "23"
+  },
+  "nkb": {
+    "language": "Czech",
+    "translation": "Czech NKB",
+    "abbreviation": "nkb",
+    "textdirection": "LTR",
+    "filename": "nkb",
+    "url": "https://getbible.net/v1/nkb.json",
+    "sha": "3888146af6eea2f000cbabf058b6d6932c15c909",
+    "id": "24"
+  },
+  "danish": {
+    "language": "Danish",
+    "translation": "Danish",
+    "abbreviation": "danish",
+    "textdirection": "LTR",
+    "filename": "danish",
+    "url": "https://getbible.net/v1/danish.json",
+    "sha": "440f328152c54a6e3c63d6edf06c3c4ec6335115",
+    "id": "25"
+  },
+  "statenvertaling": {
+    "language": "Dutch",
+    "translation": "Dutch Staten Vertaling",
+    "abbreviation": "statenvertaling",
+    "textdirection": "LTR",
+    "filename": "statenvertaling",
+    "url": "https://getbible.net/v1/statenvertaling.json",
+    "sha": "3b82d8ee44ac2b888466799b682af4021a421604",
+    "id": "26"
+  },
+  "akjv": {
+    "language": "English",
+    "translation": "American King James Version",
+    "abbreviation": "akjv",
+    "textdirection": "LTR",
+    "filename": "akjv",
+    "url": "https://getbible.net/v1/akjv.json",
+    "sha": "08eed624aa31163ae5e524667cc44f16dd5e48ca",
+    "id": "27"
+  },
+  "asv": {
+    "language": "English",
+    "translation": "American Standard Version",
+    "abbreviation": "asv",
+    "textdirection": "LTR",
+    "filename": "asv",
+    "url": "https://getbible.net/v1/asv.json",
+    "sha": "82de884d167bc1aa991f8d369e9ae55be9d346a7",
+    "id": "28"
+  },
+  "basicenglish": {
+    "language": "English",
+    "translation": "Basic English Bible",
+    "abbreviation": "basicenglish",
+    "textdirection": "LTR",
+    "filename": "basicenglish",
+    "url": "https://getbible.net/v1/basicenglish.json",
+    "sha": "5a32540ce062b5c2f44535837c674f6f36106b6a",
+    "id": "29"
+  },
+  "darby": {
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "darby",
+    "url": "https://getbible.net/v1/darby.json",
+    "sha": "abff45b27d111f19bcfced57b9a8c9dd0af90e61",
+    "id": "42"
+  },
+  "douayrheims": {
+    "language": "English",
+    "translation": "Douay Rheims",
+    "abbreviation": "douayrheims",
+    "textdirection": "LTR",
+    "filename": "douayrheims",
+    "url": "https://getbible.net/v1/douayrheims.json",
+    "sha": "1d625e7fcc29354ae454c4e870fed3ff9d41f266",
+    "id": "31"
+  },
+  "kjv": {
+    "language": "English",
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "textdirection": "LTR",
+    "filename": "kjv",
+    "url": "https://getbible.net/v1/kjv.json",
+    "sha": "bd8a3ae7defb9608451f923293f5897d28193746",
+    "id": "32"
+  },
+  "wb": {
+    "language": "English",
+    "translation": "Webster's Bible",
+    "abbreviation": "wb",
+    "textdirection": "LTR",
+    "filename": "wb",
+    "url": "https://getbible.net/v1/wb.json",
+    "sha": "f21bf6e4a31875a321d8f9405fcad4f9c78b6cdb",
+    "id": "33"
+  },
+  "weymouth": {
+    "language": "English",
+    "translation": "Weymouth NT",
+    "abbreviation": "weymouth",
+    "textdirection": "LTR",
+    "filename": "weymouth",
+    "url": "https://getbible.net/v1/weymouth.json",
+    "sha": "7a3cf00fa1c820caed71785f9561bc8957afd9e2",
+    "id": "34"
+  },
+  "web": {
+    "language": "English",
+    "translation": "World English Bible",
+    "abbreviation": "web",
+    "textdirection": "LTR",
+    "filename": "web",
+    "url": "https://getbible.net/v1/web.json",
+    "sha": "9bf778eeae2f8bfe42cbb6c51b4226412d868cb1",
+    "id": "35"
+  },
+  "ylt": {
+    "language": "English",
+    "translation": "Young's Literal Translation",
+    "abbreviation": "ylt",
+    "textdirection": "LTR",
+    "filename": "ylt",
+    "url": "https://getbible.net/v1/ylt.json",
+    "sha": "d6459ca9eb7d9418f23c6aacda8ad56375cee606",
+    "id": "36"
+  },
+  "esperanto": {
+    "language": "Esperanto",
+    "translation": "Esperanto",
+    "abbreviation": "esperanto",
+    "textdirection": "LTR",
+    "filename": "esperanto",
+    "url": "https://getbible.net/v1/esperanto.json",
+    "sha": "cae879606bb267919ea5724a126e04247cca8785",
+    "id": "37"
+  },
+  "estonian": {
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "estonian",
+    "url": "https://getbible.net/v1/estonian.json",
+    "sha": "8d392375c0bd00b3c028f9ef8f270b5ff1c28d08",
+    "id": "38"
+  },
+  "finnish1776": {
+    "language": "Finnish",
+    "translation": "Finnish Bible (1776)",
+    "abbreviation": "finnish1776",
+    "textdirection": "LTR",
+    "filename": "finnish1776",
+    "url": "https://getbible.net/v1/finnish1776.json",
+    "sha": "63203ee739d5351752d84954fbf6210c7dcbfd2f",
+    "id": "39"
+  },
+  "pyharaamattu1933": {
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1933 1938)",
+    "abbreviation": "pyharaamattu1933",
+    "textdirection": "LTR",
+    "filename": "pyharaamattu1933",
+    "url": "https://getbible.net/v1/pyharaamattu1933.json",
+    "sha": "734ee1f5df5923a212d24eb5150647d0356e194d",
+    "id": "40"
+  },
+  "pyharaamattu1992": {
+    "language": "Finnish",
+    "translation": "Pyha Raamattu (1992)",
+    "abbreviation": "pyharaamattu1992",
+    "textdirection": "LTR",
+    "filename": "pyharaamattu1992",
+    "url": "https://getbible.net/v1/pyharaamattu1992.json",
+    "sha": "b59c34d850efca3d75e6683085305871868324a2",
+    "id": "41"
+  },
+  "ls1910": {
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "ls1910",
+    "url": "https://getbible.net/v1/ls1910.json",
+    "sha": "ec84b5c894d7a1d572fbe3fa14e6a5acec7598a4",
+    "id": "43"
+  },
+  "martin": {
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "martin",
+    "url": "https://getbible.net/v1/martin.json",
+    "sha": "050d7bed5beabb2859a202bfe288becb1081c701",
+    "id": "44"
+  },
+  "ostervald": {
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "ostervald",
+    "url": "https://getbible.net/v1/ostervald.json",
+    "sha": "7c846d555fdc2484fa4c07d1bb6127193baa1c6c",
+    "id": "45"
+  },
+  "georgian": {
+    "language": "Georgian",
+    "translation": "Georgian (Gospels Acts James)",
+    "abbreviation": "georgian",
+    "textdirection": "LTR",
+    "filename": "georgian",
+    "url": "https://getbible.net/v1/georgian.json",
+    "sha": "5772bb80abbb6d90331c73ee4c28a34c6defc5f4",
+    "id": "46"
+  },
+  "elberfelder": {
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "elberfelder",
+    "url": "https://getbible.net/v1/elberfelder.json",
+    "sha": "f1d9205afc66f975af54193f4c9d056dae38066c",
+    "id": "47"
+  },
+  "elberfelder1905": {
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "elberfelder1905",
+    "url": "https://getbible.net/v1/elberfelder1905.json",
+    "sha": "f14927968dd838e6b4444a97533611b4a0d7d0e0",
+    "id": "48"
+  },
+  "luther1545": {
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "luther1545",
+    "url": "https://getbible.net/v1/luther1545.json",
+    "sha": "47e8befbb0e14580f14b0052b6550b304c523524",
+    "id": "49"
+  },
+  "luther1912": {
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "luther1912",
+    "url": "https://getbible.net/v1/luther1912.json",
+    "sha": "85e03472a9f9bd23f1890d04abf93fdb073c23cf",
+    "id": "50"
+  },
+  "schlachter": {
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "schlachter",
+    "url": "https://getbible.net/v1/schlachter.json",
+    "sha": "b47cd882123351fe3faa6366aaf02b4a93fa604a",
+    "id": "51"
+  },
+  "gothic": {
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "gothic",
+    "url": "https://getbible.net/v1/gothic.json",
+    "sha": "710cc68c8d04026b5eb6927cbb18231c0036ed62",
+    "id": "52"
+  },
+  "moderngreek": {
+    "language": "Greek",
+    "translation": "Greek Modern",
+    "abbreviation": "moderngreek",
+    "textdirection": "LTR",
+    "filename": "moderngreek",
+    "url": "https://getbible.net/v1/moderngreek.json",
+    "sha": "e72b7cd1cfb8c3d1a8cd80db6e2e46b31ddd8a1c",
+    "id": "53"
+  },
+  "byzantine": {
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "byzantine",
+    "url": "https://getbible.net/v1/byzantine.json",
+    "sha": "2ab8b22aebcccab6fae6c04e1a64a9311415b947",
+    "id": "54"
+  },
+  "majoritytext": {
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "majoritytext",
+    "url": "https://getbible.net/v1/majoritytext.json",
+    "sha": "a82871a7e9c92ef0f19d58938513200d758ab842",
+    "id": "55"
+  },
+  "textusreceptus": {
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "textusreceptus",
+    "url": "https://getbible.net/v1/textusreceptus.json",
+    "sha": "8827d309814f4a97479ce1348f984cef7ca2b85f",
+    "id": "56"
+  },
+  "text": {
+    "language": "Greek",
+    "translation": "Textus Receptus",
+    "abbreviation": "text",
+    "textdirection": "LTR",
+    "filename": "text",
+    "url": "https://getbible.net/v1/text.json",
+    "sha": "cf64ad62ff68e37359affd0223a9e7c882e6778f",
+    "id": "65"
+  },
+  "tischendorf": {
+    "language": "Greek",
+    "translation": "NT Tischendorf 8th Ed",
+    "abbreviation": "tischendorf",
+    "textdirection": "LTR",
+    "filename": "tischendorf",
+    "url": "https://getbible.net/v1/tischendorf.json",
+    "sha": "38987db68708bef766c5726cde01bfbca6f6dd34",
+    "id": "58"
+  },
+  "westcotthort": {
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants Parsed",
+    "abbreviation": "westcotthort",
+    "textdirection": "LTR",
+    "filename": "westcotthort",
+    "url": "https://getbible.net/v1/westcotthort.json",
+    "sha": "0560399229b595839a1c86782aa8911d0f623683",
+    "id": "59"
+  },
+  "westcott": {
+    "language": "Greek",
+    "translation": "NT Westcott Hort UBS4 variants",
+    "abbreviation": "westcott",
+    "textdirection": "LTR",
+    "filename": "westcott",
+    "url": "https://getbible.net/v1/westcott.json",
+    "sha": "ab7eab63f2ff182884aea1e121ab1a7543e19123",
+    "id": "60"
+  },
+  "lxx": {
+    "language": "Greek",
+    "translation": "OT LXX Accented",
+    "abbreviation": "lxx",
+    "textdirection": "LTR",
+    "filename": "lxx",
+    "url": "https://getbible.net/v1/lxx.json",
+    "sha": "c60bb914c56722379474ca02cca03d8aacaa987e",
+    "id": "61"
+  },
+  "lxxpar": {
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "lxxpar",
+    "url": "https://getbible.net/v1/lxxpar.json",
+    "sha": "e23a850ee9ef67f523c47754ad6de039c6693146",
+    "id": "62"
+  },
+  "lxxunaccents": {
+    "language": "Greek",
+    "translation": "OT LXX Unaccented",
+    "abbreviation": "lxxunaccents",
+    "textdirection": "LTR",
+    "filename": "lxxunaccents",
+    "url": "https://getbible.net/v1/lxxunaccents.json",
+    "sha": "8a3b06f678f27a9b627aeda80d6f2e7bf06cfc33",
+    "id": "63"
+  },
+  "lxxunaccentspar": {
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "lxxunaccentspar",
+    "url": "https://getbible.net/v1/lxxunaccentspar.json",
+    "sha": "9a5bddd33ae40d7b9e2931ef1e8fc97d4701b3ac",
+    "id": "64"
+  },
+  "aleppo": {
+    "language": "Hebrew",
+    "translation": "Aleppo Codex",
+    "abbreviation": "aleppo",
+    "textdirection": "RTL",
+    "filename": "aleppo",
+    "url": "https://getbible.net/v1/aleppo.json",
+    "sha": "3398b70ab3594eadb52e621683ac8bf14772e377",
+    "id": "66"
+  },
+  "modernhebrew": {
+    "language": "Hebrew",
+    "translation": "Hebrew Modern",
+    "abbreviation": "modernhebrew",
+    "textdirection": "RTL",
+    "filename": "modernhebrew",
+    "url": "https://getbible.net/v1/modernhebrew.json",
+    "sha": "80d6d346e56f40ea815921995b328b7304e4fa70",
+    "id": "67"
+  },
+  "bhs": {
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "bhs",
+    "url": "https://getbible.net/v1/bhs.json",
+    "sha": "d17ad5f6ee07becf2f084cec8d3f321bd879635d",
+    "id": "68"
+  },
+  "bhsnovowels": {
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants Only)",
+    "abbreviation": "bhsnovowels",
+    "textdirection": "RTL",
+    "filename": "bhsnovowels",
+    "url": "https://getbible.net/v1/bhsnovowels.json",
+    "sha": "cb9a810abb3c6c7f21f34e6825cc8e204e4c51a1",
+    "id": "69"
+  },
+  "codex": {
+    "language": "Hebrew",
+    "translation": "OT Westminster Leningrad Codex",
+    "abbreviation": "codex",
+    "textdirection": "RTL",
+    "filename": "codex",
+    "url": "https://getbible.net/v1/codex.json",
+    "sha": "07a20895d942ec7dab069c5dcb4113f637b2f8a2",
+    "id": "70"
+  },
+  "wlc": {
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants and Vowels)",
+    "abbreviation": "wlc",
+    "textdirection": "RTL",
+    "filename": "wlc",
+    "url": "https://getbible.net/v1/wlc.json",
+    "sha": "2a4aae0d2b331bbad073a4cf8da80004ad4df51d",
+    "id": "71"
+  },
+  "wlcnovowels": {
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "wlcnovowels",
+    "url": "https://getbible.net/v1/wlcnovowels.json",
+    "sha": "4b39efdaecc7edc61e70c99bea4c96474dfef897",
+    "id": "72"
+  },
+  "karoli": {
+    "language": "Hungarian",
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "textdirection": "LTR",
+    "filename": "karoli",
+    "url": "https://getbible.net/v1/karoli.json",
+    "sha": "5c4c003e896a2e05726e1851500560a776aafb82",
+    "id": "73"
+  },
+  "giovanni": {
+    "language": "Italian",
+    "translation": "Giovanni Diodati Bible (1649)",
+    "abbreviation": "giovanni",
+    "textdirection": "LTR",
+    "filename": "giovanni",
+    "url": "https://getbible.net/v1/giovanni.json",
+    "sha": "8e0720078826b11eb68f60860ea57437e8e938ff",
+    "id": "74"
+  },
+  "riveduta": {
+    "language": "Italian",
+    "translation": "Riveduta Bible (1927)",
+    "abbreviation": "riveduta",
+    "textdirection": "LTR",
+    "filename": "riveduta",
+    "url": "https://getbible.net/v1/riveduta.json",
+    "sha": "be08545e9066ad2cf132503d026674faaf94ad66",
+    "id": "75"
+  },
+  "kabyle": {
+    "language": "Kabyle",
+    "translation": "Kabyle NT",
+    "abbreviation": "kabyle",
+    "textdirection": "LTR",
+    "filename": "kabyle",
+    "url": "https://getbible.net/v1/kabyle.json",
+    "sha": "6528e19971354df6f0fba393cbc6665b007ae869",
+    "id": "76"
+  },
+  "korean": {
+    "language": "Korean",
+    "translation": "Korean",
+    "abbreviation": "korean",
+    "textdirection": "LTR",
+    "filename": "korean",
+    "url": "https://getbible.net/v1/korean.json",
+    "sha": "26486aff4637f4b7b9a0f8052ce700b2a73ed1ad",
+    "id": "77"
+  },
+  "newvulgate": {
+    "language": "Latin",
+    "translation": "Nova Vulgata",
+    "abbreviation": "newvulgate",
+    "textdirection": "LTR",
+    "filename": "newvulgate",
+    "url": "https://getbible.net/v1/newvulgate.json",
+    "sha": "a68aa79c556365371bfc64cbd17c18971f70a339",
+    "id": "78"
+  },
+  "vulgate": {
+    "language": "Latin",
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "textdirection": "LTR",
+    "filename": "vulgate",
+    "url": "https://getbible.net/v1/vulgate.json",
+    "sha": "8b96f953ff0a1481364e8adab91118160426a502",
+    "id": "79"
+  },
+  "latvian": {
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "latvian",
+    "url": "https://getbible.net/v1/latvian.json",
+    "sha": "69521f3d4184f12f3137ad92fa716aa723bcefe7",
+    "id": "80"
+  },
+  "lithuanian": {
+    "language": "Lithuanian",
+    "translation": "Lithuanian",
+    "abbreviation": "lithuanian",
+    "textdirection": "LTR",
+    "filename": "lithuanian",
+    "url": "https://getbible.net/v1/lithuanian.json",
+    "sha": "a5ca3acce72cfca3264c86c5acd0bca4b182e2c2",
+    "id": "81"
+  },
+  "manxgaelic": {
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "manxgaelic",
+    "url": "https://getbible.net/v1/manxgaelic.json",
+    "sha": "3b33901e736dad241f3ecde8e9ef315178608d8b",
+    "id": "82"
+  },
+  "maori": {
+    "language": "Maori",
+    "translation": "Maori",
+    "abbreviation": "maori",
+    "textdirection": "LTR",
+    "filename": "maori",
+    "url": "https://getbible.net/v1/maori.json",
+    "sha": "9bdca983e2c9f6f5b104f214130fa9fb8b487759",
+    "id": "83"
+  },
+  "judson": {
+    "language": "Myanmar Burmse",
+    "translation": "Judson (1835)",
+    "abbreviation": "judson",
+    "textdirection": "LTR",
+    "filename": "judson",
+    "url": "https://getbible.net/v1/judson.json",
+    "sha": "dc10d29d4692ae5a69b13bcb4b099669d1107199",
+    "id": "84"
+  },
+  "bibelselskap": {
+    "language": "Norwegian",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "abbreviation": "bibelselskap",
+    "textdirection": "LTR",
+    "filename": "bibelselskap",
+    "url": "https://getbible.net/v1/bibelselskap.json",
+    "sha": "1c598483b20bdd5a9ebc99be5b56490985b416d7",
+    "id": "85"
+  },
+  "almeida": {
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "almeida",
+    "url": "https://getbible.net/v1/almeida.json",
+    "sha": "666654a33b5c1f7e2dee3a3286ec19b8e3bbc3b7",
+    "id": "86"
+  },
+  "potawatomi": {
+    "language": "Potawatomi",
+    "translation": "Potawatomi (Matthew Acts) (Lykins 1844)",
+    "abbreviation": "potawatomi",
+    "textdirection": "LTR",
+    "filename": "potawatomi",
+    "url": "https://getbible.net/v1/potawatomi.json",
+    "sha": "c850cc8c9d55f0dbd0b8053a4ed8e5f64127979c",
+    "id": "87"
+  },
+  "cornilescu": {
+    "language": "Romanian",
+    "translation": "Cornilescu",
+    "abbreviation": "cornilescu",
+    "textdirection": "LTR",
+    "filename": "cornilescu",
+    "url": "https://getbible.net/v1/cornilescu.json",
+    "sha": "ca6321f06a3de3b4fd315a49bb983606a503396e",
+    "id": "88"
+  },
+  "rom": {
+    "language": "Romani",
+    "translation": "Romani NT E Lashi Viasta (Gypsy)",
+    "abbreviation": "rom",
+    "textdirection": "LTR",
+    "filename": "rom",
+    "url": "https://getbible.net/v1/rom.json",
+    "sha": "1b1f24df3d77e324878e2d45e33428c930ba68d1",
+    "id": "89"
+  },
+  "makarij": {
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "makarij",
+    "url": "https://getbible.net/v1/makarij.json",
+    "sha": "c3c80dc4a490824b133655d337111f220b8abd92",
+    "id": "90"
+  },
+  "synodal": {
+    "language": "Russian",
+    "translation": "Synodal Translation (1876)",
+    "abbreviation": "synodal",
+    "textdirection": "LTR",
+    "filename": "synodal",
+    "url": "https://getbible.net/v1/synodal.json",
+    "sha": "0f59838bd574c7440e899e3201a5032e17309bdf",
+    "id": "91"
+  },
+  "zhuromsky": {
+    "language": "Russian",
+    "translation": "Victor Zhuromsky NT",
+    "abbreviation": "zhuromsky",
+    "textdirection": "LTR",
+    "filename": "zhuromsky",
+    "url": "https://getbible.net/v1/zhuromsky.json",
+    "sha": "16b31a38a39d37eea960acd1ae59c27fefc5e86b",
+    "id": "92"
+  },
+  "gaelic": {
+    "language": "Scottish Gaelic",
+    "translation": "Scots Gaelic (Gospel of Mark)",
+    "abbreviation": "gaelic",
+    "textdirection": "LTR",
+    "filename": "gaelic",
+    "url": "https://getbible.net/v1/gaelic.json",
+    "sha": "1873f5d8f591c2d980ff127edf622cded3b03dfe",
+    "id": "93"
+  },
+  "valera": {
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "valera",
+    "url": "https://getbible.net/v1/valera.json",
+    "sha": "68092f290f560acfb045257775642d91d6aa3d74",
+    "id": "94"
+  },
+  "rv1858": {
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "rv1858",
+    "url": "https://getbible.net/v1/rv1858.json",
+    "sha": "33228d80e88b23fe06b65cfd293600d9b99459e4",
+    "id": "95"
+  },
+  "sse": {
+    "language": "Spanish",
+    "translation": "Sagradas Escrituras (1569)",
+    "abbreviation": "sse",
+    "textdirection": "LTR",
+    "filename": "sse",
+    "url": "https://getbible.net/v1/sse.json",
+    "sha": "3628985524586870594acbdedcf52aebdd2f2e26",
+    "id": "96"
+  },
+  "swahili": {
+    "language": "Swahili",
+    "translation": "Swahili",
+    "abbreviation": "swahili",
+    "textdirection": "LTR",
+    "filename": "swahili",
+    "url": "https://getbible.net/v1/swahili.json",
+    "sha": "85b77aab38f6a97e6aad977e97bcc9de22a5e79e",
+    "id": "97"
+  },
+  "swedish": {
+    "language": "Swedish",
+    "translation": "Swedish (1917)",
+    "abbreviation": "swedish",
+    "textdirection": "LTR",
+    "filename": "swedish",
+    "url": "https://getbible.net/v1/swedish.json",
+    "sha": "c2e6bb603858cc4fd1eed4ff7dd083693cd75a7d",
+    "id": "98"
+  },
+  "tagalog": {
+    "language": "Tagalog",
+    "translation": "Ang Dating Biblia (1905)",
+    "abbreviation": "tagalog",
+    "textdirection": "LTR",
+    "filename": "tagalog",
+    "url": "https://getbible.net/v1/tagalog.json",
+    "sha": "7c56df5179dd23f0a4e918efec4843f4f8c81f13",
+    "id": "99"
+  },
+  "tamajaq": {
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "tamajaq",
+    "url": "https://getbible.net/v1/tamajaq.json",
+    "sha": "2173a9ca7f860a4f408056953fb79f87cf88f49f",
+    "id": "100"
+  },
+  "thai": {
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "thai",
+    "url": "https://getbible.net/v1/thai.json",
+    "sha": "8cae884b28f88aa94937199d4d4651940bd25323",
+    "id": "101"
+  },
+  "tnt": {
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "tnt",
+    "url": "https://getbible.net/v1/tnt.json",
+    "sha": "2404c8cd681a0555a22b5b2e10cdc1c82e7f7177",
+    "id": "102"
+  },
+  "turkish": {
+    "language": "Turkish",
+    "translation": "Turkish",
+    "abbreviation": "turkish",
+    "textdirection": "LTR",
+    "filename": "turkish",
+    "url": "https://getbible.net/v1/turkish.json",
+    "sha": "f91a1e5d05a02d5f8bb2f324309132b7a5f10d99",
+    "id": "103"
+  },
+  "ukranian": {
+    "language": "Ukrainian",
+    "translation": "NT (P Kulish 1871)",
+    "abbreviation": "ukranian",
+    "textdirection": "LTR",
+    "filename": "ukranian",
+    "url": "https://getbible.net/v1/ukranian.json",
+    "sha": "e1672866995c83f96e97894beed9d2f3540c49f2",
+    "id": "104"
+  },
+  "uma": {
+    "language": "Uma",
+    "translation": "Uma NT",
+    "abbreviation": "uma",
+    "textdirection": "LTR",
+    "filename": "uma",
+    "url": "https://getbible.net/v1/uma.json",
+    "sha": "9c6c238576abcaad7f993c58fa10efda99700ee7",
+    "id": "105"
+  },
+  "vietnamese": {
+    "language": "Vietnamese",
+    "translation": "Vietnamese (1934)",
+    "abbreviation": "vietnamese",
+    "textdirection": "LTR",
+    "filename": "vietnamese",
+    "url": "https://getbible.net/v1/vietnamese.json",
+    "sha": "179e0b0052997a41935ea55a2a6e3923e41e4ece",
+    "id": "106"
+  },
+  "wolof": {
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "wolof",
+    "url": "https://getbible.net/v1/wolof.json",
+    "sha": "12270334b38be7284fdf969931ea40c06d162293",
+    "id": "107"
+  },
+  "xhosa": {
+    "language": "Xhosa",
+    "translation": "Xhosa",
+    "abbreviation": "xhosa",
+    "textdirection": "LTR",
+    "filename": "xhosa",
+    "url": "https://getbible.net/v1/xhosa.json",
+    "sha": "40c83f1e0c77c42355d3af0089d5d1ab048cba5b",
+    "id": "108"
+  }
+}

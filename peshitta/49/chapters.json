@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/49/1.json",
+    "sha": "02eeaa1906157ae4bbf6f4254b15aff1e4bb2ed1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/peshitta/49/2.json",
+    "sha": "5deed7ed8e4735a35c66c5745c244c49577eab70",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/peshitta/49/3.json",
+    "sha": "acee8a9560bf93b258eaf34a16830f0672258609",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "4",
+    "url": "https://getbible.net/v1/peshitta/49/4.json",
+    "sha": "8a291add442b36ca74459cba646142af5c147145",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "5",
+    "url": "https://getbible.net/v1/peshitta/49/5.json",
+    "sha": "c8e466dab641e52faf01c647b5d5c6317d10a998",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "6",
+    "url": "https://getbible.net/v1/peshitta/49/6.json",
+    "sha": "692de457d35cad71f8f626542fc9741df63f9053",
+    "id": "6"
+  }
+}

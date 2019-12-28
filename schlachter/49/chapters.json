@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/49/1.json",
+    "sha": "d33c50eaf1dc6f133c9ae5cdf2af89e7db56a797",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/49/2.json",
+    "sha": "fc91658ce0bdc17bb761bc3eedb5573f7d262a2f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/49/3.json",
+    "sha": "9dab42f0148fc4f2f2c3930db3997c0d437f1bc3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/49/4.json",
+    "sha": "56edbaa061d725384325ea0e44fda84aa3aaae26",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/49/5.json",
+    "sha": "2adf5fecfa8567f29b2acc5ed59ea02c9ab4eedd",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/schlachter/49/6.json",
+    "sha": "6bd25668964f9d9037c8cfac954835be693ae63b",
+    "id": "6"
+  }
+}

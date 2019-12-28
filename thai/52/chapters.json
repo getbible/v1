@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/52/1.json",
+    "sha": "c0409ad4793291c34bb40edc8c5a13ba038b1061",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/52/2.json",
+    "sha": "463fad9ee63e4ed78347e7163294e1f43dd17592",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/52/3.json",
+    "sha": "bbd0091e2599dba8da09e9ecb25eda85cde88e23",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/thai/52/4.json",
+    "sha": "376a1fd1eeb6c72d284e4cf01a2614a09738d874",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/thai/52/5.json",
+    "sha": "bcf301726cfb75612aade5ae7f0031e0e3c616cb",
+    "id": "5"
+  }
+}

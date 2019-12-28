@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timotheüs",
+    "book_nr": "55",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/55/1.json",
+    "sha": "7075cdfc7133d6bc13f57f30d080172c4ad24486",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timotheüs",
+    "book_nr": "55",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/55/2.json",
+    "sha": "3ca73a508c115ee1b58e8521e2a7402f3add5f29",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timotheüs",
+    "book_nr": "55",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/55/3.json",
+    "sha": "4ea280dba64f9c9781f0dc3b86b951ddbd173080",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timotheüs",
+    "book_nr": "55",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/55/4.json",
+    "sha": "0ddc468ec47bfe481eff0c0820b3fcc3d9af83e1",
+    "id": "4"
+  }
+}

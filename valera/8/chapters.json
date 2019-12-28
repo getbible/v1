@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/valera/8/1.json",
+    "sha": "b3dd357463de637d62ebe68e3644cfb711779a7a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/valera/8/2.json",
+    "sha": "2c2c0de2c3ee0c52c29c242ba6eae5ab121b646f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/valera/8/3.json",
+    "sha": "2b83466e3d2e12aca4c81ee3b942d154a2228b6b",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/valera/8/4.json",
+    "sha": "73aea3edbbe03c45f3780efb6d3332d29e900471",
+    "id": "4"
+  }
+}

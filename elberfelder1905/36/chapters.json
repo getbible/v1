@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/36/1.json",
+    "sha": "5a08003d9811b92c274f806fd66538895325fe3c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/36/2.json",
+    "sha": "7c6e5771b1781ee0b3a9402bf98f173f8bbea68d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/36/3.json",
+    "sha": "65d3f2080f2c40397695f9e968918c66f13b05c6",
+    "id": "3"
+  }
+}

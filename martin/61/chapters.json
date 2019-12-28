@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/61/1.json",
+    "sha": "13014318a32be660412812f866f5a6514903cd9b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/martin/61/2.json",
+    "sha": "58d151008977d9dae5e3774fc87d2cb872b2b453",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/martin/61/3.json",
+    "sha": "2bd2df7adfdfe5dda1eab29336b18637e4ab1c89",
+    "id": "3"
+  }
+}

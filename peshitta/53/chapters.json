@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/peshitta/53/1.json",
+    "sha": "a663f3aaacae54c7dbe590b442c07881c0b86af7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/peshitta/53/2.json",
+    "sha": "647d1c312d9aaafe786dda413d2da13853bf52c6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Aramaic",
+    "translation": "Peshitta NT",
+    "abbreviation": "peshitta",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/peshitta/53/3.json",
+    "sha": "8de7f916a4f8eba7a554a1e74b73dcd806c4a1d5",
+    "id": "3"
+  }
+}

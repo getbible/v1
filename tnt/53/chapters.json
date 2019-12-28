@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tnt/53/1.json",
+    "sha": "53836da4001619ff9ea11cb53d93f1e29b492c15",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tnt/53/2.json",
+    "sha": "b225c32490d3cb22942be228751d8ca8f1f60c22",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonians",
+    "book_nr": "53",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tnt/53/3.json",
+    "sha": "4bf4f36f94bd5692231f8d37e5cf72e3cd37ba4c",
+    "id": "3"
+  }
+}

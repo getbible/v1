@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ostervald/60/1.json",
+    "sha": "5bf5d75ca53ade39caa2adf2da64eb43fa94602f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ostervald/60/2.json",
+    "sha": "91d4d7977bee94d301755923b3d68aeeb2eab727",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ostervald/60/3.json",
+    "sha": "10df96322d2443bd83b8147b8e9842a34c8638ec",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ostervald/60/4.json",
+    "sha": "702fd35b9d0bf2c7d6b811aa1e8e6ff624f3dbc5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ostervald/60/5.json",
+    "sha": "8a64cf912a71804adfd3f641c1e12a97fca2a657",
+    "id": "5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxpar/8/1.json",
+    "sha": "2801f11fe4873ae5b3f741b043d72b0d1778ee1a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxpar/8/2.json",
+    "sha": "9b5c92c0b52b58c5c246a5397b5ee08eac102e3b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxpar/8/3.json",
+    "sha": "aad334f4307c0cf761d515c7989a6dac3b7d9151",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxpar/8/4.json",
+    "sha": "13c23c525ae66b8fffb4c07461b2f1a90852c3d6",
+    "id": "4"
+  }
+}

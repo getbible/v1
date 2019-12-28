@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/basque/61/1.json",
+    "sha": "bd7b02df149c9a51a782b166051b2d2f09a12331",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/basque/61/2.json",
+    "sha": "8a7c6fbfdd529c5e6163b4a28b3cb14349c9d718",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Basque",
+    "translation": "(Navarro Labourdin) NT",
+    "abbreviation": "basque",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/basque/61/3.json",
+    "sha": "7c979c55c9dd341c482844dbda0d1db260ce4020",
+    "id": "3"
+  }
+}

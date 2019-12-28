@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxpar/34/1.json",
+    "sha": "f4f4d9f2f633ef1c6ff44b2e23b9688efc31f0c7",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxpar/34/2.json",
+    "sha": "9091074da478ab9059d061bcb3d5282c05c7cbc8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Nahum",
+    "book_nr": "34",
+    "language": "Greek",
+    "translation": "OT LXX Accented Roots Parsing",
+    "abbreviation": "lxxpar",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxpar/34/3.json",
+    "sha": "a3a28d173e5d51ed887b53887364200b9b92356f",
+    "id": "3"
+  }
+}

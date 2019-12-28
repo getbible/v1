@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/50/1.json",
+    "sha": "fe800b1a6a1ff0d4fde7f474831d9d2c1c4925b0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/latvian/50/2.json",
+    "sha": "1d5393528182d9000a37dd6c255cd4766a733565",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/latvian/50/3.json",
+    "sha": "2b2b3b7341f65937957cf1787debb4e110a1b993",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/latvian/50/4.json",
+    "sha": "00661747c70d173e488825d50a0b0a313ccdb249",
+    "id": "4"
+  }
+}

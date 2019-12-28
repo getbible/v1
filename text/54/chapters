@@ -1,0 +1,8 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	Textus Receptus	text	LTR	54	1 Timothy	1	674fac83d91383487917eacda317f5dc66fdb344
+2	Greek	Textus Receptus	text	LTR	54	1 Timothy	2	c03229281bc4236b57cbbb152e6375ef9cecf190
+3	Greek	Textus Receptus	text	LTR	54	1 Timothy	3	173a7ae41de84037221b146939f8cae631d2593a
+4	Greek	Textus Receptus	text	LTR	54	1 Timothy	4	1fbeab517fc87d1a53542227fa8b062df378a19a
+5	Greek	Textus Receptus	text	LTR	54	1 Timothy	5	09a810bdebb15edb88b2f0e58f8d768866d76466
+6	Greek	Textus Receptus	text	LTR	54	1 Timothy	6	595ffca1b94ed5ba4d4612fea959a308d6ea3fa0
+

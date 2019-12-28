@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/valera/55/1.json",
+    "sha": "c6400d4e38ed6b9d75f4cba60980fec646c9f55b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/valera/55/2.json",
+    "sha": "6bb926bdc53a6dcd8f94110cbed0fc103bc149de",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/valera/55/3.json",
+    "sha": "ea9bb96143ac0a0c9045f405e9a7e88deffcedf4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "Spanish",
+    "translation": "Reina Valera (1909)",
+    "abbreviation": "valera",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/valera/55/4.json",
+    "sha": "c2cda07f1805119d4bcf2d4238adec7bc0d7f530",
+    "id": "4"
+  }
+}

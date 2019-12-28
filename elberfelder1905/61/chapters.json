@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/61/1.json",
+    "sha": "aaae2841f9cbdd0f3b1963389e1fe2e05defc44c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/61/2.json",
+    "sha": "8df6c03d964e202070af9c8df4b727545fa91aa8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2. Petrus",
+    "book_nr": "61",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/61/3.json",
+    "sha": "f7023036ab41b9bb19b2c8740845a284a2126965",
+    "id": "3"
+  }
+}

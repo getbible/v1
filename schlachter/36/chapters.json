@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/36/1.json",
+    "sha": "744b01e3aa5ae7b6b1a3cd44d6a8a8b3f9439a4d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/36/2.json",
+    "sha": "92bdb1a18bb6b3a7c31df5284eb3b16e60ae3cd3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/36/3.json",
+    "sha": "01048c6cc1291c3195ac0645b495591c7df89210",
+    "id": "3"
+  }
+}

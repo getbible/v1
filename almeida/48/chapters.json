@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/almeida/48/1.json",
+    "sha": "890a774ff3f160dbd8d8907e515f01164ef826ff",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/almeida/48/2.json",
+    "sha": "b70a11f3e5dc5de7a69814ce546cffa88185d6ca",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/almeida/48/3.json",
+    "sha": "615bac605c2103fdb83afee2432291ec60ffb756",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/almeida/48/4.json",
+    "sha": "11253c4e647e2971e6da2c51654f6ce8f40955fa",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/almeida/48/5.json",
+    "sha": "d43ff6af85ddd756848b4872ae7e26530c715add",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/almeida/48/6.json",
+    "sha": "e313f43338eede4e5818b36eaea37156c261fe4e",
+    "id": "6"
+  }
+}

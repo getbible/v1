@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	French	Ostervald (1996 revision)	ostervald	LTR	Genesis	1	35be09fcb3b08846e3d7dd2663b3611ed687b0e4
+2	French	Ostervald (1996 revision)	ostervald	LTR	Exodus	2	456b27ebdf1cbf91c2c72e57f032a7464e352dc5
+3	French	Ostervald (1996 revision)	ostervald	LTR	Leviticus	3	4c338e51a2ed083155ba2d3e73ece8a55cb753fd
+4	French	Ostervald (1996 revision)	ostervald	LTR	Numbers	4	ba3038c554a0f6a02ab4ce65de71035906938917
+5	French	Ostervald (1996 revision)	ostervald	LTR	Deuteronomy	5	5ecb399eb4f65f7f4e493a28b37d1d89f5bfca7a
+6	French	Ostervald (1996 revision)	ostervald	LTR	Joshua	6	17aed2f4591f991a9e2c2200e24ae38252aec98b
+7	French	Ostervald (1996 revision)	ostervald	LTR	Judges	7	d3b2b05fabd155b85d6f65b68be69d5bbff547ab
+8	French	Ostervald (1996 revision)	ostervald	LTR	Ruth	8	0ef9de49d3d380c962c1c186737b3f6acd7cf194
+9	French	Ostervald (1996 revision)	ostervald	LTR	1 Samuel	9	d19e39e5af6dcdd95a1f78df0c10c967b6f44806
+10	French	Ostervald (1996 revision)	ostervald	LTR	2 Samuel	10	3163ec8f1bba2a7048f2d94a84392488e5b23d0a
+11	French	Ostervald (1996 revision)	ostervald	LTR	1 Kings	11	158f7ea6193c8441f9843f410011cbdd26d69c1f
+12	French	Ostervald (1996 revision)	ostervald	LTR	2 Kings	12	ff9c7f7b1e60f203e9f91061c4e3b12288d04a8a
+13	French	Ostervald (1996 revision)	ostervald	LTR	1 Chronicles	13	6674051cfaf96d4ee3a6e19fef67064a9fd7931b
+14	French	Ostervald (1996 revision)	ostervald	LTR	2 Chronicles	14	0c32b76e4244190b80cc9936b674ba15e0216c83
+15	French	Ostervald (1996 revision)	ostervald	LTR	Ezra	15	b5806df1a2166891d1062dedeae6d384b079be45
+16	French	Ostervald (1996 revision)	ostervald	LTR	Nehemiah	16	7c15feebfeb16df17ae35bc6e76224ddcb5e75af
+17	French	Ostervald (1996 revision)	ostervald	LTR	Esther	17	9b07e556381907237101e7ef682d1af60f4a91e0
+18	French	Ostervald (1996 revision)	ostervald	LTR	Job	18	cdf73d84c0062301c97cee01b45623a6c1312fb5
+19	French	Ostervald (1996 revision)	ostervald	LTR	Psalms	19	c62179d720ca265336e5a0e20365003caf1bb7cb
+20	French	Ostervald (1996 revision)	ostervald	LTR	Proverbs	20	15746e8364a9aefa31377c26d97d31aaafcb0c82
+21	French	Ostervald (1996 revision)	ostervald	LTR	Ecclesiastes	21	70bb6183d298b04e6ff6dfd0dcaaad6153fc50f8
+22	French	Ostervald (1996 revision)	ostervald	LTR	Song of Songs	22	5a7a2eb0aff913f98a5d9bf4f14ee0ae86942609
+23	French	Ostervald (1996 revision)	ostervald	LTR	Isaiah	23	bc2ed7d2d15802b67645e9c6eea710d2fa170931
+24	French	Ostervald (1996 revision)	ostervald	LTR	Jeremiah	24	89220dac26d60ed9ad02e647724d5ba6b0b320db
+25	French	Ostervald (1996 revision)	ostervald	LTR	Lamentations	25	7022a353adedf7224d7afd1964a1f54af08cdc20
+26	French	Ostervald (1996 revision)	ostervald	LTR	Ezekiel	26	411239a495350377c5add30ec30b1614079cba91
+27	French	Ostervald (1996 revision)	ostervald	LTR	Daniel	27	e1b4cdb987042986cb0d9cd6f338f03c253c6cab
+28	French	Ostervald (1996 revision)	ostervald	LTR	Hosea	28	0fe549d01540ae4418aa44b741d1b3dd1b41c8b6
+29	French	Ostervald (1996 revision)	ostervald	LTR	Joel	29	71973564a13a46a27d6c655097a72b4eabf7083c
+30	French	Ostervald (1996 revision)	ostervald	LTR	Amos	30	fa89b6ff61e2c598eed5f3c3aabdda1ef00d6a7c
+31	French	Ostervald (1996 revision)	ostervald	LTR	Obadiah	31	29c6590cd0c58802a78990ff22ee5660514fa50a
+32	French	Ostervald (1996 revision)	ostervald	LTR	Jonah	32	4394c61a23468f3ad81d1ae6821ceb2a305a46e7
+33	French	Ostervald (1996 revision)	ostervald	LTR	Micah	33	6c89fbe10fb1c632690772085ebf0e8392ed820d
+34	French	Ostervald (1996 revision)	ostervald	LTR	Nahum	34	ff4b30babf4a8a432804c7f48c0818a9af92a84f
+35	French	Ostervald (1996 revision)	ostervald	LTR	Habakkuk	35	819642638cd396c67e71385a3932bb486181697a
+36	French	Ostervald (1996 revision)	ostervald	LTR	Zephaniah	36	68da3a9f839edb7f27f1147d6e5f460d7e987fa6
+37	French	Ostervald (1996 revision)	ostervald	LTR	Haggai	37	f3e280741297549cfa577ae8df751618e4d023ca
+38	French	Ostervald (1996 revision)	ostervald	LTR	Zechariah	38	6358be320432e2ecb487f2fcd5ad16a85ae7e15d
+39	French	Ostervald (1996 revision)	ostervald	LTR	Malachi	39	b80872a8e2a95098fd9c40d5217f3b9055af85de
+40	French	Ostervald (1996 revision)	ostervald	LTR	Matthew	40	9a2d98231b636d06bdfa89b142517d07dcb32f8a
+41	French	Ostervald (1996 revision)	ostervald	LTR	Mark	41	c239fcd614d5e19a787e7c54e4153edea4d8978e
+42	French	Ostervald (1996 revision)	ostervald	LTR	Luke	42	a298463a3e75c8c35d9c88cd5fa41d7a06f005ae
+43	French	Ostervald (1996 revision)	ostervald	LTR	John	43	bcfe7756f8e956f48f2a538920811798e338614c
+44	French	Ostervald (1996 revision)	ostervald	LTR	Acts	44	6d4a68a43483fdaefdbdf4ba2b28f63c6b49b9af
+45	French	Ostervald (1996 revision)	ostervald	LTR	Romans	45	2622c38a1cb851ef908de834cf15749fbbd626cc
+46	French	Ostervald (1996 revision)	ostervald	LTR	1 Corinthians	46	c0b0872010cf2891c3c3ec4ab6dfe5a1fc861300
+47	French	Ostervald (1996 revision)	ostervald	LTR	2 Corinthians	47	c214c225df761363881ce9a1485687bd5adcbf82
+48	French	Ostervald (1996 revision)	ostervald	LTR	Galatians	48	cc761790ce46ce235ff8dfa45829b61e6a7df3da
+49	French	Ostervald (1996 revision)	ostervald	LTR	Ephesians	49	a72335ae4301c2365d50df184aec363b1f415e27
+50	French	Ostervald (1996 revision)	ostervald	LTR	Philippians	50	48563ff1f6f802d47d18e51508eac73dc0656baa
+51	French	Ostervald (1996 revision)	ostervald	LTR	Colossians	51	b49297c074ce267cc9e4cc8aeeb469b014987236
+52	French	Ostervald (1996 revision)	ostervald	LTR	1 Thessalonians	52	08ac25217c6a8ae8610bc049852976b1456fa9de
+53	French	Ostervald (1996 revision)	ostervald	LTR	2 Thessalonians	53	9d3c150ef31db3f73e6fadf51a40269966ddea08
+54	French	Ostervald (1996 revision)	ostervald	LTR	1 Timothy	54	b966efabbbfd2884cd7c6c40f5c02e64a403f851
+55	French	Ostervald (1996 revision)	ostervald	LTR	2 Timothy	55	8149f9000f53811d60939a52ba512319da2a0c5a
+56	French	Ostervald (1996 revision)	ostervald	LTR	Titus	56	4b73e4450a170d6319c7f9c6d0debf9071b98d0c
+57	French	Ostervald (1996 revision)	ostervald	LTR	Philemon	57	fbb79d431f1e175079dacb3cb0bb8bff40f7b4a6
+58	French	Ostervald (1996 revision)	ostervald	LTR	Hebrews	58	e29afa485a14febed05f67e95b174d58ea3ebc66
+59	French	Ostervald (1996 revision)	ostervald	LTR	James	59	e3ecc284901a979e1b61a3560d95bb9e0322a7dc
+60	French	Ostervald (1996 revision)	ostervald	LTR	1 Peter	60	dc8b368ea197a1cd48f4c0cd27d9d47b829e7c52
+61	French	Ostervald (1996 revision)	ostervald	LTR	2 Peter	61	33249406799234f7b11f7c8bfeb511f72fd226a7
+62	French	Ostervald (1996 revision)	ostervald	LTR	1 John	62	68a42d203404916b7efff78737e8200ad4618bc1
+63	French	Ostervald (1996 revision)	ostervald	LTR	2 John	63	2c5f5751ec20fa300fc72a5452228e2954f94430
+64	French	Ostervald (1996 revision)	ostervald	LTR	3 John	64	cec7e23eaacc030b22d2b5d1cb53f74bcda3866d
+65	French	Ostervald (1996 revision)	ostervald	LTR	Jude	65	dec197c8f1d2ef934476f05c8fbead33786e32fe
+66	French	Ostervald (1996 revision)	ostervald	LTR	Revelation	66	c7796dc3c2021fc2a17ec507c721fc998cf56cd1
+

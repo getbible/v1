@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/almeida/36/1.json",
+    "sha": "f5c4384423832e18aa672371cce82d40520af03f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/almeida/36/2.json",
+    "sha": "4f503a81358b94637fddb4b9c2e42b207ecbbba8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zephaniah",
+    "book_nr": "36",
+    "language": "Portuguese",
+    "translation": "Almeida Atualizada",
+    "abbreviation": "almeida",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/almeida/36/3.json",
+    "sha": "3d87cfa4d84f81b2da848f68267a5437a1621a8f",
+    "id": "3"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/thai/33/1.json",
+    "sha": "c9aa973c8d2fa98ed2b21bc828d5a60b878a58bb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/thai/33/2.json",
+    "sha": "b9929a5ff97658547c9e40302335c50ff4d6774e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/thai/33/3.json",
+    "sha": "e57e760f5fd9bf2aa45646900af95114359b4ab4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/thai/33/4.json",
+    "sha": "026688dc1cc691bd6dc70d692e5d2029f9a5a04f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/thai/33/5.json",
+    "sha": "000001e1d24db5a4bc518ad82a250092e8d6132a",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/thai/33/6.json",
+    "sha": "a381d95bfe3fadcff2c47d893960d79e37b5ee93",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Thai",
+    "translation": "Thai from kjv",
+    "abbreviation": "thai",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/thai/33/7.json",
+    "sha": "52f86ac8083db7dcc00c89c360e9755d5a47da1f",
+    "id": "7"
+  }
+}

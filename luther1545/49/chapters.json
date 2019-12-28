@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/49/1.json",
+    "sha": "5cea8ddbfc6aee8565d9dcab0747f2dcba1d483b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/49/2.json",
+    "sha": "a4a5cf835333a63ba3d55fc53186ad06eb837656",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/49/3.json",
+    "sha": "f13ea991cc8e600e7fd2116747033547af38a697",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/49/4.json",
+    "sha": "da1a957a8b76f0b0cc3b7785c6fe723ed6705120",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/49/5.json",
+    "sha": "ad8feef5c276ad818c44c4719e84ff98be4d1b2b",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/luther1545/49/6.json",
+    "sha": "8f9f560eddc65ce6b489863262ead14f5e307feb",
+    "id": "6"
+  }
+}

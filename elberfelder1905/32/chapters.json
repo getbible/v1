@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/32/1.json",
+    "sha": "6cf769ba526eb70bec04906cc8d0d30011636cd0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/32/2.json",
+    "sha": "8791f0abf32dc43355c19adfc494c6693890e76d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/32/3.json",
+    "sha": "041d65fe4a023acb4f7c10a052a686f0a1a43775",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jona",
+    "book_nr": "32",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/32/4.json",
+    "sha": "9fdc34993d31d2ef21ea508e049cb720209d49f0",
+    "id": "4"
+  }
+}

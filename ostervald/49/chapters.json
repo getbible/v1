@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ostervald/49/1.json",
+    "sha": "29ad56829d3dccb52965f042bc50d3e2b207bf92",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ostervald/49/2.json",
+    "sha": "49fb18ae638832f0b70d25eb0cc81fd4b83454d2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ostervald/49/3.json",
+    "sha": "3d4a21a404408952ea6e6d59ec0f9e6745ca3740",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ostervald/49/4.json",
+    "sha": "fb884c2330a83b083833dc6efc6205250c984046",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ostervald/49/5.json",
+    "sha": "6ba10018f971ba82f0e42754b49e34b997f37c0b",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/ostervald/49/6.json",
+    "sha": "f782b0753569593bc8906bc6c59bce43b4e2925a",
+    "id": "6"
+  }
+}

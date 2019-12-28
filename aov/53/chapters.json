@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Thessalonicense",
+    "book_nr": "53",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/53/1.json",
+    "sha": "3d5155383fd7a7bba1cf9f72c43b9ea0c81e63ad",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Thessalonicense",
+    "book_nr": "53",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/53/2.json",
+    "sha": "871a05cc93ee0195d0c82447a747cb723522ca50",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Thessalonicense",
+    "book_nr": "53",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/53/3.json",
+    "sha": "3cb48ab4ca62e0e592a5f9a7151aa303a7982607",
+    "id": "3"
+  }
+}

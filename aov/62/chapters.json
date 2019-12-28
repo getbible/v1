@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Johannes",
+    "book_nr": "62",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/62/1.json",
+    "sha": "bcf8ac7ec91bb9cad19b602f01a89b9c5b7253eb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Johannes",
+    "book_nr": "62",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/62/2.json",
+    "sha": "ecefe3d6074468b14015e3abe48d25b3a867abb3",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Johannes",
+    "book_nr": "62",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/62/3.json",
+    "sha": "c2c6353b9e65527913dab76229ee4356df2a691f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Johannes",
+    "book_nr": "62",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/62/4.json",
+    "sha": "e0759f35dc7aadc62cd5bddbf0810a7df3be0cb0",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Johannes",
+    "book_nr": "62",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/62/5.json",
+    "sha": "f8f93692817e5f317d68057b7b08d398378de924",
+    "id": "5"
+  }
+}

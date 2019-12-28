@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/33/1.json",
+    "sha": "9de1450e0496c27e621cd08b74f2bb830ea3a718",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/33/2.json",
+    "sha": "eed697e49d3c327954c7a2f9a06bf52fc3c6045d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/33/3.json",
+    "sha": "843ab1233b77f6f39ef582b8c0fe065529f755e2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/33/4.json",
+    "sha": "1dd21e9cbb2681b3d5bc5d9c9061d0ee9f221b31",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/33/5.json",
+    "sha": "ea93190eccd39010896f5b3ce0f83ad5e3747ad4",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/schlachter/33/6.json",
+    "sha": "129ce62fda3047a4eca1508fa3e7272eda1f9064",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/schlachter/33/7.json",
+    "sha": "c47a6bf59a117401309181783c339c4763db0bbf",
+    "id": "7"
+  }
+}

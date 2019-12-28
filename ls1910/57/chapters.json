@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philemon",
+    "book_nr": "57",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/57/1.json",
+    "sha": "deffc33b07e74cec70fb44c32b896f82e34814f3",
+    "id": "1"
+  }
+}

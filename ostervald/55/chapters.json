@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ostervald/55/1.json",
+    "sha": "52489f879b58143eb58a857a360679409132a88b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ostervald/55/2.json",
+    "sha": "82347ec120e6b596d513736e52f6f82a0f0d40c0",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ostervald/55/3.json",
+    "sha": "98b358bb778f1429aa858cc9f27b65a01863cadb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2 Timothy",
+    "book_nr": "55",
+    "language": "French",
+    "translation": "Ostervald (1996 revision)",
+    "abbreviation": "ostervald",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ostervald/55/4.json",
+    "sha": "5e7971dd0fffd115bfa8cf80d209fd32e361fe76",
+    "id": "4"
+  }
+}

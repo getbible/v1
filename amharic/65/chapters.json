@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jude",
+    "book_nr": "65",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/65/1.json",
+    "sha": "fba70f687d3c104225cf0b9c49ff5eca53f8ac44",
+    "id": "1"
+  }
+}

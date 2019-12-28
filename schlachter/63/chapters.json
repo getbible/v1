@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Johannes",
+    "book_nr": "63",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/63/1.json",
+    "sha": "f31ce63a57d1d245e6205b300d4426ea1861cdf5",
+    "id": "1"
+  }
+}

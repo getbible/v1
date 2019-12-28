@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tamajaq/56/1.json",
+    "sha": "590e0d51d19a775bcc9c21177c5b3b507e881f43",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tamajaq/56/2.json",
+    "sha": "523b6414700906844faaadc643530cbbfed0a425",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tamajaq/56/3.json",
+    "sha": "13915ad48c5442b5a9e50f041ae82ec536de57e3",
+    "id": "3"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/gothic/48/1.json",
+    "sha": "d2171a48927eb6a5646c9f40b4eb61065c49481f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/gothic/48/2.json",
+    "sha": "50b5b9ca82df0afdf2304ba451667b13a0091d75",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/gothic/48/3.json",
+    "sha": "e67c6beb7815d948fcd62f8bdfa87ed19b2da751",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/gothic/48/4.json",
+    "sha": "bbd706897150a4b980a3abe3f76e2d1b908955ad",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/gothic/48/5.json",
+    "sha": "b85ea74c4b0f7c84b8698074693d4959ba3901d6",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/gothic/48/6.json",
+    "sha": "5459eb51cf81fb6a9304f8d9ef47918480596975",
+    "id": "6"
+  }
+}

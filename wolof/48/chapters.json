@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wolof/48/1.json",
+    "sha": "3bacfd1343f88a1b929a102b4523d6132e3a5a3d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wolof/48/2.json",
+    "sha": "7ad4da662a8e84e65438b41a4cfb0f16b546840d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wolof/48/3.json",
+    "sha": "00d2552d83e149603568f3244e640fb33bdf8798",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wolof/48/4.json",
+    "sha": "a63b360c4aaf056094006b2a880bbc1536ad3802",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wolof/48/5.json",
+    "sha": "a53f1ff3f421ee27aeaba42a09eb1f2e6a282c93",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/wolof/48/6.json",
+    "sha": "b7f6a6531822a00caf819ecb816dab09172929f6",
+    "id": "6"
+  }
+}

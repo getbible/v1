@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Judas",
+    "book_nr": "65",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/65/1.json",
+    "sha": "b9083250cfaf606d3c6ae8dc3df363e5c450450e",
+    "id": "1"
+  }
+}

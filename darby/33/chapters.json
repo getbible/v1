@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/darby/33/1.json",
+    "sha": "6bc8e15bc417734ee41478663d3766fbcffc3dcb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/darby/33/2.json",
+    "sha": "508a0b24f8867f0a524403ea6813fe58166ff5f5",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/darby/33/3.json",
+    "sha": "323d81952e12fc0a8fcccd8b155499696d65e3df",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/darby/33/4.json",
+    "sha": "40892446d5f4689e59999df6ee5cfb4cc3c31aa4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/darby/33/5.json",
+    "sha": "aa8b2383f02cd382bd626a25ad9113a9ffc13016",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/darby/33/6.json",
+    "sha": "6644af8de62619cebfb6beae9c60475ca66f3e37",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "French",
+    "translation": "Darby",
+    "abbreviation": "darby",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/darby/33/7.json",
+    "sha": "7ae0a62e1957c5c734e9aca74f7de2c11b7c28b5",
+    "id": "7"
+  }
+}

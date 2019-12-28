@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/manxgaelic/32/1.json",
+    "sha": "d1a80d432d069ea66a7ba748d00f0833a78e0074",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/manxgaelic/32/2.json",
+    "sha": "a09a394211d31f7112eb7785a83c56fb492bbc9b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/manxgaelic/32/3.json",
+    "sha": "6c00811c4652c51f74658d09a8638b3b5d0fe2e6",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Manx Gaelic",
+    "translation": "Manx Gaelic (Esther Jonah 4 Gospels)",
+    "abbreviation": "manxgaelic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/manxgaelic/32/4.json",
+    "sha": "d0c09d864fcfc71381ab278ccef67c214b10fa64",
+    "id": "4"
+  }
+}

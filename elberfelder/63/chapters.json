@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Johannes",
+    "book_nr": "63",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/63/1.json",
+    "sha": "0097721e03289cc4f8874f10f00ddd08a76d1c91",
+    "id": "1"
+  }
+}

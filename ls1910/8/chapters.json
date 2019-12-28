@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/8/1.json",
+    "sha": "f45554b888a977121d7fd37309de452a54311c00",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ls1910/8/2.json",
+    "sha": "d14bd04ad100aa3f6bf959616a23e9e6409b476a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ls1910/8/3.json",
+    "sha": "a98a120f21e6826897a5b95b8c6623634b034828",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ls1910/8/4.json",
+    "sha": "276623cbd8b8c001ae8956ac28d6eb6c1ca1c723",
+    "id": "4"
+  }
+}

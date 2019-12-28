@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/49/1.json",
+    "sha": "bbccd4617db2022fb9a39ea20f084e4b8e4e1dd0",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/amharic/49/2.json",
+    "sha": "8516b1afdc9536dd63a3e2db7fd50ebfd5c04b46",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/amharic/49/3.json",
+    "sha": "f01facb93134501213b1b3b20105b8ec6a3e501d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/amharic/49/4.json",
+    "sha": "b3f7547d62491f1492e714ca60831728aad97132",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/amharic/49/5.json",
+    "sha": "abed15fade018c54c0655f6c28f5aa89bb1088ff",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/amharic/49/6.json",
+    "sha": "a9e73242eaab1ba4a281da8cb6245428b6dee60d",
+    "id": "6"
+  }
+}

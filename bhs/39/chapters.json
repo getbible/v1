@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/bhs/39/1.json",
+    "sha": "36a5913cb0358fc8a9289db27875e70c900631a4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "2",
+    "url": "https://getbible.net/v1/bhs/39/2.json",
+    "sha": "03cf131d6f80d42391814d9fab5a29d5c747ee04",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Malachi",
+    "book_nr": "39",
+    "language": "Hebrew",
+    "translation": "OT BHS (Consonants and Vowels)",
+    "abbreviation": "bhs",
+    "textdirection": "RTL",
+    "filename": "3",
+    "url": "https://getbible.net/v1/bhs/39/3.json",
+    "sha": "d5195539960efd8463a4351754c5379634171c2b",
+    "id": "3"
+  }
+}

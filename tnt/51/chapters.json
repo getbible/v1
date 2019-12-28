@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tnt/51/1.json",
+    "sha": "ec3c197538ca7d5af64aa7ffa762cc8826a97274",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tnt/51/2.json",
+    "sha": "a29e383813ea4e8b7b6460369f92b2233474648d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tnt/51/3.json",
+    "sha": "7dcdc1fd2d779a8201018fe7cd987c7798b2387a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Colossians",
+    "book_nr": "51",
+    "language": "Turkish",
+    "translation": "NT (1987 1994)",
+    "abbreviation": "tnt",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tnt/51/4.json",
+    "sha": "0c29a3e2c3d25f785f785b847733c330c2faba22",
+    "id": "4"
+  }
+}

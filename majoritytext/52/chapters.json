@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/majoritytext/52/1.json",
+    "sha": "ef39ec792b0a2b044e07b501adddeff4f8f85c74",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/majoritytext/52/2.json",
+    "sha": "b13662d35673e2165ae53b3bc71e5c9592d424ff",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/majoritytext/52/3.json",
+    "sha": "517156bd20680a8d9741637b3ea2d5f25d5965b4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/majoritytext/52/4.json",
+    "sha": "85f675d6a07a920e0888000d117b0756b4886879",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000) Parsed",
+    "abbreviation": "majoritytext",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/majoritytext/52/5.json",
+    "sha": "321ac6517e4bc815048716b4be9a6fdfb25675d9",
+    "id": "5"
+  }
+}

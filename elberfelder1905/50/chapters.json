@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/50/1.json",
+    "sha": "d6b9ec86dc5e953f2720a70f4ee64e0a55ddce4c",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/50/2.json",
+    "sha": "dad2ae0e599b4f3f5a541291adefa3006f180cf6",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/50/3.json",
+    "sha": "4eea9c43cd25a8fbc123d38358712c59e86bf927",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philipper",
+    "book_nr": "50",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/50/4.json",
+    "sha": "2db853886e1511973acde1a0588c8be0aeae2cc4",
+    "id": "4"
+  }
+}

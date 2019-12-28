@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tamajaq/62/1.json",
+    "sha": "ac05b1b8738cd19cf30c48d700377ef4e491e109",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tamajaq/62/2.json",
+    "sha": "8c602983509c587b70703f8a0f01939e637a5e9e",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tamajaq/62/3.json",
+    "sha": "c28d9944daf4c1298ec9065baf10e8fdde42422c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tamajaq/62/4.json",
+    "sha": "d857ff11dbd613e7df619f726dd65a5a37d22256",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/tamajaq/62/5.json",
+    "sha": "bbea8ac7a177fcada83285e9df8bd5a9dc3eaeff",
+    "id": "5"
+  }
+}

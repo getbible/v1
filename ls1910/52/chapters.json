@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/ls1910/52/1.json",
+    "sha": "caaca4a92e1ff9fca903d9b95a0b13106b0e6e2e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/ls1910/52/2.json",
+    "sha": "7f7b8cf9fdedb2e4443acea0f4e3f9fdd14befdf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/ls1910/52/3.json",
+    "sha": "840c2a893c573370650fece4fe7dd604d49169c3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/ls1910/52/4.json",
+    "sha": "240b5faa10e48417e1c25e9b5247f51f24ae2a11",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "French",
+    "translation": "Louis Segond (1910)",
+    "abbreviation": "ls1910",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/ls1910/52/5.json",
+    "sha": "208c9a9ee084f3c4681cbef93a29b1482a27b29c",
+    "id": "5"
+  }
+}

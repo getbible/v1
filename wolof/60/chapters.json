@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wolof/60/1.json",
+    "sha": "b9a5aee9d3242447f7acd338785201192e35a640",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/wolof/60/2.json",
+    "sha": "50a5967a9fca580328e6e5e924cc4c098ee7c9da",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/wolof/60/3.json",
+    "sha": "9c7745ca60bd04f922feac9a0afce26bef591264",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/wolof/60/4.json",
+    "sha": "b1346c23be8f0e1e40ad6e34e93fcf5f40e37809",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "language": "Wolof",
+    "translation": "Wolof NT",
+    "abbreviation": "wolof",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/wolof/60/5.json",
+    "sha": "bc2a467e799e47ca6303666327fd28bdb76b8397",
+    "id": "5"
+  }
+}

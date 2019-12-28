@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Filemon",
+    "book_nr": "57",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/57/1.json",
+    "sha": "5ad35132cd17b153df18600aab728daf9a939520",
+    "id": "1"
+  }
+}

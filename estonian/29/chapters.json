@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/estonian/29/1.json",
+    "sha": "151bc9e367416ac0a1e532bf9055bc3e8bda0a88",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/estonian/29/2.json",
+    "sha": "25ec000bacaf094ff7823b49da34e5386da047ee",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/estonian/29/3.json",
+    "sha": "33aee34dd9c8f9fcff5197e4536a3afe084da96a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "language": "Estonian",
+    "translation": "Estonian",
+    "abbreviation": "estonian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/estonian/29/4.json",
+    "sha": "dda34fab7f0eddd42670231027b3c8397f9f063a",
+    "id": "4"
+  }
+}

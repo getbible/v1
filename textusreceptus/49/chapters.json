@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/49/1.json",
+    "sha": "c8d9b2f6df43900a8984318696b4ac1b93295514",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/textusreceptus/49/2.json",
+    "sha": "26b5f2a748ebffb872ac8d52d8f9eebee8e0d36a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/textusreceptus/49/3.json",
+    "sha": "a5516fd722e2be2577a65096b9f70c1b205b6dba",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/textusreceptus/49/4.json",
+    "sha": "e02daa540cf60fa38a1674167066bead098ea8aa",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/textusreceptus/49/5.json",
+    "sha": "8f78619943d3ec44e170f502811fb6b5455f427e",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/textusreceptus/49/6.json",
+    "sha": "c21a68979e60f56d598b6d8fd633d6029e2787b5",
+    "id": "6"
+  }
+}

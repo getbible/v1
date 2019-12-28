@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadja",
+    "book_nr": "31",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/31/1.json",
+    "sha": "0829b2e010ef84becc757e42d1a7812c539c419f",
+    "id": "1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccentspar/32/1.json",
+    "sha": "2bece7baf26c7a3e6f686a68e7db1f4dab9137ca",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccentspar/32/2.json",
+    "sha": "5dc0ce4a11aa04a344e01667aa0a50c3fa827dc8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccentspar/32/3.json",
+    "sha": "c63c7b1ea877a288c91de2599cbf901b0039b4ec",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Jonah",
+    "book_nr": "32",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccentspar/32/4.json",
+    "sha": "85501017d3fbf9fa08a45f58c1acb2f9956504d1",
+    "id": "4"
+  }
+}

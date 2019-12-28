@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/60/1.json",
+    "sha": "e99086f5020a7bbfc7cc38ab91e57440b7d1a771",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/60/2.json",
+    "sha": "f233b791fdfdfafdefd669ef4844d7c0e9444dfb",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/60/3.json",
+    "sha": "f037a77ab1be4176cc5ee326616f34013ef1ea5f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/60/4.json",
+    "sha": "13a0a466d4e1ef4f06965615fc7d0f313931413f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/60/5.json",
+    "sha": "a5ea334970be918bb113339075baea59c527a65d",
+    "id": "5"
+  }
+}

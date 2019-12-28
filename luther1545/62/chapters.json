@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/62/1.json",
+    "sha": "a307bfbceb682c4fa1d826d5fc68171691d63297",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/62/2.json",
+    "sha": "68f9acada38c67bf9d84bacd7d1fe326646a4c75",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/62/3.json",
+    "sha": "becb3ecaa35dd20e78d4f03969a2588d7256c512",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/62/4.json",
+    "sha": "f118f9ef7049360d6f6fcc2449910d8e089c575f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/62/5.json",
+    "sha": "0b419c05792fa54d5db03ab470948ca0dcca2890",
+    "id": "5"
+  }
+}

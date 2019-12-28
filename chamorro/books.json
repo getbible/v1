@@ -1,0 +1,68 @@
+{
+  "19": {
+    "name": "Psalms",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "19",
+    "url": "https://getbible.net/v1/chamorro/19.json",
+    "sha": "1d29c63181a37cab67d921992e0c7375b525360b",
+    "id": "19"
+  },
+  "40": {
+    "name": "Matthew",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "40",
+    "url": "https://getbible.net/v1/chamorro/40.json",
+    "sha": "203471e86acd0bc552eceb78f8c89d287db487f6",
+    "id": "40"
+  },
+  "41": {
+    "name": "Mark",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "41",
+    "url": "https://getbible.net/v1/chamorro/41.json",
+    "sha": "07e13e2cbfc6ddbd7b366874f827fcb269f377f3",
+    "id": "41"
+  },
+  "42": {
+    "name": "Luke",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "42",
+    "url": "https://getbible.net/v1/chamorro/42.json",
+    "sha": "e56519c7c09e671292df7dc84dbc4438e191ec30",
+    "id": "42"
+  },
+  "43": {
+    "name": "John",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "43",
+    "url": "https://getbible.net/v1/chamorro/43.json",
+    "sha": "f0f995413d83bafe3882578638cd5f5feb8947d4",
+    "id": "43"
+  },
+  "44": {
+    "name": "Acts",
+    "language": "Chamorro",
+    "translation": "(Psalms Gospels Acts)",
+    "abbreviation": "chamorro",
+    "textdirection": "LTR",
+    "filename": "44",
+    "url": "https://getbible.net/v1/chamorro/44.json",
+    "sha": "c53e46044a31e332276921d535b47f852527e3b0",
+    "id": "44"
+  }
+}

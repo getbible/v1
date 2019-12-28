@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/martin/59/1.json",
+    "sha": "5dd0c4bff93a1356272a49c38d981c84b2f7816f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/martin/59/2.json",
+    "sha": "84136d7289ce3e333bae82d8e8eae6fb7266c531",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/martin/59/3.json",
+    "sha": "db373f3569c2f2258644c4d731b8cb69d87bb019",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/martin/59/4.json",
+    "sha": "90ad107a8c3abb70c1afe3e47ae92fd31682a174",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "French",
+    "translation": "Martin (1744)",
+    "abbreviation": "martin",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/martin/59/5.json",
+    "sha": "4b339f369854a62d510f9bbe48b4ae25300081d2",
+    "id": "5"
+  }
+}

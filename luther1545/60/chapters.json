@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/60/1.json",
+    "sha": "bcdac9b74d6b735e2cf7bece45721f5f04ec4a37",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/60/2.json",
+    "sha": "f3ee69a04fea361bd3e4805c5a3117ae27ff5c32",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/60/3.json",
+    "sha": "c004fd0f37e6df0724c26140da309c6ee40290f1",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/60/4.json",
+    "sha": "558c90e63c9f3896d4eba8490273b0ad3ed9c78d",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/60/5.json",
+    "sha": "ffa0aed3c4798d3eb93ab229b84b265fb83261a4",
+    "id": "5"
+  }
+}

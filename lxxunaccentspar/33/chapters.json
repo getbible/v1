@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/1.json",
+    "sha": "ebdb5b1988e817f878569da2e5b90ef88bcaa557",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/2.json",
+    "sha": "21d1b63cb5910f6703f0e3315a68692e39e79123",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/3.json",
+    "sha": "1947245e1c3696805d8175e7970ef1cec8c4f543",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/4.json",
+    "sha": "cababa1d931818e120806d1cb0b42269557327e1",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/5.json",
+    "sha": "f09f9890bd480f03f89b21a5b4adadd27006d899",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/6.json",
+    "sha": "c8d237ecb3cc55bef0d92c3f144d4d66c25356d8",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micah",
+    "book_nr": "33",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/lxxunaccentspar/33/7.json",
+    "sha": "e26a1657f568151b91f0892218c9fd395cc19d28",
+    "id": "7"
+  }
+}

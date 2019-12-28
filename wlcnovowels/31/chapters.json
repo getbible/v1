@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadiah",
+    "book_nr": "31",
+    "language": "Hebrew",
+    "translation": "OT WLC (Consonants Only)",
+    "abbreviation": "wlcnovowels",
+    "textdirection": "RTL",
+    "filename": "1",
+    "url": "https://getbible.net/v1/wlcnovowels/31/1.json",
+    "sha": "cc418ddfcfc9c3c9c4187954d04809fed7f81157",
+    "id": "1"
+  }
+}

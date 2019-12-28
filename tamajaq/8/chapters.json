@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tamajaq/8/1.json",
+    "sha": "eefa4e3e1a4eba488e60b368857d61819ff5ff67",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tamajaq/8/2.json",
+    "sha": "ebb47064746f23fbb9e2dc5f1ec37d1e86957afd",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/tamajaq/8/3.json",
+    "sha": "47dc8fbe6864a714ff755585225f721a317f1b59",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/tamajaq/8/4.json",
+    "sha": "c6e3551738c7a358b51f11ef229e03b7d74b9358",
+    "id": "4"
+  }
+}

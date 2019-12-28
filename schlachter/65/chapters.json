@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Judas",
+    "book_nr": "65",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/65/1.json",
+    "sha": "cc791bd6d0929eb90165b2352ed0be83745015b2",
+    "id": "1"
+  }
+}

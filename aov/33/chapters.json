@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/33/1.json",
+    "sha": "fdc6c410da7815203aa1a9b3362dad489904f5ea",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/33/2.json",
+    "sha": "9c1c23ea38affadf88fcf434fb778e6d6a36356b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/33/3.json",
+    "sha": "02ac7b43c4d8594d4bb3285173fde179363deb99",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/33/4.json",
+    "sha": "e8b4518da03dbdc9cb652f2d403987b9d0bf2e9a",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/33/5.json",
+    "sha": "6fe4bd3854c2a88a66ebde996903d44e165d4787",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/aov/33/6.json",
+    "sha": "4aba19cd00e23ecf50e4cf9c2a2fb31f7425a60c",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Miga",
+    "book_nr": "33",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/aov/33/7.json",
+    "sha": "7b7ef91324b98f778980a9e3ab2802c76f42a176",
+    "id": "7"
+  }
+}

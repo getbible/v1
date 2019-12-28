@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/59/1.json",
+    "sha": "902e91b7e01569d1ef87de61f68034abe17cbe58",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/textusreceptus/59/2.json",
+    "sha": "209260b593eda1f20e3d09434d74a8359e8588a2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/textusreceptus/59/3.json",
+    "sha": "3ab891367b89b58a6ac326356632cdb8e2f216f0",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/textusreceptus/59/4.json",
+    "sha": "6bc8627eb735eaba44825f45e69d3589c37389c9",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "James",
+    "book_nr": "59",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/textusreceptus/59/5.json",
+    "sha": "99085a8aba6f1b03aa44b8e9743e3d83a619a166",
+    "id": "5"
+  }
+}

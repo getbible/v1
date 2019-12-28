@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/55/1.json",
+    "sha": "008f366387b7267e9f4631193fe9040fa3c7fa6d",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/55/2.json",
+    "sha": "828164fc4a8a921d6e503c84862a448720a622c1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/55/3.json",
+    "sha": "3e9f8426f44e60e456f1882c592bea5a0dbf04a3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/55/4.json",
+    "sha": "82e5ede8ca1e17373854258a8d607142c3bd6a29",
+    "id": "4"
+  }
+}

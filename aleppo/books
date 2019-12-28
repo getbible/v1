@@ -1,0 +1,64 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Hebrew	Aleppo Codex	aleppo	RTL	Genesis	1	9677f1504ada031f19115670955e41f9bb7ff97b
+2	Hebrew	Aleppo Codex	aleppo	RTL	Exodus	2	9036872bad83343b08dc27dd648addc742d8555b
+3	Hebrew	Aleppo Codex	aleppo	RTL	Leviticus	3	000c4b45ab66ff6404c1daf909a5a937107bee22
+4	Hebrew	Aleppo Codex	aleppo	RTL	Numbers	4	127e240c11c78b52484582e020e0a5c8a6c5f727
+5	Hebrew	Aleppo Codex	aleppo	RTL	Deuteronomy	5	b74a4f7c9d57966eb7b3eb17e5cfd20d27e345cb
+6	Hebrew	Aleppo Codex	aleppo	RTL	Joshua	6	09e96b1a86c8a649d4fd6e1f993a58fd0a0c6984
+7	Hebrew	Aleppo Codex	aleppo	RTL	Judges	7	5ebab0714c4de596371a6bfdfa0aa381b599c038
+8	Hebrew	Aleppo Codex	aleppo	RTL	Ruth	8	1b88aa79a25df8b68dfa5627636077c614fda14a
+9	Hebrew	Aleppo Codex	aleppo	RTL	1 Samuel	9	a897f99f1aabdb5b03facc8b014bdd762c87ce4d
+10	Hebrew	Aleppo Codex	aleppo	RTL	2 Samuel	10	3767ef80f21f1595f40598cc5009b03fe8e07d64
+11	Hebrew	Aleppo Codex	aleppo	RTL	1 Kings	11	7c264fdf4d62244368a1859010e6dc810bea892d
+12	Hebrew	Aleppo Codex	aleppo	RTL	2 Kings	12	0903b369e038de38be4659e7d55bbbb19a82ecfc
+13	Hebrew	Aleppo Codex	aleppo	RTL	1 Chronicles	13	6b366da9025b8febb64f9f0c8404c91ea6180632
+14	Hebrew	Aleppo Codex	aleppo	RTL	2 Chronicles	14	c7c2cbc3fa94ced17be75aa4f67ab9650ad4663d
+15	Hebrew	Aleppo Codex	aleppo	RTL	Ezra	15	ba2fe9ec0273274116764e6ea0a1747b3ea2c6a0
+16	Hebrew	Aleppo Codex	aleppo	RTL	Nehemiah	16	ac6acb41f1328700ada4bf856454f846fabc761d
+17	Hebrew	Aleppo Codex	aleppo	RTL	Esther	17	112fda5fe75e573b5222c26cc8ce40d26b6f21e4
+18	Hebrew	Aleppo Codex	aleppo	RTL	Job	18	c218655865b28030af387c2ff2293ff1c748106a
+19	Hebrew	Aleppo Codex	aleppo	RTL	Psalms	19	4dc610814baad6a7f4cb8e1c2f667af4a071b936
+20	Hebrew	Aleppo Codex	aleppo	RTL	Proverbs	20	3fac5e1c8128698898ece9b8d95b1e368480af5e
+21	Hebrew	Aleppo Codex	aleppo	RTL	Ecclesiastes	21	2bf14d75fd4b4987956d96c0ac7e1feaf89947f1
+22	Hebrew	Aleppo Codex	aleppo	RTL	Song of Songs	22	23032d9eda744389e5133fa5cb266d578f87f523
+23	Hebrew	Aleppo Codex	aleppo	RTL	Isaiah	23	c257da63dadba1783d71d6e99d20d6bc34b9f1bf
+24	Hebrew	Aleppo Codex	aleppo	RTL	Jeremiah	24	a2daaf3977bbebb77a8b126c7a5f1c7df37f13e8
+25	Hebrew	Aleppo Codex	aleppo	RTL	Lamentations	25	dedb95a9c63aa454b447d63b8edb6962e3451362
+26	Hebrew	Aleppo Codex	aleppo	RTL	Ezekiel	26	23bb6525ac050560d19a1d93a67fa51493929ce0
+27	Hebrew	Aleppo Codex	aleppo	RTL	Daniel	27	c8d97fd456bc876b1001b31bed9b2163e3e301f5
+28	Hebrew	Aleppo Codex	aleppo	RTL	Hosea	28	359183d3e39943a88de04c34a0c7e00151e43655
+29	Hebrew	Aleppo Codex	aleppo	RTL	Joel	29	ff3f01665ae1cf7036644300db7e39c9c07546b7
+30	Hebrew	Aleppo Codex	aleppo	RTL	Amos	30	ef8e565bbfcce2decbb7237056ca2a9f5dc51b2c
+31	Hebrew	Aleppo Codex	aleppo	RTL	Obadiah	31	8cea41f0adc6d067053fa9491f2fe0d623ff0ade
+32	Hebrew	Aleppo Codex	aleppo	RTL	Jonah	32	88e98617a387b0e5950cc4a0503ab4e0e210d15c
+33	Hebrew	Aleppo Codex	aleppo	RTL	Micah	33	4b9fbbf9fedb719f69c7c7981a26bfee04cc0953
+34	Hebrew	Aleppo Codex	aleppo	RTL	Nahum	34	cde0af5894ad83fc0eec1ce0f0fe92ea870a9585
+35	Hebrew	Aleppo Codex	aleppo	RTL	Habakkuk	35	2f91b89911c245a7564fc7200986d605e1b27b93
+36	Hebrew	Aleppo Codex	aleppo	RTL	Zephaniah	36	623634ed5ff528977fadde58b2ebc9070e4e1ff7
+37	Hebrew	Aleppo Codex	aleppo	RTL	Haggai	37	804f4c9a8e8f4af9b60a38e93d6593a00151db96
+38	Hebrew	Aleppo Codex	aleppo	RTL	Zechariah	38	732ce505cb65366396c44d6e2a00949691fce288
+39	Hebrew	Aleppo Codex	aleppo	RTL	Malachi	39	9feca9e787b36466d00a18e5539325517feb5851
+40	Hebrew	Aleppo Codex	aleppo	RTL	Matthew	40	f10f3726c10c46e2e36bb3fa30d84035c3b32de6
+41	Hebrew	Aleppo Codex	aleppo	RTL	Mark	41	9a18dbbd5b75fbc05b509de898b34e16b892d3ab
+42	Hebrew	Aleppo Codex	aleppo	RTL	Luke	42	ed57db7ae3f6a5f4a78b0c6f3b296179a6cb0fa8
+43	Hebrew	Aleppo Codex	aleppo	RTL	John	43	38ff777f592497d372e22ae1fc8e52758ae7b047
+44	Hebrew	Aleppo Codex	aleppo	RTL	Acts	44	6e635676b4f1fdf6d834fecea374acbf5fa9d037
+45	Hebrew	Aleppo Codex	aleppo	RTL	Romans	45	1e7b584b8ea2cd8511400fcc60f609ba2df6bfae
+46	Hebrew	Aleppo Codex	aleppo	RTL	1 Corinthians	46	acb5f96f91f23f00991078d8d5a09ebd7b9ea7fa
+47	Hebrew	Aleppo Codex	aleppo	RTL	2 Corinthians	47	67f854455085d088c0dcefd3e96515952f0615ea
+48	Hebrew	Aleppo Codex	aleppo	RTL	Galatians	48	42bed60df01ea4f9e6c02cfd653b5fa463237f27
+49	Hebrew	Aleppo Codex	aleppo	RTL	Ephesians	49	de129b5d15c2a7980ea16d2866157363e871d5d1
+50	Hebrew	Aleppo Codex	aleppo	RTL	Philippians	50	0cd3b2e64deae4bc18efed773799cef7b3bf227f
+51	Hebrew	Aleppo Codex	aleppo	RTL	Colossians	51	797f882336ac8de3a8af762b100533181370b600
+52	Hebrew	Aleppo Codex	aleppo	RTL	1 Thessalonians	52	aad984ac47fe657e59e5c3e30ee626113d2f72e2
+53	Hebrew	Aleppo Codex	aleppo	RTL	2 Thessalonians	53	7a644ebd311a0e0dbaae12952feebd0b15260034
+54	Hebrew	Aleppo Codex	aleppo	RTL	1 Timothy	54	b2c68ceea82f5ac0a9cc66ec8c523b8c4c473e75
+55	Hebrew	Aleppo Codex	aleppo	RTL	2 Timothy	55	d57342f75d976dcb43b86e3c9bcf5d0c3133e7eb
+56	Hebrew	Aleppo Codex	aleppo	RTL	Titus	56	fa495129c98c2cca1852d451f6d82216139ab564
+58	Hebrew	Aleppo Codex	aleppo	RTL	Hebrews	58	897b1e2c4584bdc396186659129a5b03ce46da94
+59	Hebrew	Aleppo Codex	aleppo	RTL	James	59	79839643559f45120e15db2bd73e01ac6a3261b2
+60	Hebrew	Aleppo Codex	aleppo	RTL	1 Peter	60	dff197251ad0bfb6475a6b1466fda9cd256e3757
+61	Hebrew	Aleppo Codex	aleppo	RTL	2 Peter	61	775bc926f6642fc10c1f8fa4d2ef35f28fd3ca3d
+62	Hebrew	Aleppo Codex	aleppo	RTL	1 John	62	cb8f10bbfaa348c0c983445d42b5dedf83212fbb
+66	Hebrew	Aleppo Codex	aleppo	RTL	Revelation	66	5ee0cff70976a7d312af7ab6cd3cc6ee50cd8ebe
+

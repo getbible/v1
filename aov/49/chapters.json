@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/49/1.json",
+    "sha": "4f901fd11c7abbd1ea42d31d0a021a8de836c939",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/49/2.json",
+    "sha": "2675966dc384b92f6b043cee7c3d783bef773b98",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/49/3.json",
+    "sha": "0d6a417c318473a11fb2918f4803ed57097346f3",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/49/4.json",
+    "sha": "1543e34838ce74a0047d98b3ceeeae7b2f8d1d9f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/49/5.json",
+    "sha": "f26d7045d0021ebc969ffc7f3bc058b01ab7e40f",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Efesiërs",
+    "book_nr": "49",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/aov/49/6.json",
+    "sha": "06a86397fbaaaf6a928630f718eb2c3f8c5ab0f6",
+    "id": "6"
+  }
+}

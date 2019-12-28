@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/52/1.json",
+    "sha": "dbb56f3c49d99958c923795f51ba0dd2b70da952",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/52/2.json",
+    "sha": "203c637cdf6448ea119ac1b26754acf83f0a841b",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/52/3.json",
+    "sha": "1b703222a6236046c06f947cf016a6f633a22aaf",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/52/4.json",
+    "sha": "3cc564d58009cef9ffcc4d81400f832fd1c044ea",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/52/5.json",
+    "sha": "870f56b46dd5ecac4c8523cba9c17187f339d866",
+    "id": "5"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/amharic/61/1.json",
+    "sha": "66ee54af6d8edc37204b81f96f6f9e61c2de8d01",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/amharic/61/2.json",
+    "sha": "170676761ca23413c25a24969894e4fcdd2f5422",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Peter",
+    "book_nr": "61",
+    "language": "Amharic",
+    "translation": "Amharic NT",
+    "abbreviation": "amharic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/amharic/61/3.json",
+    "sha": "2eb35124170cd3f0e97250fac380d0caed80e4cc",
+    "id": "3"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/rv1858/50/1.json",
+    "sha": "0a9100134380d7c1ec71a25ab83ab2b2d1b490c9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/rv1858/50/2.json",
+    "sha": "d601cee4992ade8868110376ba11c8d54bc49814",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/rv1858/50/3.json",
+    "sha": "b3cb2e06c72cbcb3af922eee4b264c04497239c5",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Philippians",
+    "book_nr": "50",
+    "language": "Spanish",
+    "translation": "Reina Valera NT (1858)",
+    "abbreviation": "rv1858",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/rv1858/50/4.json",
+    "sha": "ddfe78b91a84397fd9d3ff80f8bcf30188bfe0e0",
+    "id": "4"
+  }
+}

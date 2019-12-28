@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadja",
+    "book_nr": "31",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/31/1.json",
+    "sha": "7d893daaa08ce75140ca1d592a5ea430135dc1c0",
+    "id": "1"
+  }
+}

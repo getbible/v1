@@ -1,0 +1,28 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/lxxunaccentspar/37/1.json",
+    "sha": "fb31e79b2b9fd0717becb028a24651a251cd0ca9",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Haggai",
+    "book_nr": "37",
+    "language": "Greek",
+    "translation": "OT LXX Unaccented Roots Parsing",
+    "abbreviation": "lxxunaccentspar",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/lxxunaccentspar/37/2.json",
+    "sha": "047ec7a0cea1b5b294c8c56deca4f6792ea7cb62",
+    "id": "2"
+  }
+}

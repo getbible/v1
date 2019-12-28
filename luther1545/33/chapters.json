@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/33/1.json",
+    "sha": "2cc49c4ca3eb11059bf6c338d152152b864f944b",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/33/2.json",
+    "sha": "6dce1daa235b43d0bb012310c03bfede600f67a2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/33/3.json",
+    "sha": "a09b30e572a545be9b5c8dfed7a96246fb22ddaa",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/33/4.json",
+    "sha": "aa54e9e3d177fe95fe3e9226b70c51470c42c3c2",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/33/5.json",
+    "sha": "5029bf5cd46a488f7fc2c6bedae592ba2b516680",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/luther1545/33/6.json",
+    "sha": "37b5961d1dddba26d2e41b7a28413b8a7b02522c",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/luther1545/33/7.json",
+    "sha": "80a44629bde790387c01a05da7613a53697c6bf9",
+    "id": "7"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/39/1.json",
+    "sha": "93e225cb7024dcf101dde323728ac3bdd7d2013f",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/39/2.json",
+    "sha": "908ded36ab7035a04dfc348697e2ac9d3f139acf",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/39/3.json",
+    "sha": "007aecb8a1536211bff1353685fa79ad2a8f06f9",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/39/4.json",
+    "sha": "b437791cfd2b1ff2946c8703132f8285e7ad6db8",
+    "id": "4"
+  }
+}

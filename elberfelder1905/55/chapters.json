@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/55/1.json",
+    "sha": "029371d2d37723ffdbf22d2a1df591e1fbfb7358",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/55/2.json",
+    "sha": "3e7a0fac4e3e4e6002673f66d1afc67d60721c62",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/55/3.json",
+    "sha": "6ee2be8ae073195c41c42a3b6a781947cfcbce74",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "2. Timotheus",
+    "book_nr": "55",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/55/4.json",
+    "sha": "f65f749e03a4214d2c2ed55fef5f1d8029790faa",
+    "id": "4"
+  }
+}

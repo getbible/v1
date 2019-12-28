@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/gothic/56/1.json",
+    "sha": "179679549f899ae3d022258b255bbbed2cc1ea4e",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/gothic/56/2.json",
+    "sha": "f10e1ed2067f069202746786aeb4c67095c23945",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Gothic",
+    "translation": "Gothic (Nehemiah NT Portions)",
+    "abbreviation": "gothic",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/gothic/56/3.json",
+    "sha": "f11e0f3ef363632a55aefb77dfde49f4771550fc",
+    "id": "3"
+  }
+}

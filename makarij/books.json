@@ -1,0 +1,57 @@
+{
+  "1": {
+    "name": "Genesis",
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/makarij/1.json",
+    "sha": "c6f33b44efbbc3b9ca0699a705b4d4b2c0e876d6",
+    "id": "1"
+  },
+  "2": {
+    "name": "Exodus",
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/makarij/2.json",
+    "sha": "97c3da92f8fdcf8595be3d82c011b9c06f04aba1",
+    "id": "2"
+  },
+  "3": {
+    "name": "Leviticus",
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/makarij/3.json",
+    "sha": "4dcf84abba60dfe59a5fbcb5312ecbaca896e478",
+    "id": "3"
+  },
+  "4": {
+    "name": "Numbers",
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/makarij/4.json",
+    "sha": "deb56fc3c27419d31af71ad92130f9da51f0638f",
+    "id": "4"
+  },
+  "5": {
+    "name": "Deuteronomy",
+    "language": "Russian",
+    "translation": "Makarij Translation Pentateuch (1825)",
+    "abbreviation": "makarij",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/makarij/5.json",
+    "sha": "c53d108e57c0cf6d34cc39321271fd1a0e7b1b95",
+    "id": "5"
+  }
+}

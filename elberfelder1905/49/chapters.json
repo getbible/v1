@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/49/1.json",
+    "sha": "3e58e6f19aba1efa10295461951a792db7331292",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/49/2.json",
+    "sha": "b8cd9fe3c9554822c7d24d69ff66fa34355f4785",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/49/3.json",
+    "sha": "e96498f6163eb36c292e4937ee48522539624049",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/49/4.json",
+    "sha": "88e1ddf42c65b8e8a9d7e627a7e4415279bebe6f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder1905/49/5.json",
+    "sha": "13da408525d945cfa8ebf47cd917a0bfa93fcb30",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Epheser",
+    "book_nr": "49",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/elberfelder1905/49/6.json",
+    "sha": "a5a5d1a16e7af433bbbb0c91bce81b514d3316ef",
+    "id": "6"
+  }
+}

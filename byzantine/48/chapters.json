@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/byzantine/48/1.json",
+    "sha": "c62cf9ba6b9357a290cee1407e304a1ceb5ed1a6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/byzantine/48/2.json",
+    "sha": "1af8ca1205306725b0fb32f7e9abb2b0d7fcf195",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/byzantine/48/3.json",
+    "sha": "3d51a563b47c036733feea0a34ed4588e223cdbb",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/byzantine/48/4.json",
+    "sha": "5dcb91d012d8757127414ed4767528af004cd865",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/byzantine/48/5.json",
+    "sha": "ae842e95e1855eab374986dbe7865330d237f5eb",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "language": "Greek",
+    "translation": "NT Byzantine Majority Text (2000)",
+    "abbreviation": "byzantine",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/byzantine/48/6.json",
+    "sha": "a49004da3a52ce2cdbae61cc92def646a533a4b1",
+    "id": "6"
+  }
+}

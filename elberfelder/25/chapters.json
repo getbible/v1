@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/25/1.json",
+    "sha": "61e64a25a1868da09e362402e849ace0951a1a8a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/25/2.json",
+    "sha": "cc36f4fe99e0770ae201e0aad0302ecb406e9880",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/25/3.json",
+    "sha": "dcd41ea8b17d5ca1e51d85ce620e31bb80d4cf0f",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/25/4.json",
+    "sha": "55e9f7be082ac42d5321ca65afe4b413d665185c",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Klagelieder",
+    "book_nr": "25",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/25/5.json",
+    "sha": "77e0508b3fbeee554132f386d4987093bc61233f",
+    "id": "5"
+  }
+}

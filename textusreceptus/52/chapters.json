@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/textusreceptus/52/1.json",
+    "sha": "37568d9792275b1bb9d8406e0cf41e5e83aad918",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/textusreceptus/52/2.json",
+    "sha": "da68258f3d0008b311fcd166dafdc3ec316b7720",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/textusreceptus/52/3.json",
+    "sha": "3e9eeec06e630f6e04001f6e99b197f349ea4f7d",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/textusreceptus/52/4.json",
+    "sha": "b7daefe837658251736b85c8467bd52599160c27",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Greek",
+    "translation": "NT Textus Receptus (1550 1894) Parsed",
+    "abbreviation": "textusreceptus",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/textusreceptus/52/5.json",
+    "sha": "1267716126fc07ecd9f1ea45d36ba5b29282d213",
+    "id": "5"
+  }
+}

@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Czech	Czech BKR	bkr	LTR	Genesis	1	534f4afa1b3dd45d5ec53b57e1045d7b57fd838a
+2	Czech	Czech BKR	bkr	LTR	Exodus	2	edfb2ae5b8a41521b08a73d0663b50f1312f597e
+3	Czech	Czech BKR	bkr	LTR	Leviticus	3	8d90eafa544be93a58b63d3e6b7a2db605cfa592
+4	Czech	Czech BKR	bkr	LTR	Numbers	4	7b44cfe353723db3ed6e5c812beb3f63037d8d1c
+5	Czech	Czech BKR	bkr	LTR	Deuteronomy	5	8ddcae522a21ee8f1390bfe71a49fcb93282e1a2
+6	Czech	Czech BKR	bkr	LTR	Joshua	6	dd6982195fcaa6d8eff09e7efa3382359505ad77
+7	Czech	Czech BKR	bkr	LTR	Judges	7	ee611bde83eb059fc78f91b99395fa3293c516e7
+8	Czech	Czech BKR	bkr	LTR	Ruth	8	254a582a60f008867d97017731167cd1f203647d
+9	Czech	Czech BKR	bkr	LTR	1 Samuel	9	ef22e037f689f57e54dd22860199153d2d11b0bb
+10	Czech	Czech BKR	bkr	LTR	2 Samuel	10	4aa3a218d72a8299dddd6ca9cf54e80f0599cd31
+11	Czech	Czech BKR	bkr	LTR	1 Kings	11	ece64af81dba9ada7c307d2dd5151f1c21d18764
+12	Czech	Czech BKR	bkr	LTR	2 Kings	12	6a6976cc61e09219449a15705c215ef299875609
+13	Czech	Czech BKR	bkr	LTR	1 Chronicles	13	2c794d1b88f056b26798cccbcc1b002a2b510e6c
+14	Czech	Czech BKR	bkr	LTR	2 Chronicles	14	b3cfd1a29c6ff0edb558e77ff439e3fabc62d943
+15	Czech	Czech BKR	bkr	LTR	Ezra	15	d88c473e268bcd6319c2975eacb8cf7d4f3d893f
+16	Czech	Czech BKR	bkr	LTR	Nehemiah	16	75bb8dd6ce58111f0b47f2063d29e0e1cf6d19f9
+17	Czech	Czech BKR	bkr	LTR	Esther	17	275a3fc4a61f5841be8daf9ef2331010772d32db
+18	Czech	Czech BKR	bkr	LTR	Job	18	f5d96e9c07b9db3893005a7197534d41700c5c32
+19	Czech	Czech BKR	bkr	LTR	Psalms	19	cf2496a9bd751466292b3286470ab48b6997b417
+20	Czech	Czech BKR	bkr	LTR	Proverbs	20	2c65844a6897334a9e171dd512a0d7cbb92b947f
+21	Czech	Czech BKR	bkr	LTR	Ecclesiastes	21	085e06e36533ae43e437fc0ae2567288835e07e8
+22	Czech	Czech BKR	bkr	LTR	Song of Songs	22	8fac537012e7312f77f0bf5a099bf4594caea171
+23	Czech	Czech BKR	bkr	LTR	Isaiah	23	e2219ca181d35fb353147ced115e0746c5947212
+24	Czech	Czech BKR	bkr	LTR	Jeremiah	24	4a514e10303322e51f372424f816d7e852383cb4
+25	Czech	Czech BKR	bkr	LTR	Lamentations	25	036843384b78270556606e2d3d0651742445325d
+26	Czech	Czech BKR	bkr	LTR	Ezekiel	26	1d812de5d2e19eb98ed0586aee810d6c4b57abdb
+27	Czech	Czech BKR	bkr	LTR	Daniel	27	50726322dc64d22796570c90465c21b6e50e35df
+28	Czech	Czech BKR	bkr	LTR	Hosea	28	9c05ee91b16538b0270ec19272565d52ef6ec465
+29	Czech	Czech BKR	bkr	LTR	Joel	29	46f6e0d9397b9c2d9287b93aadbeed950e91f2b4
+30	Czech	Czech BKR	bkr	LTR	Amos	30	4214c4a3861d72a6ba5117e107a93108f6f7ba24
+31	Czech	Czech BKR	bkr	LTR	Obadiah	31	77c37f46d463946333b7e16ae1346d74c2258a85
+32	Czech	Czech BKR	bkr	LTR	Jonah	32	cc5c0a92423c5eb55f9da5343f34590962fb71c8
+33	Czech	Czech BKR	bkr	LTR	Micah	33	c8b30cee2e4fe12c5ce20680aff59a07858487ec
+34	Czech	Czech BKR	bkr	LTR	Nahum	34	1aa1e7993ea95d626a198122b74549cb3c5fdeeb
+35	Czech	Czech BKR	bkr	LTR	Habakkuk	35	413b25efac3bb30b8fbc56299002e766d3d525d3
+36	Czech	Czech BKR	bkr	LTR	Zephaniah	36	19cdd95337c8b15074b38ff45d07aed4f8288d02
+37	Czech	Czech BKR	bkr	LTR	Haggai	37	aa2d54afebe42799efa00c1f2d5805ad8e29725c
+38	Czech	Czech BKR	bkr	LTR	Zechariah	38	c96adcdaf579205a6d300a32e90979075e5d4198
+39	Czech	Czech BKR	bkr	LTR	Malachi	39	a76332f9a05f99fb69f45966777415c66ae3812e
+40	Czech	Czech BKR	bkr	LTR	Matthew	40	ebd0d5f2574b8ca8faa19cd9842f6d6d8f94ee8d
+41	Czech	Czech BKR	bkr	LTR	Mark	41	258f22fa0083bd8a1442a3e27a11b44315fc2799
+42	Czech	Czech BKR	bkr	LTR	Luke	42	74600dd082f7c0a0fe92ce43591fc3671087d1a9
+43	Czech	Czech BKR	bkr	LTR	John	43	0d8f7529e4f2cf400bae1114e1863d198b64d708
+44	Czech	Czech BKR	bkr	LTR	Acts	44	cd1f227929bfdd0abbe042ea2e6804dc8b386973
+45	Czech	Czech BKR	bkr	LTR	Romans	45	e53f8795fc9e5fa185dd19b684efeb6d6ba4573b
+46	Czech	Czech BKR	bkr	LTR	1 Corinthians	46	29ecdfaa0c084b317f583b846c1da5bea1cc2be4
+47	Czech	Czech BKR	bkr	LTR	2 Corinthians	47	5428763c997cdf6a82c9cf9185b056f2784cc0aa
+48	Czech	Czech BKR	bkr	LTR	Galatians	48	bb71874f38d3f26d1bc2e946311485d55dc94bb0
+49	Czech	Czech BKR	bkr	LTR	Ephesians	49	f16dd8ef92698b4d7477c56059bb646289c895f5
+50	Czech	Czech BKR	bkr	LTR	Philippians	50	92fc5a28d5900143a1aa8a0342962919a1492883
+51	Czech	Czech BKR	bkr	LTR	Colossians	51	e16347b401fe7c7ccaec453df74e5469fbc780d3
+52	Czech	Czech BKR	bkr	LTR	1 Thessalonians	52	7cd910f3652014ba65f29517a75ce4eb099e2f2d
+53	Czech	Czech BKR	bkr	LTR	2 Thessalonians	53	7229d169ec9e9d045a8bc31ab7ad9c2027c26677
+54	Czech	Czech BKR	bkr	LTR	1 Timothy	54	cb50bea1ca9884f4001d2138cf0a8515e6a5af18
+55	Czech	Czech BKR	bkr	LTR	2 Timothy	55	79678ece3f995858c1cde2ce65e3ca8ace08c58e
+56	Czech	Czech BKR	bkr	LTR	Titus	56	418f01214cf071331a1cb036d9412681a5d4c852
+57	Czech	Czech BKR	bkr	LTR	Philemon	57	6facd5cdd2cde7b7e9b2f53bc2fc511f424ae2c8
+58	Czech	Czech BKR	bkr	LTR	Hebrews	58	a92ecf36aa455cfb00aa48f43ab21304ef8ef32d
+59	Czech	Czech BKR	bkr	LTR	James	59	b023c7ace869ecbaab24bc116f407bd577b799b0
+60	Czech	Czech BKR	bkr	LTR	1 Peter	60	b5f4a4d357ed1904e283b82191b30dc1d4ec4a55
+61	Czech	Czech BKR	bkr	LTR	2 Peter	61	78ce52ec8d7f00c5c5e2a9a72fd7ed65ceb71c9f
+62	Czech	Czech BKR	bkr	LTR	1 John	62	3f3a0997406fba1d5d2bf95db8306107475fa978
+63	Czech	Czech BKR	bkr	LTR	2 John	63	c3c5c2f5e7bfab29537c7a491dbcc1ed53f9ec41
+64	Czech	Czech BKR	bkr	LTR	3 John	64	0088e4a506606bcfcf9cba07def0e470ed6cfe2c
+65	Czech	Czech BKR	bkr	LTR	Jude	65	ed2597301b08933c4dd78c182ca7950ed84a2d16
+66	Czech	Czech BKR	bkr	LTR	Revelation	66	68eb55c6c121449494f48008176316b9606b0d62
+

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/52/1.json",
+    "sha": "1fe2a28836c49551e67776340bc480c0eefd72f2",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/latvian/52/2.json",
+    "sha": "c58c9bb8b89c8a0f4c51ff3a057f6c261c9ddcb8",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/latvian/52/3.json",
+    "sha": "d8024371102e3c29e6354a74674181884b6bd1d8",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/latvian/52/4.json",
+    "sha": "e4f4c28f3f86a8c107e674608b44c84dbec759fa",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/latvian/52/5.json",
+    "sha": "4bdb44d76e0e641c5e2c2149ed3202f825fef9c9",
+    "id": "5"
+  }
+}

@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Czech	Czech CEP	cep	LTR	Genesis	1	0f89376ea60518e1647934d7b7bf8c1808cf10c9
+2	Czech	Czech CEP	cep	LTR	Exodus	2	e8dc43241c7b5366cbe9c7b294f2fc4f180f96b4
+3	Czech	Czech CEP	cep	LTR	Leviticus	3	3245784fa548b9db66d050d806c931fc76b4f099
+4	Czech	Czech CEP	cep	LTR	Numbers	4	3ab88f025b62fe896f8e17861d56d7327375be70
+5	Czech	Czech CEP	cep	LTR	Deuteronomy	5	132df12bae39eec5c208b9d99ee581063a74d298
+6	Czech	Czech CEP	cep	LTR	Joshua	6	b9616b76337c3af556ca71403e6f7a5a128dff07
+7	Czech	Czech CEP	cep	LTR	Judges	7	85bcd0eb003692bb470eb6633b605eb9f6b47f35
+8	Czech	Czech CEP	cep	LTR	Ruth	8	f40010d50334fb1aa0e6534bcee72059c285bbc8
+9	Czech	Czech CEP	cep	LTR	1 Samuel	9	12d62223bf954f6c9ffd84169863efcd60829ee8
+10	Czech	Czech CEP	cep	LTR	2 Samuel	10	ccfd942e9edabdf388110a288a7c6d02c57f9be7
+11	Czech	Czech CEP	cep	LTR	1 Kings	11	0ada9ace8166d129387a07feb83fcde3b0f4f029
+12	Czech	Czech CEP	cep	LTR	2 Kings	12	56842660f1dc56a8a7526fe84f4d77a5dfcd8b21
+13	Czech	Czech CEP	cep	LTR	1 Chronicles	13	9e49fcea353434a3086d70ac35a5f625b8f96beb
+14	Czech	Czech CEP	cep	LTR	2 Chronicles	14	87a7fa6d4b8285fbad47bbc78431aa83a285dd5f
+15	Czech	Czech CEP	cep	LTR	Ezra	15	64ceecd4469274b9ac9980212fd781da4449538c
+16	Czech	Czech CEP	cep	LTR	Nehemiah	16	298db5cb7366ea4670695cd051c33a0dfa398d6c
+17	Czech	Czech CEP	cep	LTR	Esther	17	03b326a8a971f498f744ffb12a09e715d4d55c35
+18	Czech	Czech CEP	cep	LTR	Job	18	2b7ae287715dcec94bc77a68b315421d665e33e7
+19	Czech	Czech CEP	cep	LTR	Psalms	19	b2e477c0aa6d310bc0633b5f53c92f57a8eacf3c
+20	Czech	Czech CEP	cep	LTR	Proverbs	20	171fe1a411034679ccaba33758108bd17e4fa254
+21	Czech	Czech CEP	cep	LTR	Ecclesiastes	21	8d1e4a984a1d6bae6a4776a08291e9238490dc6b
+22	Czech	Czech CEP	cep	LTR	Song of Songs	22	41b9de6d95aa61bf0147ca61dee1522f0521fdba
+23	Czech	Czech CEP	cep	LTR	Isaiah	23	91398f2a189e7d3ca1c66088d2c70452d2a6af0e
+24	Czech	Czech CEP	cep	LTR	Jeremiah	24	8721069f3e44179eec825bf3eadca2628d5008fa
+25	Czech	Czech CEP	cep	LTR	Lamentations	25	e870b792f124561a3cb26d651bf81d97860a3715
+26	Czech	Czech CEP	cep	LTR	Ezekiel	26	39bdd07f04d1fbf7993951419662b3a634ca0307
+27	Czech	Czech CEP	cep	LTR	Daniel	27	68aa95566adb7bd90a6f9fe464d2331961694a79
+28	Czech	Czech CEP	cep	LTR	Hosea	28	1d6210d8ad0f923f2c231f22a35316f9224a5090
+29	Czech	Czech CEP	cep	LTR	Joel	29	e4e8a5b26cd6b7e511af3440ecc350ba93b5cf0f
+30	Czech	Czech CEP	cep	LTR	Amos	30	a8f526a3af0e03c20f0c49b274b7a9957a90a2cf
+31	Czech	Czech CEP	cep	LTR	Obadiah	31	81dbff5fe9808c4ded8783d48de2df5cb3491607
+32	Czech	Czech CEP	cep	LTR	Jonah	32	eadbb70abdd1954164c176e1d9265af74be68798
+33	Czech	Czech CEP	cep	LTR	Micah	33	38e518b7d3ca1e6d2d702d3da147ad0d39261ac8
+34	Czech	Czech CEP	cep	LTR	Nahum	34	dfcba22c1acccb117774b4e0315d273c2cd2005a
+35	Czech	Czech CEP	cep	LTR	Habakkuk	35	101582451498fbd4b06adcfdc986ece5c5440927
+36	Czech	Czech CEP	cep	LTR	Zephaniah	36	d506ace3c3c5858f69ea77e85f41552469f21f8c
+37	Czech	Czech CEP	cep	LTR	Haggai	37	cf3826ad160d05322a4423d20dc120010ab772c7
+38	Czech	Czech CEP	cep	LTR	Zechariah	38	3247bc5f1144b761e9f13a4b289eaad078c90043
+39	Czech	Czech CEP	cep	LTR	Malachi	39	8e7873aa0c14747179da48f087454a5d457c0989
+40	Czech	Czech CEP	cep	LTR	Matthew	40	d46a85ed37315d7380e45c87814b5336e3c642ea
+41	Czech	Czech CEP	cep	LTR	Mark	41	58e40f0f2db9173133f7660960a68542c7938db0
+42	Czech	Czech CEP	cep	LTR	Luke	42	60329c34e51a7d09ec2d05f1244b00bc8607531b
+43	Czech	Czech CEP	cep	LTR	John	43	7f2f3a1f601a9f0621b6f303e1ef67463a724a59
+44	Czech	Czech CEP	cep	LTR	Acts	44	e227b17fb3e9b1e445c352448b07b9c59cf10eb3
+45	Czech	Czech CEP	cep	LTR	Romans	45	14a8821ff72973cf95b50f59024170c1185c9223
+46	Czech	Czech CEP	cep	LTR	1 Corinthians	46	db4d018b410095bbd2dcc5941388c85bc93ac385
+47	Czech	Czech CEP	cep	LTR	2 Corinthians	47	4fdc8813e5f6164622f99e085314786d0cc935ee
+48	Czech	Czech CEP	cep	LTR	Galatians	48	8245643d98cb16f506575d80c300c751fa154a39
+49	Czech	Czech CEP	cep	LTR	Ephesians	49	9bcf101a4e714bd13b1895bb615f72a30add4669
+50	Czech	Czech CEP	cep	LTR	Philippians	50	a1e7a4b0fa3e331bc8d65481108037453f099b8a
+51	Czech	Czech CEP	cep	LTR	Colossians	51	94879cd54236bd5e8f3694c69cb646228d3b6bdf
+52	Czech	Czech CEP	cep	LTR	1 Thessalonians	52	329cfb4c9c7e3f15070054421da9e906f56ffd00
+53	Czech	Czech CEP	cep	LTR	2 Thessalonians	53	720a5c21f567f345dd18835a3b121552a4d9aafc
+54	Czech	Czech CEP	cep	LTR	1 Timothy	54	7b746416dfb25620f317a184ee05942df4a0ff54
+55	Czech	Czech CEP	cep	LTR	2 Timothy	55	5a9850846985bea9142f3ab7318d5cb5b4a9cb8c
+56	Czech	Czech CEP	cep	LTR	Titus	56	c9cebd8d193da5e6f87b1ec07be2037ac3cafd45
+57	Czech	Czech CEP	cep	LTR	Philemon	57	4af95826dd3e348b169ce99288b5a426a106bbc7
+58	Czech	Czech CEP	cep	LTR	Hebrews	58	61b4fa51b626811ca560198f92064fc03c25b586
+59	Czech	Czech CEP	cep	LTR	James	59	3ee408f0078b9f4458ee59ffcbf5e38120e6c8a0
+60	Czech	Czech CEP	cep	LTR	1 Peter	60	230d057667f84e537b6b9d644b6a20d5402bb009
+61	Czech	Czech CEP	cep	LTR	2 Peter	61	e0313c02289c50fec63473b70661c848e310c49a
+62	Czech	Czech CEP	cep	LTR	1 John	62	489e837140e9b9a06dab2c93e0e11eb5cddfdcc2
+63	Czech	Czech CEP	cep	LTR	2 John	63	cfbae61f2bfa158e30ba737cf27fe729f584002f
+64	Czech	Czech CEP	cep	LTR	3 John	64	c7a49875565c8f2c197711004f23caace68f9b8f
+65	Czech	Czech CEP	cep	LTR	Jude	65	1582ffb339489437b347d32879eaebdbe7f9899e
+66	Czech	Czech CEP	cep	LTR	Revelation	66	d96359c4b3e6674f6d8b5071d66dbe1c17090143
+

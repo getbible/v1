@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/latvian/56/1.json",
+    "sha": "323195824db2143f330abf1ed635de39c97826e8",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/latvian/56/2.json",
+    "sha": "72551bd42d5edb95fd679c1dfb0c4d9d01a11983",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Titus",
+    "book_nr": "56",
+    "language": "Latvian",
+    "translation": "New Testament",
+    "abbreviation": "latvian",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/latvian/56/3.json",
+    "sha": "fc173e2a5efde7a8a689c9ecd92a849fffab0cbc",
+    "id": "3"
+  }
+}

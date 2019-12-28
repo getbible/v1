@@ -1,0 +1,80 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/48/1.json",
+    "sha": "801f544fc22931771e01884f4b585b3f22567d4a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/48/2.json",
+    "sha": "ac045c844cf1e146e3774f0b973b7d10978eb777",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/48/3.json",
+    "sha": "72368fab4667bfa3d398deb3e2268f5e4e507fe2",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/aov/48/4.json",
+    "sha": "884d4ae38a86b1a7fe5f8df702115f4551d21219",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/aov/48/5.json",
+    "sha": "4f109173a6f8ea59e711716377e6d40a529a64de",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Galasiërs",
+    "book_nr": "48",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/aov/48/6.json",
+    "sha": "d72b40542a4065c9f73f4d759d4260b27c5274b8",
+    "id": "6"
+  }
+}

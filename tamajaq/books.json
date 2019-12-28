@@ -1,0 +1,112 @@
+{
+  "1": {
+    "name": "Genesis",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/tamajaq/1.json",
+    "sha": "14aeec959da2925a55c18e7c254fb076f1fc85f9",
+    "id": "1"
+  },
+  "2": {
+    "name": "Exodus",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/tamajaq/2.json",
+    "sha": "06583ecb4d49be7abbefd7aa6d965bb53dfbfbac",
+    "id": "2"
+  },
+  "8": {
+    "name": "Ruth",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "8",
+    "url": "https://getbible.net/v1/tamajaq/8.json",
+    "sha": "28358132b1d90947b6886d946aea5af9d18c512d",
+    "id": "8"
+  },
+  "32": {
+    "name": "Jonah",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "32",
+    "url": "https://getbible.net/v1/tamajaq/32.json",
+    "sha": "81948aa6735d83eba8719694fe861c0a6c4aed9a",
+    "id": "32"
+  },
+  "43": {
+    "name": "John",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "43",
+    "url": "https://getbible.net/v1/tamajaq/43.json",
+    "sha": "128fe573ff0933e78a70b984015db62edf290e5f",
+    "id": "43"
+  },
+  "56": {
+    "name": "Titus",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "56",
+    "url": "https://getbible.net/v1/tamajaq/56.json",
+    "sha": "83f206e4e26543b107b4a4f8bbfc798293ea0193",
+    "id": "56"
+  },
+  "57": {
+    "name": "Philemon",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "57",
+    "url": "https://getbible.net/v1/tamajaq/57.json",
+    "sha": "c0b91e4a5059ddedab1fd4cecef731dfe285b629",
+    "id": "57"
+  },
+  "62": {
+    "name": "1 John",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "62",
+    "url": "https://getbible.net/v1/tamajaq/62.json",
+    "sha": "b8b34f604d281646fcb119af253a5c26c6d65a72",
+    "id": "62"
+  },
+  "63": {
+    "name": "2 John",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "63",
+    "url": "https://getbible.net/v1/tamajaq/63.json",
+    "sha": "782f8cc47bb0b51f4ae5dd16f0f06035cfc6aca3",
+    "id": "63"
+  },
+  "64": {
+    "name": "3 John",
+    "language": "Tamajaq",
+    "translation": "Tamajaq Portions",
+    "abbreviation": "tamajaq",
+    "textdirection": "LTR",
+    "filename": "64",
+    "url": "https://getbible.net/v1/tamajaq/64.json",
+    "sha": "c6684dff40bc765624ac7766522f3c55bed0a98f",
+    "id": "64"
+  }
+}

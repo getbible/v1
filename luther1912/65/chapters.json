@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Judas",
+    "book_nr": "65",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/65/1.json",
+    "sha": "0281ee261ebccb4f8e9d6e996881f373bacfa53d",
+    "id": "1"
+  }
+}

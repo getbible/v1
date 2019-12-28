@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Joël",
+    "book_nr": "29",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/29/1.json",
+    "sha": "18b0bf87fa6492d8ad6ee1a2dfff67c7d6a5da22",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Joël",
+    "book_nr": "29",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/29/2.json",
+    "sha": "44461319461324d9a4f5f3fe9c240e3bceeba25f",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Joël",
+    "book_nr": "29",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/29/3.json",
+    "sha": "dac552227b4fe09cf8a6cd557597ca12f44bc9e8",
+    "id": "3"
+  }
+}

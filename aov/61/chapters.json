@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "2 Petrus",
+    "book_nr": "61",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/61/1.json",
+    "sha": "6f713c4defea589f73c066d20598680e6f20dae5",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "2 Petrus",
+    "book_nr": "61",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/61/2.json",
+    "sha": "f00c79eaa52a8b3766c35f295e6b5b04d22d141a",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "2 Petrus",
+    "book_nr": "61",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/61/3.json",
+    "sha": "aa8ffd79ce8d818a5938a88b1dda73696610a0bc",
+    "id": "3"
+  }
+}

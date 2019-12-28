@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/62/1.json",
+    "sha": "a09dde336d95b24a705d401a867821cb74c591fb",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/62/2.json",
+    "sha": "799dfe02c26b23e81fbcd9f2bec3a51b25230a52",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/62/3.json",
+    "sha": "2fb290f907dc7c817899eb679bd7062d599d36d4",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/62/4.json",
+    "sha": "de6adcab7a53d909257a06a25a843cf9e5061bc4",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/62/5.json",
+    "sha": "bf898f1e41965ea24d7bc2ce479df494e1e36f1c",
+    "id": "5"
+  }
+}

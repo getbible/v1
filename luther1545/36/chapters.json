@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/36/1.json",
+    "sha": "153aef3cbfa101b0ebcc36a4f9bc191e3857d871",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/36/2.json",
+    "sha": "c3722e7a4fa6a15ba45f4e3aae7017a76f4ed9e1",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Zefanja",
+    "book_nr": "36",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/36/3.json",
+    "sha": "142b8c48060a155ec75bb1d04458a11263b865d1",
+    "id": "3"
+  }
+}

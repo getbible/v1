@@ -1,0 +1,5 @@
+#	language	translation	abbreviation	textdirection	book_nr	book_name	filename	sha
+1	Greek	Textus Receptus	text	LTR	61	2 Peter	1	4afd8c9dd86976143003523d1718a92713f41df0
+2	Greek	Textus Receptus	text	LTR	61	2 Peter	2	b0336ea208b5f8b2b4dd10737ac2e39aec43c497
+3	Greek	Textus Receptus	text	LTR	61	2 Peter	3	e01f7f4ecea09cf240f5ae5fb95b68ba8ba703a1
+

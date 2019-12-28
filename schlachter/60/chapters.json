@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/60/1.json",
+    "sha": "5d1296edbc09f2b96f26c4554a6b36a2f4732a8a",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/60/2.json",
+    "sha": "ce98568e127365abd42b2b370363a32c545e4b31",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/60/3.json",
+    "sha": "5479cfa699c9dec2ab150aef5a2b5d21e68a033a",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/60/4.json",
+    "sha": "fe903be094938fb25423ac7a29efc2366fc3f441",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Petrus",
+    "book_nr": "60",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/schlachter/60/5.json",
+    "sha": "4f9b2855fb2775c2cd0047161399d5469482d7f6",
+    "id": "5"
+  }
+}

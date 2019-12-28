@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder1905/52/1.json",
+    "sha": "055e17e2b35c6b1c310ec98f76a07cc8924d5fe6",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder1905/52/2.json",
+    "sha": "46db94dae7c72baebe99560e586c63bed62ce2ae",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder1905/52/3.json",
+    "sha": "067b18177f4415dc0c189505d50a493892407f26",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder1905/52/4.json",
+    "sha": "7af77106a369968897c2c6b7c345d0dbf88d4471",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Elberfelder (1905)",
+    "abbreviation": "elberfelder1905",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder1905/52/5.json",
+    "sha": "7f138d7c3ae6ef15099791c77394de2e824bd778",
+    "id": "5"
+  }
+}

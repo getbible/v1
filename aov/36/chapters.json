@@ -1,0 +1,41 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Sefanja",
+    "book_nr": "36",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/aov/36/1.json",
+    "sha": "8c1b98fa0bfce1d13d6dda4e60f7e5b94a6071e4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Sefanja",
+    "book_nr": "36",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/aov/36/2.json",
+    "sha": "b9a63ddcc80765f34d6a14bcbcf4d616fa55b4e2",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Sefanja",
+    "book_nr": "36",
+    "language": "Afrikaans",
+    "translation": "Ou Vertaling",
+    "abbreviation": "aov",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/aov/36/3.json",
+    "sha": "5f0f52ba4d5a9244b1ea100cb018fb9fcd400741",
+    "id": "3"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/52/1.json",
+    "sha": "75c30214d37d99446336bb0379efaf9fc986ca04",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1545/52/2.json",
+    "sha": "e10b3986bc1b95e1bcaeb1853fa857ad1d229f2c",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1545/52/3.json",
+    "sha": "6d2c01cb917ce6ac038901e677a21f5fc6ba9890",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1545/52/4.json",
+    "sha": "b7ab42b24948b6502b6b3718ff36b9d2f2114794",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Thessalonicher",
+    "book_nr": "52",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1545/52/5.json",
+    "sha": "ad778363ad5564de471d1ba15990f0805ee7d245",
+    "id": "5"
+  }
+}

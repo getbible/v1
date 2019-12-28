@@ -1,0 +1,54 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/39/1.json",
+    "sha": "ecde7c76d06d6c90e1e6800c72bae9e5db950c61",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/schlachter/39/2.json",
+    "sha": "e6d59e60fe803732389361d316acef1f0dbfb00d",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/schlachter/39/3.json",
+    "sha": "99ec54be84083479344a8cde3a895a961028d82c",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Maleachi",
+    "book_nr": "39",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/schlachter/39/4.json",
+    "sha": "1fbbe7cc74ca1db25bf837d06ecf5821c787ee8d",
+    "id": "4"
+  }
+}

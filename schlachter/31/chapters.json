@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Obadja",
+    "book_nr": "31",
+    "language": "German",
+    "translation": "Schlachter (1951)",
+    "abbreviation": "schlachter",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/schlachter/31/1.json",
+    "sha": "283e70ee69d53ab40cf75899da40774107fca0a7",
+    "id": "1"
+  }
+}

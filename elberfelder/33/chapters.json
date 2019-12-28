@@ -1,0 +1,93 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/elberfelder/33/1.json",
+    "sha": "132b295d0fa7f8c30fb568df76d23cdf9041d9e1",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/elberfelder/33/2.json",
+    "sha": "5b05abce279c9cad834464b182a282e90f8f18e4",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/elberfelder/33/3.json",
+    "sha": "3092b8f59c7da00fd66b2023eb4910c32afc31ab",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/elberfelder/33/4.json",
+    "sha": "8e5983537c0e51971d3f6238f6ce88dbd7604bd5",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/elberfelder/33/5.json",
+    "sha": "da04453bf9d41dfef16a07b3c52e1d4b4742a77d",
+    "id": "5"
+  },
+  "6": {
+    "chapter": "6",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "6",
+    "url": "https://getbible.net/v1/elberfelder/33/6.json",
+    "sha": "6b0d6b5fac4fa2eeeff0b44ec043560a47adb065",
+    "id": "6"
+  },
+  "7": {
+    "chapter": "7",
+    "book_name": "Micha",
+    "book_nr": "33",
+    "language": "German",
+    "translation": "Elberfelder (1871)",
+    "abbreviation": "elberfelder",
+    "textdirection": "LTR",
+    "filename": "7",
+    "url": "https://getbible.net/v1/elberfelder/33/7.json",
+    "sha": "c68759d6426013ce37c7f7c88a9a2a325c2bd63c",
+    "id": "7"
+  }
+}

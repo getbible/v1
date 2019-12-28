@@ -1,0 +1,67 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1912/62/1.json",
+    "sha": "82c4d20c0cebb2c89d2ba855ed5a756b2715ece4",
+    "id": "1"
+  },
+  "2": {
+    "chapter": "2",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "2",
+    "url": "https://getbible.net/v1/luther1912/62/2.json",
+    "sha": "af38048e2d9f0d9c31e301c7d7a0a73640ba0ace",
+    "id": "2"
+  },
+  "3": {
+    "chapter": "3",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "3",
+    "url": "https://getbible.net/v1/luther1912/62/3.json",
+    "sha": "a8d95db5cf5c8b559103e010a6b8cf7e6b3be064",
+    "id": "3"
+  },
+  "4": {
+    "chapter": "4",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "4",
+    "url": "https://getbible.net/v1/luther1912/62/4.json",
+    "sha": "ad7eae638ca56e6dd71ede02105862a792bf104f",
+    "id": "4"
+  },
+  "5": {
+    "chapter": "5",
+    "book_name": "1. Johannes",
+    "book_nr": "62",
+    "language": "German",
+    "translation": "Luther (1912)",
+    "abbreviation": "luther1912",
+    "textdirection": "LTR",
+    "filename": "5",
+    "url": "https://getbible.net/v1/luther1912/62/5.json",
+    "sha": "520910b92ea94e1866c5eb325ebc80046f4225f5",
+    "id": "5"
+  }
+}

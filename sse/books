@@ -1,0 +1,68 @@
+#	language	translation	abbreviation	textdirection	name	filename	sha
+1	Spanish	Sagradas Escrituras (1569)	sse	LTR	Genesis	1	e8774745dc995870c1dcb96a3655499100a85d6e
+2	Spanish	Sagradas Escrituras (1569)	sse	LTR	Exodus	2	e87324a277ed5fefb570a5d3efde5818c30bc51d
+3	Spanish	Sagradas Escrituras (1569)	sse	LTR	Leviticus	3	555c2e8bd9dbef0b37cd2a056ebc7ab714419672
+4	Spanish	Sagradas Escrituras (1569)	sse	LTR	Numbers	4	348f4aeb0130885bfe011dde93a0a3418f0d0048
+5	Spanish	Sagradas Escrituras (1569)	sse	LTR	Deuteronomy	5	dc7fffe221bbd46ee9fb315b41a248c5f0102b0f
+6	Spanish	Sagradas Escrituras (1569)	sse	LTR	Joshua	6	b82b2aecc41a1e4f6bc0edfd02ba7cd4a3efd7d8
+7	Spanish	Sagradas Escrituras (1569)	sse	LTR	Judges	7	217ecf872963a0fcbcaddc4ebb31ab843c6bd67b
+8	Spanish	Sagradas Escrituras (1569)	sse	LTR	Ruth	8	b8c08976dff8a1d1c1d18cafad0d3984940f1498
+9	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Samuel	9	74b5865798a7eba25c69b55dda256c6e6d99f8a7
+10	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Samuel	10	e431aa7871125553714b207ea74dbb6ccdf3f69c
+11	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Kings	11	053a22a13ff15177aa2dedb8cc0c10606ab21add
+12	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Kings	12	74fe6524420390edf5a9448d20b6a46640738d8b
+13	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Chronicles	13	e89362deb538f52439c6e80d7bc473c9db8c5377
+14	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Chronicles	14	0a203efbc0185725d067199f835b816b83a642f2
+15	Spanish	Sagradas Escrituras (1569)	sse	LTR	Ezra	15	fbabe9080ebf6ed9c7a46b68babeb2b3a65d961b
+16	Spanish	Sagradas Escrituras (1569)	sse	LTR	Nehemiah	16	77a11b3aae4dadf17d0fbd0e0f94e1547d1120c4
+17	Spanish	Sagradas Escrituras (1569)	sse	LTR	Esther	17	a711e988e77616232f2ad51ce15878fdf5cb867f
+18	Spanish	Sagradas Escrituras (1569)	sse	LTR	Job	18	48ebac5cb8112589046c9925eee87bfcb641d260
+19	Spanish	Sagradas Escrituras (1569)	sse	LTR	Psalms	19	414610b9cbaeb673ee12a5c00bdf8e324f141c6b
+20	Spanish	Sagradas Escrituras (1569)	sse	LTR	Proverbs	20	0d291a17b2a6aefdacff6b9b3a64f8dc707e19b3
+21	Spanish	Sagradas Escrituras (1569)	sse	LTR	Ecclesiastes	21	4041afc1a25131f5f0d47e244d95ce81b6380dcb
+22	Spanish	Sagradas Escrituras (1569)	sse	LTR	Song of Songs	22	5bf50f620ec2634384c7e2f4cd6152edea839cfa
+23	Spanish	Sagradas Escrituras (1569)	sse	LTR	Isaiah	23	00585dd34632705d716b3e1d897da638a6a65865
+24	Spanish	Sagradas Escrituras (1569)	sse	LTR	Jeremiah	24	1ca8a6202936cf3ae024d2889a359b16ef5258a7
+25	Spanish	Sagradas Escrituras (1569)	sse	LTR	Lamentations	25	d5e03005af9bcbc9fca88ab9b472e68930abd7a7
+26	Spanish	Sagradas Escrituras (1569)	sse	LTR	Ezekiel	26	d8c3a15e00eed0cabb3c2ba8c69edca66653cdec
+27	Spanish	Sagradas Escrituras (1569)	sse	LTR	Daniel	27	5937078d624e22df36310252c84095f2748179ae
+28	Spanish	Sagradas Escrituras (1569)	sse	LTR	Hosea	28	440a90958468b93dfe232c437fd7cf0ea8bc4b0d
+29	Spanish	Sagradas Escrituras (1569)	sse	LTR	Joel	29	df02fd727b2f1b65c8c22d121b1af65d088966f2
+30	Spanish	Sagradas Escrituras (1569)	sse	LTR	Amos	30	2d29502c40d32feeec9b325d3c174d65a93f2883
+31	Spanish	Sagradas Escrituras (1569)	sse	LTR	Obadiah	31	3a7ed5fced9b7c4ff7ae9e22d6d51bcf9d01c19f
+32	Spanish	Sagradas Escrituras (1569)	sse	LTR	Jonah	32	c16fa16c363802625df5516be120881f8289d591
+33	Spanish	Sagradas Escrituras (1569)	sse	LTR	Micah	33	373cf5460fc34014ec900c8e12997748b386d129
+34	Spanish	Sagradas Escrituras (1569)	sse	LTR	Nahum	34	8aa9f924a6b7b272fbec9e2d91692f94d3342d66
+35	Spanish	Sagradas Escrituras (1569)	sse	LTR	Habakkuk	35	15d58f7aad716caf906341934de5e67952a0946a
+36	Spanish	Sagradas Escrituras (1569)	sse	LTR	Zephaniah	36	deba53cb85c593bee2fb40f3d0a7930bdc3c4fee
+37	Spanish	Sagradas Escrituras (1569)	sse	LTR	Haggai	37	9cb986504dee5327b350c857f6e4303d9e2acbd3
+38	Spanish	Sagradas Escrituras (1569)	sse	LTR	Zechariah	38	a5260dffc4ff0e6e4ede4f8d627da8d94145a20e
+39	Spanish	Sagradas Escrituras (1569)	sse	LTR	Malachi	39	123c4cf857b3b6f11e90cb9138b33987bb755a0f
+40	Spanish	Sagradas Escrituras (1569)	sse	LTR	Matthew	40	af1bbf41e462b10aef27b272dc1125cfcd8b252f
+41	Spanish	Sagradas Escrituras (1569)	sse	LTR	Mark	41	a524381299b6ca896721cfbdf0d1bece59d38a7d
+42	Spanish	Sagradas Escrituras (1569)	sse	LTR	Luke	42	f1bce43a45f1a5cee8014287bf2a0a77265c740a
+43	Spanish	Sagradas Escrituras (1569)	sse	LTR	John	43	9156677243c139c6161ea04213b985cf4d0e43bb
+44	Spanish	Sagradas Escrituras (1569)	sse	LTR	Acts	44	914be120629cac1b54bf9ca6a9b1183a455d9c1e
+45	Spanish	Sagradas Escrituras (1569)	sse	LTR	Romans	45	1255e066f78f647350195e66f2c401509d585f31
+46	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Corinthians	46	9d78b0fc7fe6fad04f6dadc018d92b09bf94e5d1
+47	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Corinthians	47	c805ac2f68ce4d2882b9f7412658a9e40ff8ce61
+48	Spanish	Sagradas Escrituras (1569)	sse	LTR	Galatians	48	f51e383e07f1b10678a40063f9e61614f1c43e65
+49	Spanish	Sagradas Escrituras (1569)	sse	LTR	Ephesians	49	c78433f314ad4d15c238b426461316b9cb98f6d1
+50	Spanish	Sagradas Escrituras (1569)	sse	LTR	Philippians	50	0e041b0adfe18db0d513a155e21df69669466117
+51	Spanish	Sagradas Escrituras (1569)	sse	LTR	Colossians	51	842657238fb1c417bd0ba3d82c410411b07d5bb9
+52	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Thessalonians	52	0c848beecef29fda951d728f149ef82e3c8cff59
+53	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Thessalonians	53	1153f321923e44f10e12be1202237845e58fba0a
+54	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Timothy	54	6eb3d7e5df1224e28ba04b1d44354aaf3969769f
+55	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Timothy	55	f5b592d60f6565253f7bdf5dc75f40ce4fe4d1dc
+56	Spanish	Sagradas Escrituras (1569)	sse	LTR	Titus	56	b4100e4018e61d58b1b6761f443c5d33e11f4be7
+57	Spanish	Sagradas Escrituras (1569)	sse	LTR	Philemon	57	3a24b3f5f6a1653e25fd53cf4a44b0558d2dde6b
+58	Spanish	Sagradas Escrituras (1569)	sse	LTR	Hebrews	58	b2b4b88b19845ad2a1639cd3117587fadecdaa52
+59	Spanish	Sagradas Escrituras (1569)	sse	LTR	James	59	897641cd481438b7c760e0af9bf376f89d39f898
+60	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 Peter	60	b101aef4d595a93cb005e8ca2bc69c74aa8752ce
+61	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 Peter	61	5c675b9ce5ce1cbacebbcac9b7b6f5786c205e2c
+62	Spanish	Sagradas Escrituras (1569)	sse	LTR	1 John	62	7c43b4f22ba4d1f19a20058e9d54afb196b65afa
+63	Spanish	Sagradas Escrituras (1569)	sse	LTR	2 John	63	0ecb693b54a5dccefbcf19c9b4201f66739ed21a
+64	Spanish	Sagradas Escrituras (1569)	sse	LTR	3 John	64	690ee5ce95e3c1ec8d9f01ab821b83b8cdc9429d
+65	Spanish	Sagradas Escrituras (1569)	sse	LTR	Jude	65	3adcf4b5fd47ce7844c8a0d539a6895382fb5d0e
+66	Spanish	Sagradas Escrituras (1569)	sse	LTR	Revelation	66	6630b40ef35d898eec9ac8652136eb8d91c409da
+

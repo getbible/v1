@@ -1,0 +1,15 @@
+{
+  "1": {
+    "chapter": "1",
+    "book_name": "3. Johannes",
+    "book_nr": "64",
+    "language": "German",
+    "translation": "Luther (1545)",
+    "abbreviation": "luther1545",
+    "textdirection": "LTR",
+    "filename": "1",
+    "url": "https://getbible.net/v1/luther1545/64/1.json",
+    "sha": "f7c62f7bc89f1b64ceb90397cc61712f379f718c",
+    "id": "1"
+  }
+}
